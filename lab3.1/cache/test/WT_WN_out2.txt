@@ -1,0 +1,4620 @@
+size: 32KB, set: 1, associativity: 1, block_size: 32768
+Total L1 access time: 265489ns
+Total Memory access time: 1704692ns
+Total Require Time: 1970181ns
+Total Require: 32793times, hit: 16711times, miss: 16082times
+Miss rate: 49.040954%
+
+size: 32KB, set: 2, associativity: 1, block_size: 16384
+Total L1 access time: 530918ns
+Total Memory access time: 3410020ns
+Total Require Time: 1970757ns
+Total Require: 32793times, hit: 16705times, miss: 16088times
+Miss rate: 49.059250%
+
+size: 32KB, set: 4, associativity: 1, block_size: 8192
+Total L1 access time: 795787ns
+Total Memory access time: 5121284ns
+Total Require Time: 1976133ns
+Total Require: 32793times, hit: 16649times, miss: 16144times
+Miss rate: 49.230019%
+
+size: 32KB, set: 8, associativity: 1, block_size: 4096
+Total L1 access time: 1059376ns
+Total Memory access time: 6846116ns
+Total Require Time: 1988421ns
+Total Require: 32793times, hit: 16521times, miss: 16272times
+Miss rate: 49.620346%
+
+size: 32KB, set: 16, associativity: 1, block_size: 2048
+Total L1 access time: 1320325ns
+Total Memory access time: 8598932ns
+Total Require Time: 2013765ns
+Total Require: 32793times, hit: 16257times, miss: 16536times
+Miss rate: 50.425396%
+
+size: 32KB, set: 32, associativity: 1, block_size: 1024
+Total L1 access time: 1576074ns
+Total Memory access time: 10406868ns
+Total Require Time: 2063685ns
+Total Require: 32793times, hit: 15737times, miss: 17056times
+Miss rate: 52.011100%
+
+size: 32KB, set: 64, associativity: 1, block_size: 512
+Total L1 access time: 1821273ns
+Total Memory access time: 12326634ns
+Total Require Time: 2164965ns
+Total Require: 32793times, hit: 14682times, miss: 18111times
+Miss rate: 55.228250%
+
+size: 32KB, set: 128, associativity: 1, block_size: 256
+Total L1 access time: 2045432ns
+Total Memory access time: 14469424ns
+Total Require Time: 2366949ns
+Total Require: 32793times, hit: 12578times, miss: 20215times
+Miss rate: 61.644253%
+
+size: 32KB, set: 256, associativity: 1, block_size: 128
+Total L1 access time: 2227631ns
+Total Memory access time: 17056990ns
+Total Require Time: 2769765ns
+Total Require: 32793times, hit: 8382times, miss: 24411times
+Miss rate: 74.439667%
+
+size: 32KB, set: 512, associativity: 1, block_size: 64
+Total L1 access time: 2326010ns
+Total Memory access time: 20533048ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 1, associativity: 2, block_size: 16384
+Total L1 access time: 2591649ns
+Total Memory access time: 22236150ns
+Total Require Time: 1968741ns
+Total Require: 32793times, hit: 16726times, miss: 16067times
+Miss rate: 48.995212%
+
+size: 32KB, set: 2, associativity: 2, block_size: 8192
+Total L1 access time: 2856678ns
+Total Memory access time: 23945718ns
+Total Require Time: 1974597ns
+Total Require: 32793times, hit: 16665times, miss: 16128times
+Miss rate: 49.181228%
+
+size: 32KB, set: 4, associativity: 2, block_size: 4096
+Total L1 access time: 3120417ns
+Total Memory access time: 25668960ns
+Total Require Time: 1986981ns
+Total Require: 32793times, hit: 16536times, miss: 16257times
+Miss rate: 49.574604%
+
+size: 32KB, set: 8, associativity: 2, block_size: 2048
+Total L1 access time: 3381456ns
+Total Memory access time: 27420822ns
+Total Require Time: 2012901ns
+Total Require: 32793times, hit: 16266times, miss: 16527times
+Miss rate: 50.397951%
+
+size: 32KB, set: 16, associativity: 2, block_size: 1024
+Total L1 access time: 3637255ns
+Total Memory access time: 29228228ns
+Total Require Time: 2063205ns
+Total Require: 32793times, hit: 15742times, miss: 17051times
+Miss rate: 51.995853%
+
+size: 32KB, set: 32, associativity: 2, block_size: 512
+Total L1 access time: 3882504ns
+Total Memory access time: 31147464ns
+Total Require Time: 2164485ns
+Total Require: 32793times, hit: 14687times, miss: 18106times
+Miss rate: 55.213003%
+
+size: 32KB, set: 64, associativity: 2, block_size: 256
+Total L1 access time: 4106713ns
+Total Memory access time: 33289724ns
+Total Require Time: 2366469ns
+Total Require: 32793times, hit: 12583times, miss: 20210times
+Miss rate: 61.629006%
+
+size: 32KB, set: 128, associativity: 2, block_size: 128
+Total L1 access time: 4288962ns
+Total Memory access time: 35876760ns
+Total Require Time: 2769285ns
+Total Require: 32793times, hit: 8387times, miss: 24406times
+Miss rate: 74.424420%
+
+size: 32KB, set: 256, associativity: 2, block_size: 64
+Total L1 access time: 4387341ns
+Total Memory access time: 39352818ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 512, associativity: 2, block_size: 32
+Total L1 access time: 4485720ns
+Total Memory access time: 42828876ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 1, associativity: 4, block_size: 8192
+Total L1 access time: 4750859ns
+Total Memory access time: 44537278ns
+Total Require Time: 1973541ns
+Total Require: 32793times, hit: 16676times, miss: 16117times
+Miss rate: 49.147684%
+
+size: 32KB, set: 2, associativity: 4, block_size: 4096
+Total L1 access time: 5014678ns
+Total Memory access time: 46259672ns
+Total Require Time: 1986213ns
+Total Require: 32793times, hit: 16544times, miss: 16249times
+Miss rate: 49.550209%
+
+size: 32KB, set: 4, associativity: 4, block_size: 2048
+Total L1 access time: 5275797ns
+Total Memory access time: 48010686ns
+Total Require Time: 2012133ns
+Total Require: 32793times, hit: 16274times, miss: 16519times
+Miss rate: 50.373555%
+
+size: 32KB, set: 8, associativity: 4, block_size: 1024
+Total L1 access time: 5531686ns
+Total Memory access time: 49817138ns
+Total Require Time: 2062341ns
+Total Require: 32793times, hit: 15751times, miss: 17042times
+Miss rate: 51.968408%
+
+size: 32KB, set: 16, associativity: 4, block_size: 512
+Total L1 access time: 5777025ns
+Total Memory access time: 51735420ns
+Total Require Time: 2163621ns
+Total Require: 32793times, hit: 14696times, miss: 18097times
+Miss rate: 55.185558%
+
+size: 32KB, set: 32, associativity: 4, block_size: 256
+Total L1 access time: 6001324ns
+Total Memory access time: 53876726ns
+Total Require Time: 2365605ns
+Total Require: 32793times, hit: 12592times, miss: 20201times
+Miss rate: 61.601561%
+
+size: 32KB, set: 64, associativity: 4, block_size: 128
+Total L1 access time: 6183663ns
+Total Memory access time: 56462808ns
+Total Require Time: 2768421ns
+Total Require: 32793times, hit: 8396times, miss: 24397times
+Miss rate: 74.396975%
+
+size: 32KB, set: 128, associativity: 4, block_size: 64
+Total L1 access time: 6282042ns
+Total Memory access time: 59938866ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 256, associativity: 4, block_size: 32
+Total L1 access time: 6380421ns
+Total Memory access time: 63414924ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 512, associativity: 4, block_size: 16
+Total L1 access time: 6478800ns
+Total Memory access time: 66890982ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 1, associativity: 8, block_size: 4096
+Total L1 access time: 6742619ns
+Total Memory access time: 68613376ns
+Total Require Time: 1986213ns
+Total Require: 32793times, hit: 16544times, miss: 16249times
+Miss rate: 49.550209%
+
+size: 32KB, set: 2, associativity: 8, block_size: 2048
+Total L1 access time: 7003738ns
+Total Memory access time: 70364390ns
+Total Require Time: 2012133ns
+Total Require: 32793times, hit: 16274times, miss: 16519times
+Miss rate: 50.373555%
+
+size: 32KB, set: 4, associativity: 8, block_size: 1024
+Total L1 access time: 7259647ns
+Total Memory access time: 72170630ns
+Total Require Time: 2062149ns
+Total Require: 32793times, hit: 15753times, miss: 17040times
+Miss rate: 51.962309%
+
+size: 32KB, set: 8, associativity: 8, block_size: 512
+Total L1 access time: 7505006ns
+Total Memory access time: 74088700ns
+Total Require Time: 2163429ns
+Total Require: 32793times, hit: 14698times, miss: 18095times
+Miss rate: 55.179459%
+
+size: 32KB, set: 16, associativity: 8, block_size: 256
+Total L1 access time: 7729325ns
+Total Memory access time: 76229794ns
+Total Require Time: 2365413ns
+Total Require: 32793times, hit: 12594times, miss: 20199times
+Miss rate: 61.595462%
+
+size: 32KB, set: 32, associativity: 8, block_size: 128
+Total L1 access time: 7911684ns
+Total Memory access time: 78815664ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 32KB, set: 64, associativity: 8, block_size: 64
+Total L1 access time: 8010063ns
+Total Memory access time: 82291722ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 128, associativity: 8, block_size: 32
+Total L1 access time: 8108442ns
+Total Memory access time: 85767780ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 256, associativity: 8, block_size: 16
+Total L1 access time: 8206821ns
+Total Memory access time: 89243838ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 512, associativity: 8, block_size: 8
+Total L1 access time: 8305200ns
+Total Memory access time: 92719896ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 1, associativity: 16, block_size: 2048
+Total L1 access time: 8566319ns
+Total Memory access time: 94470910ns
+Total Require Time: 2012133ns
+Total Require: 32793times, hit: 16274times, miss: 16519times
+Miss rate: 50.373555%
+
+size: 32KB, set: 2, associativity: 16, block_size: 1024
+Total L1 access time: 8822208ns
+Total Memory access time: 96277362ns
+Total Require Time: 2062341ns
+Total Require: 32793times, hit: 15751times, miss: 17042times
+Miss rate: 51.968408%
+
+size: 32KB, set: 4, associativity: 16, block_size: 512
+Total L1 access time: 9067547ns
+Total Memory access time: 98195644ns
+Total Require Time: 2163621ns
+Total Require: 32793times, hit: 14696times, miss: 18097times
+Miss rate: 55.185558%
+
+size: 32KB, set: 8, associativity: 16, block_size: 256
+Total L1 access time: 9291846ns
+Total Memory access time: 100336950ns
+Total Require Time: 2365605ns
+Total Require: 32793times, hit: 12592times, miss: 20201times
+Miss rate: 61.601561%
+
+size: 32KB, set: 16, associativity: 16, block_size: 128
+Total L1 access time: 9474185ns
+Total Memory access time: 102923032ns
+Total Require Time: 2768421ns
+Total Require: 32793times, hit: 8396times, miss: 24397times
+Miss rate: 74.396975%
+
+size: 32KB, set: 32, associativity: 16, block_size: 64
+Total L1 access time: 9572564ns
+Total Memory access time: 106399090ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 64, associativity: 16, block_size: 32
+Total L1 access time: 9670943ns
+Total Memory access time: 109875148ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 128, associativity: 16, block_size: 16
+Total L1 access time: 9769322ns
+Total Memory access time: 113351206ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 256, associativity: 16, block_size: 8
+Total L1 access time: 9867701ns
+Total Memory access time: 116827264ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 512, associativity: 16, block_size: 4
+Total L1 access time: 9966080ns
+Total Memory access time: 120303322ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 1, associativity: 32, block_size: 1024
+Total L1 access time: 10221969ns
+Total Memory access time: 122109774ns
+Total Require Time: 2062341ns
+Total Require: 32793times, hit: 15751times, miss: 17042times
+Miss rate: 51.968408%
+
+size: 32KB, set: 2, associativity: 32, block_size: 512
+Total L1 access time: 10467308ns
+Total Memory access time: 124028056ns
+Total Require Time: 2163621ns
+Total Require: 32793times, hit: 14696times, miss: 18097times
+Miss rate: 55.185558%
+
+size: 32KB, set: 4, associativity: 32, block_size: 256
+Total L1 access time: 10691607ns
+Total Memory access time: 126169362ns
+Total Require Time: 2365605ns
+Total Require: 32793times, hit: 12592times, miss: 20201times
+Miss rate: 61.601561%
+
+size: 32KB, set: 8, associativity: 32, block_size: 128
+Total L1 access time: 10873946ns
+Total Memory access time: 128755444ns
+Total Require Time: 2768421ns
+Total Require: 32793times, hit: 8396times, miss: 24397times
+Miss rate: 74.396975%
+
+size: 32KB, set: 16, associativity: 32, block_size: 64
+Total L1 access time: 10972325ns
+Total Memory access time: 132231502ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 32, associativity: 32, block_size: 32
+Total L1 access time: 11070704ns
+Total Memory access time: 135707560ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 64, associativity: 32, block_size: 16
+Total L1 access time: 11169083ns
+Total Memory access time: 139183618ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 128, associativity: 32, block_size: 8
+Total L1 access time: 11267462ns
+Total Memory access time: 142659676ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 256, associativity: 32, block_size: 4
+Total L1 access time: 11365841ns
+Total Memory access time: 146135734ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 32KB, set: 512, associativity: 32, block_size: 2
+Total L1 access time: 11464220ns
+Total Memory access time: 149611792ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 1, associativity: 1, block_size: 65536
+Total L1 access time: 11729959ns
+Total Memory access time: 151313834ns
+Total Require Time: 1967781ns
+Total Require: 32793times, hit: 16736times, miss: 16057times
+Miss rate: 48.964718%
+
+size: 64KB, set: 2, associativity: 1, block_size: 32768
+Total L1 access time: 11995808ns
+Total Memory access time: 153014710ns
+Total Require Time: 1966725ns
+Total Require: 32793times, hit: 16747times, miss: 16046times
+Miss rate: 48.931174%
+
+size: 64KB, set: 4, associativity: 1, block_size: 16384
+Total L1 access time: 12261497ns
+Total Memory access time: 154717282ns
+Total Require Time: 1968261ns
+Total Require: 32793times, hit: 16731times, miss: 16062times
+Miss rate: 48.979965%
+
+size: 64KB, set: 8, associativity: 1, block_size: 8192
+Total L1 access time: 12526606ns
+Total Memory access time: 156426002ns
+Total Require Time: 1973829ns
+Total Require: 32793times, hit: 16673times, miss: 16120times
+Miss rate: 49.156832%
+
+size: 64KB, set: 16, associativity: 1, block_size: 4096
+Total L1 access time: 12790435ns
+Total Memory access time: 158148290ns
+Total Require Time: 1986117ns
+Total Require: 32793times, hit: 16545times, miss: 16248times
+Miss rate: 49.547159%
+
+size: 64KB, set: 32, associativity: 1, block_size: 2048
+Total L1 access time: 13051584ns
+Total Memory access time: 159898986ns
+Total Require Time: 2011845ns
+Total Require: 32793times, hit: 16277times, miss: 16516times
+Miss rate: 50.364407%
+
+size: 64KB, set: 64, associativity: 1, block_size: 1024
+Total L1 access time: 13307523ns
+Total Memory access time: 161704908ns
+Total Require Time: 2061861ns
+Total Require: 32793times, hit: 15756times, miss: 17037times
+Miss rate: 51.953161%
+
+size: 64KB, set: 128, associativity: 1, block_size: 512
+Total L1 access time: 13552892ns
+Total Memory access time: 163622872ns
+Total Require Time: 2163333ns
+Total Require: 32793times, hit: 14699times, miss: 18094times
+Miss rate: 55.176410%
+
+size: 64KB, set: 256, associativity: 1, block_size: 256
+Total L1 access time: 13777191ns
+Total Memory access time: 165764178ns
+Total Require Time: 2365605ns
+Total Require: 32793times, hit: 12592times, miss: 20201times
+Miss rate: 61.601561%
+
+size: 64KB, set: 512, associativity: 1, block_size: 128
+Total L1 access time: 13959470ns
+Total Memory access time: 168350896ns
+Total Require Time: 2768997ns
+Total Require: 32793times, hit: 8390times, miss: 24403times
+Miss rate: 74.415272%
+
+size: 64KB, set: 1, associativity: 2, block_size: 32768
+Total L1 access time: 14225519ns
+Total Memory access time: 170049652ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 64KB, set: 2, associativity: 2, block_size: 16384
+Total L1 access time: 14491378ns
+Total Memory access time: 171750422ns
+Total Require Time: 1966629ns
+Total Require: 32793times, hit: 16748times, miss: 16045times
+Miss rate: 48.928125%
+
+size: 64KB, set: 4, associativity: 2, block_size: 8192
+Total L1 access time: 14756557ns
+Total Memory access time: 173458400ns
+Total Require Time: 1973157ns
+Total Require: 32793times, hit: 16680times, miss: 16113times
+Miss rate: 49.135486%
+
+size: 64KB, set: 8, associativity: 2, block_size: 4096
+Total L1 access time: 15020426ns
+Total Memory access time: 175180264ns
+Total Require Time: 1985733ns
+Total Require: 32793times, hit: 16549times, miss: 16244times
+Miss rate: 49.534962%
+
+size: 64KB, set: 16, associativity: 2, block_size: 2048
+Total L1 access time: 15281595ns
+Total Memory access time: 176930748ns
+Total Require Time: 2011653ns
+Total Require: 32793times, hit: 16279times, miss: 16514times
+Miss rate: 50.358308%
+
+size: 64KB, set: 32, associativity: 2, block_size: 1024
+Total L1 access time: 15537534ns
+Total Memory access time: 178736670ns
+Total Require Time: 2061861ns
+Total Require: 32793times, hit: 15756times, miss: 17037times
+Miss rate: 51.953161%
+
+size: 64KB, set: 64, associativity: 2, block_size: 512
+Total L1 access time: 15782903ns
+Total Memory access time: 180654634ns
+Total Require Time: 2163333ns
+Total Require: 32793times, hit: 14699times, miss: 18094times
+Miss rate: 55.176410%
+
+size: 64KB, set: 128, associativity: 2, block_size: 256
+Total L1 access time: 16007222ns
+Total Memory access time: 182795728ns
+Total Require Time: 2365413ns
+Total Require: 32793times, hit: 12594times, miss: 20199times
+Miss rate: 61.595462%
+
+size: 64KB, set: 256, associativity: 2, block_size: 128
+Total L1 access time: 16189581ns
+Total Memory access time: 185381598ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 64KB, set: 512, associativity: 2, block_size: 64
+Total L1 access time: 16287960ns
+Total Memory access time: 188857656ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 1, associativity: 4, block_size: 16384
+Total L1 access time: 16553869ns
+Total Memory access time: 190557896ns
+Total Require Time: 1966149ns
+Total Require: 32793times, hit: 16753times, miss: 16040times
+Miss rate: 48.912878%
+
+size: 64KB, set: 2, associativity: 4, block_size: 8192
+Total L1 access time: 16819098ns
+Total Memory access time: 192265344ns
+Total Require Time: 1972677ns
+Total Require: 32793times, hit: 16685times, miss: 16108times
+Miss rate: 49.120239%
+
+size: 64KB, set: 4, associativity: 4, block_size: 4096
+Total L1 access time: 17082997ns
+Total Memory access time: 193986890ns
+Total Require Time: 1985445ns
+Total Require: 32793times, hit: 16552times, miss: 16241times
+Miss rate: 49.525813%
+
+size: 64KB, set: 8, associativity: 4, block_size: 2048
+Total L1 access time: 17344186ns
+Total Memory access time: 195737162ns
+Total Require Time: 2011461ns
+Total Require: 32793times, hit: 16281times, miss: 16512times
+Miss rate: 50.352209%
+
+size: 64KB, set: 16, associativity: 4, block_size: 1024
+Total L1 access time: 17600145ns
+Total Memory access time: 197542872ns
+Total Require Time: 2061669ns
+Total Require: 32793times, hit: 15758times, miss: 17035times
+Miss rate: 51.947062%
+
+size: 64KB, set: 32, associativity: 4, block_size: 512
+Total L1 access time: 17845554ns
+Total Memory access time: 199460412ns
+Total Require Time: 2162949ns
+Total Require: 32793times, hit: 14703times, miss: 18090times
+Miss rate: 55.164212%
+
+size: 64KB, set: 64, associativity: 4, block_size: 256
+Total L1 access time: 18069883ns
+Total Memory access time: 201601400ns
+Total Require Time: 2365317ns
+Total Require: 32793times, hit: 12595times, miss: 20198times
+Miss rate: 61.592413%
+
+size: 64KB, set: 128, associativity: 4, block_size: 128
+Total L1 access time: 18252242ns
+Total Memory access time: 204187270ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 64KB, set: 256, associativity: 4, block_size: 64
+Total L1 access time: 18350621ns
+Total Memory access time: 207663328ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 512, associativity: 4, block_size: 32
+Total L1 access time: 18449000ns
+Total Memory access time: 211139386ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 1, associativity: 8, block_size: 8192
+Total L1 access time: 18714249ns
+Total Memory access time: 212846622ns
+Total Require Time: 1972485ns
+Total Require: 32793times, hit: 16687times, miss: 16106times
+Miss rate: 49.114140%
+
+size: 64KB, set: 2, associativity: 8, block_size: 4096
+Total L1 access time: 18978158ns
+Total Memory access time: 214568062ns
+Total Require Time: 1985349ns
+Total Require: 32793times, hit: 16553times, miss: 16240times
+Miss rate: 49.522764%
+
+size: 64KB, set: 4, associativity: 8, block_size: 2048
+Total L1 access time: 19239367ns
+Total Memory access time: 216318122ns
+Total Require Time: 2011269ns
+Total Require: 32793times, hit: 16283times, miss: 16510times
+Miss rate: 50.346110%
+
+size: 64KB, set: 8, associativity: 8, block_size: 1024
+Total L1 access time: 19495336ns
+Total Memory access time: 218123726ns
+Total Require Time: 2061573ns
+Total Require: 32793times, hit: 15759times, miss: 17034times
+Miss rate: 51.944012%
+
+size: 64KB, set: 16, associativity: 8, block_size: 512
+Total L1 access time: 19740745ns
+Total Memory access time: 220041266ns
+Total Require Time: 2162949ns
+Total Require: 32793times, hit: 14703times, miss: 18090times
+Miss rate: 55.164212%
+
+size: 64KB, set: 32, associativity: 8, block_size: 256
+Total L1 access time: 19965084ns
+Total Memory access time: 222182148ns
+Total Require Time: 2365221ns
+Total Require: 32793times, hit: 12596times, miss: 20197times
+Miss rate: 61.589364%
+
+size: 64KB, set: 64, associativity: 8, block_size: 128
+Total L1 access time: 20147443ns
+Total Memory access time: 224768018ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 64KB, set: 128, associativity: 8, block_size: 64
+Total L1 access time: 20245822ns
+Total Memory access time: 228244076ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 256, associativity: 8, block_size: 32
+Total L1 access time: 20344201ns
+Total Memory access time: 231720134ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 512, associativity: 8, block_size: 16
+Total L1 access time: 20442580ns
+Total Memory access time: 235196192ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 1, associativity: 16, block_size: 4096
+Total L1 access time: 20706489ns
+Total Memory access time: 236917632ns
+Total Require Time: 1985349ns
+Total Require: 32793times, hit: 16553times, miss: 16240times
+Miss rate: 49.522764%
+
+size: 64KB, set: 2, associativity: 16, block_size: 2048
+Total L1 access time: 20967698ns
+Total Memory access time: 238667692ns
+Total Require Time: 2011269ns
+Total Require: 32793times, hit: 16283times, miss: 16510times
+Miss rate: 50.346110%
+
+size: 64KB, set: 4, associativity: 16, block_size: 1024
+Total L1 access time: 21223667ns
+Total Memory access time: 240473296ns
+Total Require Time: 2061573ns
+Total Require: 32793times, hit: 15759times, miss: 17034times
+Miss rate: 51.944012%
+
+size: 64KB, set: 8, associativity: 16, block_size: 512
+Total L1 access time: 21469076ns
+Total Memory access time: 242390836ns
+Total Require Time: 2162949ns
+Total Require: 32793times, hit: 14703times, miss: 18090times
+Miss rate: 55.164212%
+
+size: 64KB, set: 16, associativity: 16, block_size: 256
+Total L1 access time: 21693415ns
+Total Memory access time: 244531718ns
+Total Require Time: 2365221ns
+Total Require: 32793times, hit: 12596times, miss: 20197times
+Miss rate: 61.589364%
+
+size: 64KB, set: 32, associativity: 16, block_size: 128
+Total L1 access time: 21875774ns
+Total Memory access time: 247117588ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 64KB, set: 64, associativity: 16, block_size: 64
+Total L1 access time: 21974153ns
+Total Memory access time: 250593646ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 128, associativity: 16, block_size: 32
+Total L1 access time: 22072532ns
+Total Memory access time: 254069704ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 256, associativity: 16, block_size: 16
+Total L1 access time: 22170911ns
+Total Memory access time: 257545762ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 512, associativity: 16, block_size: 8
+Total L1 access time: 22269290ns
+Total Memory access time: 261021820ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 1, associativity: 32, block_size: 2048
+Total L1 access time: 22530499ns
+Total Memory access time: 262771880ns
+Total Require Time: 2011269ns
+Total Require: 32793times, hit: 16283times, miss: 16510times
+Miss rate: 50.346110%
+
+size: 64KB, set: 2, associativity: 32, block_size: 1024
+Total L1 access time: 22786468ns
+Total Memory access time: 264577484ns
+Total Require Time: 2061573ns
+Total Require: 32793times, hit: 15759times, miss: 17034times
+Miss rate: 51.944012%
+
+size: 64KB, set: 4, associativity: 32, block_size: 512
+Total L1 access time: 23031877ns
+Total Memory access time: 266495024ns
+Total Require Time: 2162949ns
+Total Require: 32793times, hit: 14703times, miss: 18090times
+Miss rate: 55.164212%
+
+size: 64KB, set: 8, associativity: 32, block_size: 256
+Total L1 access time: 23256216ns
+Total Memory access time: 268635906ns
+Total Require Time: 2365221ns
+Total Require: 32793times, hit: 12596times, miss: 20197times
+Miss rate: 61.589364%
+
+size: 64KB, set: 16, associativity: 32, block_size: 128
+Total L1 access time: 23438575ns
+Total Memory access time: 271221776ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 64KB, set: 32, associativity: 32, block_size: 64
+Total L1 access time: 23536954ns
+Total Memory access time: 274697834ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 64, associativity: 32, block_size: 32
+Total L1 access time: 23635333ns
+Total Memory access time: 278173892ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 128, associativity: 32, block_size: 16
+Total L1 access time: 23733712ns
+Total Memory access time: 281649950ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 256, associativity: 32, block_size: 8
+Total L1 access time: 23832091ns
+Total Memory access time: 285126008ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 64KB, set: 512, associativity: 32, block_size: 4
+Total L1 access time: 23930470ns
+Total Memory access time: 288602066ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 128KB, set: 1, associativity: 1, block_size: 131072
+Total L1 access time: 24196329ns
+Total Memory access time: 290302836ns
+Total Require Time: 1966629ns
+Total Require: 32793times, hit: 16748times, miss: 16045times
+Miss rate: 48.928125%
+
+size: 128KB, set: 2, associativity: 1, block_size: 65536
+Total L1 access time: 24462378ns
+Total Memory access time: 292001592ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 128KB, set: 4, associativity: 1, block_size: 32768
+Total L1 access time: 24728487ns
+Total Memory access time: 293699712ns
+Total Require Time: 1964229ns
+Total Require: 32793times, hit: 16773times, miss: 16020times
+Miss rate: 48.851889%
+
+size: 128KB, set: 8, associativity: 1, block_size: 16384
+Total L1 access time: 24994356ns
+Total Memory access time: 295400376ns
+Total Require Time: 1966533ns
+Total Require: 32793times, hit: 16749times, miss: 16044times
+Miss rate: 48.925075%
+
+size: 128KB, set: 16, associativity: 1, block_size: 8192
+Total L1 access time: 25259585ns
+Total Memory access time: 297107824ns
+Total Require Time: 1972677ns
+Total Require: 32793times, hit: 16685times, miss: 16108times
+Miss rate: 49.120239%
+
+size: 128KB, set: 32, associativity: 1, block_size: 4096
+Total L1 access time: 25523514ns
+Total Memory access time: 298829052ns
+Total Require Time: 1985157ns
+Total Require: 32793times, hit: 16555times, miss: 16238times
+Miss rate: 49.516665%
+
+size: 128KB, set: 64, associativity: 1, block_size: 2048
+Total L1 access time: 25784763ns
+Total Memory access time: 300578688ns
+Total Require Time: 2010885ns
+Total Require: 32793times, hit: 16287times, miss: 16506times
+Miss rate: 50.333913%
+
+size: 128KB, set: 128, associativity: 1, block_size: 1024
+Total L1 access time: 26040772ns
+Total Memory access time: 302383868ns
+Total Require Time: 2061189ns
+Total Require: 32793times, hit: 15763times, miss: 17030times
+Miss rate: 51.931815%
+
+size: 128KB, set: 256, associativity: 1, block_size: 512
+Total L1 access time: 26286211ns
+Total Memory access time: 304301090ns
+Total Require Time: 2162661ns
+Total Require: 32793times, hit: 14706times, miss: 18087times
+Miss rate: 55.155064%
+
+size: 128KB, set: 512, associativity: 1, block_size: 256
+Total L1 access time: 26510570ns
+Total Memory access time: 306441760ns
+Total Require Time: 2365029ns
+Total Require: 32793times, hit: 12598times, miss: 20195times
+Miss rate: 61.583265%
+
+size: 128KB, set: 1, associativity: 2, block_size: 65536
+Total L1 access time: 26776949ns
+Total Memory access time: 308137018ns
+Total Require Time: 1961637ns
+Total Require: 32793times, hit: 16800times, miss: 15993times
+Miss rate: 48.769554%
+
+size: 128KB, set: 2, associativity: 2, block_size: 32768
+Total L1 access time: 27043258ns
+Total Memory access time: 309833018ns
+Total Require Time: 1962309ns
+Total Require: 32793times, hit: 16793times, miss: 16000times
+Miss rate: 48.790900%
+
+size: 128KB, set: 4, associativity: 2, block_size: 16384
+Total L1 access time: 27309227ns
+Total Memory access time: 311532622ns
+Total Require Time: 1965573ns
+Total Require: 32793times, hit: 16759times, miss: 16034times
+Miss rate: 48.894581%
+
+size: 128KB, set: 8, associativity: 2, block_size: 8192
+Total L1 access time: 27574516ns
+Total Memory access time: 313239434ns
+Total Require Time: 1972101ns
+Total Require: 32793times, hit: 16691times, miss: 16102times
+Miss rate: 49.101942%
+
+size: 128KB, set: 16, associativity: 2, block_size: 4096
+Total L1 access time: 27838465ns
+Total Memory access time: 314960450ns
+Total Require Time: 1984965ns
+Total Require: 32793times, hit: 16557times, miss: 16236times
+Miss rate: 49.510566%
+
+size: 128KB, set: 32, associativity: 2, block_size: 2048
+Total L1 access time: 28099714ns
+Total Memory access time: 316710086ns
+Total Require Time: 2010885ns
+Total Require: 32793times, hit: 16287times, miss: 16506times
+Miss rate: 50.333913%
+
+size: 128KB, set: 64, associativity: 2, block_size: 1024
+Total L1 access time: 28355723ns
+Total Memory access time: 318515266ns
+Total Require Time: 2061189ns
+Total Require: 32793times, hit: 15763times, miss: 17030times
+Miss rate: 51.931815%
+
+size: 128KB, set: 128, associativity: 2, block_size: 512
+Total L1 access time: 28601182ns
+Total Memory access time: 320432276ns
+Total Require Time: 2162469ns
+Total Require: 32793times, hit: 14708times, miss: 18085times
+Miss rate: 55.148965%
+
+size: 128KB, set: 256, associativity: 2, block_size: 256
+Total L1 access time: 28825581ns
+Total Memory access time: 322572522ns
+Total Require Time: 2364645ns
+Total Require: 32793times, hit: 12602times, miss: 20191times
+Miss rate: 61.571067%
+
+size: 128KB, set: 512, associativity: 2, block_size: 128
+Total L1 access time: 29007940ns
+Total Memory access time: 325158392ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 128KB, set: 1, associativity: 4, block_size: 32768
+Total L1 access time: 29274249ns
+Total Memory access time: 326854392ns
+Total Require Time: 1962309ns
+Total Require: 32793times, hit: 16793times, miss: 16000times
+Miss rate: 48.790900%
+
+size: 128KB, set: 2, associativity: 4, block_size: 16384
+Total L1 access time: 29540218ns
+Total Memory access time: 328553996ns
+Total Require Time: 1965573ns
+Total Require: 32793times, hit: 16759times, miss: 16034times
+Miss rate: 48.894581%
+
+size: 128KB, set: 4, associativity: 4, block_size: 8192
+Total L1 access time: 29805507ns
+Total Memory access time: 330260808ns
+Total Require Time: 1972101ns
+Total Require: 32793times, hit: 16691times, miss: 16102times
+Miss rate: 49.101942%
+
+size: 128KB, set: 8, associativity: 4, block_size: 4096
+Total L1 access time: 30069456ns
+Total Memory access time: 331981824ns
+Total Require Time: 1984965ns
+Total Require: 32793times, hit: 16557times, miss: 16236times
+Miss rate: 49.510566%
+
+size: 128KB, set: 16, associativity: 4, block_size: 2048
+Total L1 access time: 30330705ns
+Total Memory access time: 333731460ns
+Total Require Time: 2010885ns
+Total Require: 32793times, hit: 16287times, miss: 16506times
+Miss rate: 50.333913%
+
+size: 128KB, set: 32, associativity: 4, block_size: 1024
+Total L1 access time: 30586714ns
+Total Memory access time: 335536640ns
+Total Require Time: 2061189ns
+Total Require: 32793times, hit: 15763times, miss: 17030times
+Miss rate: 51.931815%
+
+size: 128KB, set: 64, associativity: 4, block_size: 512
+Total L1 access time: 30832173ns
+Total Memory access time: 337453650ns
+Total Require Time: 2162469ns
+Total Require: 32793times, hit: 14708times, miss: 18085times
+Miss rate: 55.148965%
+
+size: 128KB, set: 128, associativity: 4, block_size: 256
+Total L1 access time: 31056592ns
+Total Memory access time: 339593684ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 128KB, set: 256, associativity: 4, block_size: 128
+Total L1 access time: 31238951ns
+Total Memory access time: 342179554ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 128KB, set: 512, associativity: 4, block_size: 64
+Total L1 access time: 31337330ns
+Total Memory access time: 345655612ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 128KB, set: 1, associativity: 8, block_size: 16384
+Total L1 access time: 31603309ns
+Total Memory access time: 347355110ns
+Total Require Time: 1965477ns
+Total Require: 32793times, hit: 16760times, miss: 16033times
+Miss rate: 48.891532%
+
+size: 128KB, set: 2, associativity: 8, block_size: 8192
+Total L1 access time: 31868608ns
+Total Memory access time: 349061816ns
+Total Require Time: 1972005ns
+Total Require: 32793times, hit: 16692times, miss: 16101times
+Miss rate: 49.098893%
+
+size: 128KB, set: 4, associativity: 8, block_size: 4096
+Total L1 access time: 32132567ns
+Total Memory access time: 350782726ns
+Total Require Time: 1984869ns
+Total Require: 32793times, hit: 16558times, miss: 16235times
+Miss rate: 49.507517%
+
+size: 128KB, set: 8, associativity: 8, block_size: 2048
+Total L1 access time: 32393826ns
+Total Memory access time: 352532256ns
+Total Require Time: 2010789ns
+Total Require: 32793times, hit: 16288times, miss: 16505times
+Miss rate: 50.330863%
+
+size: 128KB, set: 16, associativity: 8, block_size: 1024
+Total L1 access time: 32649845ns
+Total Memory access time: 354337330ns
+Total Require Time: 2061093ns
+Total Require: 32793times, hit: 15764times, miss: 17029times
+Miss rate: 51.928765%
+
+size: 128KB, set: 32, associativity: 8, block_size: 512
+Total L1 access time: 32895304ns
+Total Memory access time: 356254340ns
+Total Require Time: 2162469ns
+Total Require: 32793times, hit: 14708times, miss: 18085times
+Miss rate: 55.148965%
+
+size: 128KB, set: 64, associativity: 8, block_size: 256
+Total L1 access time: 33119723ns
+Total Memory access time: 358394374ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 128KB, set: 128, associativity: 8, block_size: 128
+Total L1 access time: 33302082ns
+Total Memory access time: 360980244ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 128KB, set: 256, associativity: 8, block_size: 64
+Total L1 access time: 33400461ns
+Total Memory access time: 364456302ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 128KB, set: 512, associativity: 8, block_size: 32
+Total L1 access time: 33498840ns
+Total Memory access time: 367932360ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 128KB, set: 1, associativity: 16, block_size: 8192
+Total L1 access time: 33764139ns
+Total Memory access time: 369639066ns
+Total Require Time: 1972005ns
+Total Require: 32793times, hit: 16692times, miss: 16101times
+Miss rate: 49.098893%
+
+size: 128KB, set: 2, associativity: 16, block_size: 4096
+Total L1 access time: 34028098ns
+Total Memory access time: 371359976ns
+Total Require Time: 1984869ns
+Total Require: 32793times, hit: 16558times, miss: 16235times
+Miss rate: 49.507517%
+
+size: 128KB, set: 4, associativity: 16, block_size: 2048
+Total L1 access time: 34289357ns
+Total Memory access time: 373109506ns
+Total Require Time: 2010789ns
+Total Require: 32793times, hit: 16288times, miss: 16505times
+Miss rate: 50.330863%
+
+size: 128KB, set: 8, associativity: 16, block_size: 1024
+Total L1 access time: 34545376ns
+Total Memory access time: 374914580ns
+Total Require Time: 2061093ns
+Total Require: 32793times, hit: 15764times, miss: 17029times
+Miss rate: 51.928765%
+
+size: 128KB, set: 16, associativity: 16, block_size: 512
+Total L1 access time: 34790835ns
+Total Memory access time: 376831590ns
+Total Require Time: 2162469ns
+Total Require: 32793times, hit: 14708times, miss: 18085times
+Miss rate: 55.148965%
+
+size: 128KB, set: 32, associativity: 16, block_size: 256
+Total L1 access time: 35015254ns
+Total Memory access time: 378971624ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 128KB, set: 64, associativity: 16, block_size: 128
+Total L1 access time: 35197613ns
+Total Memory access time: 381557494ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 128KB, set: 128, associativity: 16, block_size: 64
+Total L1 access time: 35295992ns
+Total Memory access time: 385033552ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 128KB, set: 256, associativity: 16, block_size: 32
+Total L1 access time: 35394371ns
+Total Memory access time: 388509610ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 128KB, set: 512, associativity: 16, block_size: 16
+Total L1 access time: 35492750ns
+Total Memory access time: 391985668ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 128KB, set: 1, associativity: 32, block_size: 4096
+Total L1 access time: 35756709ns
+Total Memory access time: 393706578ns
+Total Require Time: 1984869ns
+Total Require: 32793times, hit: 16558times, miss: 16235times
+Miss rate: 49.507517%
+
+size: 128KB, set: 2, associativity: 32, block_size: 2048
+Total L1 access time: 36017968ns
+Total Memory access time: 395456108ns
+Total Require Time: 2010789ns
+Total Require: 32793times, hit: 16288times, miss: 16505times
+Miss rate: 50.330863%
+
+size: 128KB, set: 4, associativity: 32, block_size: 1024
+Total L1 access time: 36273987ns
+Total Memory access time: 397261182ns
+Total Require Time: 2061093ns
+Total Require: 32793times, hit: 15764times, miss: 17029times
+Miss rate: 51.928765%
+
+size: 128KB, set: 8, associativity: 32, block_size: 512
+Total L1 access time: 36519446ns
+Total Memory access time: 399178192ns
+Total Require Time: 2162469ns
+Total Require: 32793times, hit: 14708times, miss: 18085times
+Miss rate: 55.148965%
+
+size: 128KB, set: 16, associativity: 32, block_size: 256
+Total L1 access time: 36743865ns
+Total Memory access time: 401318226ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 128KB, set: 32, associativity: 32, block_size: 128
+Total L1 access time: 36926224ns
+Total Memory access time: 403904096ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 128KB, set: 64, associativity: 32, block_size: 64
+Total L1 access time: 37024603ns
+Total Memory access time: 407380154ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 128KB, set: 128, associativity: 32, block_size: 32
+Total L1 access time: 37122982ns
+Total Memory access time: 410856212ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 128KB, set: 256, associativity: 32, block_size: 16
+Total L1 access time: 37221361ns
+Total Memory access time: 414332270ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 128KB, set: 512, associativity: 32, block_size: 8
+Total L1 access time: 37319740ns
+Total Memory access time: 417808328ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 256KB, set: 1, associativity: 1, block_size: 262144
+Total L1 access time: 37585759ns
+Total Memory access time: 419508462ns
+Total Require Time: 1966153ns
+Total Require: 32793times, hit: 16764times, miss: 16029times
+Miss rate: 48.879334%
+
+size: 256KB, set: 2, associativity: 1, block_size: 131072
+Total L1 access time: 37851988ns
+Total Memory access time: 421205310ns
+Total Require Time: 1963077ns
+Total Require: 32793times, hit: 16785times, miss: 16008times
+Miss rate: 48.815296%
+
+size: 256KB, set: 4, associativity: 1, block_size: 65536
+Total L1 access time: 38118287ns
+Total Memory access time: 422901416ns
+Total Require Time: 1962405ns
+Total Require: 32793times, hit: 16792times, miss: 16001times
+Miss rate: 48.793950%
+
+size: 256KB, set: 8, associativity: 1, block_size: 32768
+Total L1 access time: 38384536ns
+Total Memory access time: 424598052ns
+Total Require Time: 1962885ns
+Total Require: 32793times, hit: 16787times, miss: 16006times
+Miss rate: 48.809197%
+
+size: 256KB, set: 16, associativity: 1, block_size: 16384
+Total L1 access time: 38650505ns
+Total Memory access time: 426297656ns
+Total Require Time: 1965573ns
+Total Require: 32793times, hit: 16759times, miss: 16034times
+Miss rate: 48.894581%
+
+size: 256KB, set: 32, associativity: 1, block_size: 8192
+Total L1 access time: 38915794ns
+Total Memory access time: 428004468ns
+Total Require Time: 1972101ns
+Total Require: 32793times, hit: 16691times, miss: 16102times
+Miss rate: 49.101942%
+
+size: 256KB, set: 64, associativity: 1, block_size: 4096
+Total L1 access time: 39179763ns
+Total Memory access time: 429725272ns
+Total Require Time: 1984773ns
+Total Require: 32793times, hit: 16559times, miss: 16234times
+Miss rate: 49.504467%
+
+size: 256KB, set: 128, associativity: 1, block_size: 2048
+Total L1 access time: 39441052ns
+Total Memory access time: 431474484ns
+Total Require Time: 2010501ns
+Total Require: 32793times, hit: 16291times, miss: 16502times
+Miss rate: 50.321715%
+
+size: 256KB, set: 256, associativity: 1, block_size: 1024
+Total L1 access time: 39697101ns
+Total Memory access time: 433279240ns
+Total Require Time: 2060805ns
+Total Require: 32793times, hit: 15767times, miss: 17026times
+Miss rate: 51.919617%
+
+size: 256KB, set: 512, associativity: 1, block_size: 512
+Total L1 access time: 39942580ns
+Total Memory access time: 435196038ns
+Total Require Time: 2162277ns
+Total Require: 32793times, hit: 14710times, miss: 18083times
+Miss rate: 55.142866%
+
+size: 256KB, set: 1, associativity: 2, block_size: 131072
+Total L1 access time: 40209169ns
+Total Memory access time: 436889070ns
+Total Require Time: 1959621ns
+Total Require: 32793times, hit: 16821times, miss: 15972times
+Miss rate: 48.705516%
+
+size: 256KB, set: 2, associativity: 2, block_size: 65536
+Total L1 access time: 40475688ns
+Total Memory access time: 438582844ns
+Total Require Time: 1960293ns
+Total Require: 32793times, hit: 16814times, miss: 15979times
+Miss rate: 48.726862%
+
+size: 256KB, set: 4, associativity: 2, block_size: 32768
+Total L1 access time: 40742037ns
+Total Memory access time: 440278420ns
+Total Require Time: 1961925ns
+Total Require: 32793times, hit: 16797times, miss: 15996times
+Miss rate: 48.778703%
+
+size: 256KB, set: 8, associativity: 2, block_size: 16384
+Total L1 access time: 41008046ns
+Total Memory access time: 441977600ns
+Total Require Time: 1965189ns
+Total Require: 32793times, hit: 16763times, miss: 16030times
+Miss rate: 48.882383%
+
+size: 256KB, set: 16, associativity: 2, block_size: 8192
+Total L1 access time: 41273375ns
+Total Memory access time: 443683988ns
+Total Require Time: 1971717ns
+Total Require: 32793times, hit: 16695times, miss: 16098times
+Miss rate: 49.089745%
+
+size: 256KB, set: 32, associativity: 2, block_size: 4096
+Total L1 access time: 41537364ns
+Total Memory access time: 445404580ns
+Total Require Time: 1984581ns
+Total Require: 32793times, hit: 16561times, miss: 16232times
+Miss rate: 49.498369%
+
+size: 256KB, set: 64, associativity: 2, block_size: 2048
+Total L1 access time: 41798653ns
+Total Memory access time: 447153792ns
+Total Require Time: 2010501ns
+Total Require: 32793times, hit: 16291times, miss: 16502times
+Miss rate: 50.321715%
+
+size: 256KB, set: 128, associativity: 2, block_size: 1024
+Total L1 access time: 42054712ns
+Total Memory access time: 448958442ns
+Total Require Time: 2060709ns
+Total Require: 32793times, hit: 15768times, miss: 17025times
+Miss rate: 51.916568%
+
+size: 256KB, set: 256, associativity: 2, block_size: 512
+Total L1 access time: 42300201ns
+Total Memory access time: 450875134ns
+Total Require Time: 2162181ns
+Total Require: 32793times, hit: 14711times, miss: 18082times
+Miss rate: 55.139816%
+
+size: 256KB, set: 512, associativity: 2, block_size: 256
+Total L1 access time: 42524620ns
+Total Memory access time: 453015168ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 256KB, set: 1, associativity: 4, block_size: 65536
+Total L1 access time: 42791139ns
+Total Memory access time: 454708942ns
+Total Require Time: 1960293ns
+Total Require: 32793times, hit: 16814times, miss: 15979times
+Miss rate: 48.726862%
+
+size: 256KB, set: 2, associativity: 4, block_size: 32768
+Total L1 access time: 43057488ns
+Total Memory access time: 456404518ns
+Total Require Time: 1961925ns
+Total Require: 32793times, hit: 16797times, miss: 15996times
+Miss rate: 48.778703%
+
+size: 256KB, set: 4, associativity: 4, block_size: 16384
+Total L1 access time: 43323497ns
+Total Memory access time: 458103698ns
+Total Require Time: 1965189ns
+Total Require: 32793times, hit: 16763times, miss: 16030times
+Miss rate: 48.882383%
+
+size: 256KB, set: 8, associativity: 4, block_size: 8192
+Total L1 access time: 43588826ns
+Total Memory access time: 459810086ns
+Total Require Time: 1971717ns
+Total Require: 32793times, hit: 16695times, miss: 16098times
+Miss rate: 49.089745%
+
+size: 256KB, set: 16, associativity: 4, block_size: 4096
+Total L1 access time: 43852815ns
+Total Memory access time: 461530678ns
+Total Require Time: 1984581ns
+Total Require: 32793times, hit: 16561times, miss: 16232times
+Miss rate: 49.498369%
+
+size: 256KB, set: 32, associativity: 4, block_size: 2048
+Total L1 access time: 44114104ns
+Total Memory access time: 463279890ns
+Total Require Time: 2010501ns
+Total Require: 32793times, hit: 16291times, miss: 16502times
+Miss rate: 50.321715%
+
+size: 256KB, set: 64, associativity: 4, block_size: 1024
+Total L1 access time: 44370163ns
+Total Memory access time: 465084540ns
+Total Require Time: 2060709ns
+Total Require: 32793times, hit: 15768times, miss: 17025times
+Miss rate: 51.916568%
+
+size: 256KB, set: 128, associativity: 4, block_size: 512
+Total L1 access time: 44615672ns
+Total Memory access time: 467001020ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 256KB, set: 256, associativity: 4, block_size: 256
+Total L1 access time: 44840091ns
+Total Memory access time: 469141054ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 256KB, set: 512, associativity: 4, block_size: 128
+Total L1 access time: 45022450ns
+Total Memory access time: 471726924ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 256KB, set: 1, associativity: 8, block_size: 32768
+Total L1 access time: 45288799ns
+Total Memory access time: 473422500ns
+Total Require Time: 1961925ns
+Total Require: 32793times, hit: 16797times, miss: 15996times
+Miss rate: 48.778703%
+
+size: 256KB, set: 2, associativity: 8, block_size: 16384
+Total L1 access time: 45554808ns
+Total Memory access time: 475121680ns
+Total Require Time: 1965189ns
+Total Require: 32793times, hit: 16763times, miss: 16030times
+Miss rate: 48.882383%
+
+size: 256KB, set: 4, associativity: 8, block_size: 8192
+Total L1 access time: 45820137ns
+Total Memory access time: 476828068ns
+Total Require Time: 1971717ns
+Total Require: 32793times, hit: 16695times, miss: 16098times
+Miss rate: 49.089745%
+
+size: 256KB, set: 8, associativity: 8, block_size: 4096
+Total L1 access time: 46084126ns
+Total Memory access time: 478548660ns
+Total Require Time: 1984581ns
+Total Require: 32793times, hit: 16561times, miss: 16232times
+Miss rate: 49.498369%
+
+size: 256KB, set: 16, associativity: 8, block_size: 2048
+Total L1 access time: 46345415ns
+Total Memory access time: 480297872ns
+Total Require Time: 2010501ns
+Total Require: 32793times, hit: 16291times, miss: 16502times
+Miss rate: 50.321715%
+
+size: 256KB, set: 32, associativity: 8, block_size: 1024
+Total L1 access time: 46601474ns
+Total Memory access time: 482102522ns
+Total Require Time: 2060709ns
+Total Require: 32793times, hit: 15768times, miss: 17025times
+Miss rate: 51.916568%
+
+size: 256KB, set: 64, associativity: 8, block_size: 512
+Total L1 access time: 46846983ns
+Total Memory access time: 484019002ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 256KB, set: 128, associativity: 8, block_size: 256
+Total L1 access time: 47071402ns
+Total Memory access time: 486159036ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 256KB, set: 256, associativity: 8, block_size: 128
+Total L1 access time: 47253761ns
+Total Memory access time: 488744906ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 256KB, set: 512, associativity: 8, block_size: 64
+Total L1 access time: 47352140ns
+Total Memory access time: 492220964ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 256KB, set: 1, associativity: 16, block_size: 16384
+Total L1 access time: 47618149ns
+Total Memory access time: 493920144ns
+Total Require Time: 1965189ns
+Total Require: 32793times, hit: 16763times, miss: 16030times
+Miss rate: 48.882383%
+
+size: 256KB, set: 2, associativity: 16, block_size: 8192
+Total L1 access time: 47883478ns
+Total Memory access time: 495626532ns
+Total Require Time: 1971717ns
+Total Require: 32793times, hit: 16695times, miss: 16098times
+Miss rate: 49.089745%
+
+size: 256KB, set: 4, associativity: 16, block_size: 4096
+Total L1 access time: 48147477ns
+Total Memory access time: 497347018ns
+Total Require Time: 1984485ns
+Total Require: 32793times, hit: 16562times, miss: 16231times
+Miss rate: 49.495319%
+
+size: 256KB, set: 8, associativity: 16, block_size: 2048
+Total L1 access time: 48408766ns
+Total Memory access time: 499096230ns
+Total Require Time: 2010501ns
+Total Require: 32793times, hit: 16291times, miss: 16502times
+Miss rate: 50.321715%
+
+size: 256KB, set: 16, associativity: 16, block_size: 1024
+Total L1 access time: 48664825ns
+Total Memory access time: 500900880ns
+Total Require Time: 2060709ns
+Total Require: 32793times, hit: 15768times, miss: 17025times
+Miss rate: 51.916568%
+
+size: 256KB, set: 32, associativity: 16, block_size: 512
+Total L1 access time: 48910334ns
+Total Memory access time: 502817360ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 256KB, set: 64, associativity: 16, block_size: 256
+Total L1 access time: 49134753ns
+Total Memory access time: 504957394ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 256KB, set: 128, associativity: 16, block_size: 128
+Total L1 access time: 49317112ns
+Total Memory access time: 507543264ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 256KB, set: 256, associativity: 16, block_size: 64
+Total L1 access time: 49415491ns
+Total Memory access time: 511019322ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 256KB, set: 512, associativity: 16, block_size: 32
+Total L1 access time: 49513870ns
+Total Memory access time: 514495380ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 256KB, set: 1, associativity: 32, block_size: 8192
+Total L1 access time: 49779209ns
+Total Memory access time: 516201662ns
+Total Require Time: 1971621ns
+Total Require: 32793times, hit: 16696times, miss: 16097times
+Miss rate: 49.086695%
+
+size: 256KB, set: 2, associativity: 32, block_size: 4096
+Total L1 access time: 50043208ns
+Total Memory access time: 517922148ns
+Total Require Time: 1984485ns
+Total Require: 32793times, hit: 16562times, miss: 16231times
+Miss rate: 49.495319%
+
+size: 256KB, set: 4, associativity: 32, block_size: 2048
+Total L1 access time: 50304497ns
+Total Memory access time: 519671360ns
+Total Require Time: 2010501ns
+Total Require: 32793times, hit: 16291times, miss: 16502times
+Miss rate: 50.321715%
+
+size: 256KB, set: 8, associativity: 32, block_size: 1024
+Total L1 access time: 50560556ns
+Total Memory access time: 521476010ns
+Total Require Time: 2060709ns
+Total Require: 32793times, hit: 15768times, miss: 17025times
+Miss rate: 51.916568%
+
+size: 256KB, set: 16, associativity: 32, block_size: 512
+Total L1 access time: 50806065ns
+Total Memory access time: 523392490ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 256KB, set: 32, associativity: 32, block_size: 256
+Total L1 access time: 51030484ns
+Total Memory access time: 525532524ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 256KB, set: 64, associativity: 32, block_size: 128
+Total L1 access time: 51212843ns
+Total Memory access time: 528118394ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 256KB, set: 128, associativity: 32, block_size: 64
+Total L1 access time: 51311222ns
+Total Memory access time: 531594452ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 256KB, set: 256, associativity: 32, block_size: 32
+Total L1 access time: 51409601ns
+Total Memory access time: 535070510ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 256KB, set: 512, associativity: 32, block_size: 16
+Total L1 access time: 51507980ns
+Total Memory access time: 538546568ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 512KB, set: 1, associativity: 1, block_size: 524288
+Total L1 access time: 51819939ns
+Total Memory access time: 540246490ns
+Total Require Time: 2011881ns
+Total Require: 32793times, hit: 21358times, miss: 11435times
+Miss rate: 34.870247%
+
+size: 512KB, set: 2, associativity: 1, block_size: 262144
+Total L1 access time: 52086298ns
+Total Memory access time: 541943020ns
+Total Require Time: 1962889ns
+Total Require: 32793times, hit: 16798times, miss: 15995times
+Miss rate: 48.775653%
+
+size: 512KB, set: 4, associativity: 1, block_size: 131072
+Total L1 access time: 52352727ns
+Total Memory access time: 543637748ns
+Total Require Time: 1961157ns
+Total Require: 32793times, hit: 16805times, miss: 15988times
+Miss rate: 48.754307%
+
+size: 512KB, set: 8, associativity: 1, block_size: 65536
+Total L1 access time: 52619146ns
+Total Memory access time: 545332582ns
+Total Require Time: 1961253ns
+Total Require: 32793times, hit: 16804times, miss: 15989times
+Miss rate: 48.757357%
+
+size: 512KB, set: 16, associativity: 1, block_size: 32768
+Total L1 access time: 52885475ns
+Total Memory access time: 547028370ns
+Total Require Time: 1962117ns
+Total Require: 32793times, hit: 16795times, miss: 15998times
+Miss rate: 48.784802%
+
+size: 512KB, set: 32, associativity: 1, block_size: 16384
+Total L1 access time: 53151484ns
+Total Memory access time: 548727550ns
+Total Require Time: 1965189ns
+Total Require: 32793times, hit: 16763times, miss: 16030times
+Miss rate: 48.882383%
+
+size: 512KB, set: 64, associativity: 1, block_size: 8192
+Total L1 access time: 53416813ns
+Total Memory access time: 550433938ns
+Total Require Time: 1971717ns
+Total Require: 32793times, hit: 16695times, miss: 16098times
+Miss rate: 49.089745%
+
+size: 512KB, set: 128, associativity: 1, block_size: 4096
+Total L1 access time: 53680822ns
+Total Memory access time: 552154318ns
+Total Require Time: 1984389ns
+Total Require: 32793times, hit: 16563times, miss: 16230times
+Miss rate: 49.492270%
+
+size: 512KB, set: 256, associativity: 1, block_size: 2048
+Total L1 access time: 53942131ns
+Total Memory access time: 553903318ns
+Total Require Time: 2010309ns
+Total Require: 32793times, hit: 16293times, miss: 16500times
+Miss rate: 50.315616%
+
+size: 512KB, set: 512, associativity: 1, block_size: 1024
+Total L1 access time: 54198200ns
+Total Memory access time: 555707862ns
+Total Require Time: 2060613ns
+Total Require: 32793times, hit: 15769times, miss: 17024times
+Miss rate: 51.913518%
+
+size: 512KB, set: 1, associativity: 2, block_size: 262144
+Total L1 access time: 54464959ns
+Total Memory access time: 557400152ns
+Total Require Time: 1959049ns
+Total Require: 32793times, hit: 16838times, miss: 15955times
+Miss rate: 48.653676%
+
+size: 512KB, set: 2, associativity: 2, block_size: 131072
+Total L1 access time: 54731578ns
+Total Memory access time: 559092866ns
+Total Require Time: 1959333ns
+Total Require: 32793times, hit: 16824times, miss: 15969times
+Miss rate: 48.696368%
+
+size: 512KB, set: 4, associativity: 2, block_size: 65536
+Total L1 access time: 54998117ns
+Total Memory access time: 560786428ns
+Total Require Time: 1960101ns
+Total Require: 32793times, hit: 16816times, miss: 15977times
+Miss rate: 48.720764%
+
+size: 512KB, set: 8, associativity: 2, block_size: 32768
+Total L1 access time: 55264486ns
+Total Memory access time: 562481792ns
+Total Require Time: 1961733ns
+Total Require: 32793times, hit: 16799times, miss: 15994times
+Miss rate: 48.772604%
+
+size: 512KB, set: 16, associativity: 2, block_size: 16384
+Total L1 access time: 55530515ns
+Total Memory access time: 564180760ns
+Total Require Time: 1964997ns
+Total Require: 32793times, hit: 16765times, miss: 16028times
+Miss rate: 48.876285%
+
+size: 512KB, set: 32, associativity: 2, block_size: 8192
+Total L1 access time: 55795864ns
+Total Memory access time: 565886936ns
+Total Require Time: 1971525ns
+Total Require: 32793times, hit: 16697times, miss: 16096times
+Miss rate: 49.083646%
+
+size: 512KB, set: 64, associativity: 2, block_size: 4096
+Total L1 access time: 56059873ns
+Total Memory access time: 567607316ns
+Total Require Time: 1984389ns
+Total Require: 32793times, hit: 16563times, miss: 16230times
+Miss rate: 49.492270%
+
+size: 512KB, set: 128, associativity: 2, block_size: 2048
+Total L1 access time: 56321182ns
+Total Memory access time: 569356316ns
+Total Require Time: 2010309ns
+Total Require: 32793times, hit: 16293times, miss: 16500times
+Miss rate: 50.315616%
+
+size: 512KB, set: 256, associativity: 2, block_size: 1024
+Total L1 access time: 56577261ns
+Total Memory access time: 571160754ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 512KB, set: 512, associativity: 2, block_size: 512
+Total L1 access time: 56822770ns
+Total Memory access time: 573077234ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 512KB, set: 1, associativity: 4, block_size: 131072
+Total L1 access time: 57089389ns
+Total Memory access time: 574769948ns
+Total Require Time: 1959333ns
+Total Require: 32793times, hit: 16824times, miss: 15969times
+Miss rate: 48.696368%
+
+size: 512KB, set: 2, associativity: 4, block_size: 65536
+Total L1 access time: 57355928ns
+Total Memory access time: 576463510ns
+Total Require Time: 1960101ns
+Total Require: 32793times, hit: 16816times, miss: 15977times
+Miss rate: 48.720764%
+
+size: 512KB, set: 4, associativity: 4, block_size: 32768
+Total L1 access time: 57622297ns
+Total Memory access time: 578158874ns
+Total Require Time: 1961733ns
+Total Require: 32793times, hit: 16799times, miss: 15994times
+Miss rate: 48.772604%
+
+size: 512KB, set: 8, associativity: 4, block_size: 16384
+Total L1 access time: 57888326ns
+Total Memory access time: 579857842ns
+Total Require Time: 1964997ns
+Total Require: 32793times, hit: 16765times, miss: 16028times
+Miss rate: 48.876285%
+
+size: 512KB, set: 16, associativity: 4, block_size: 8192
+Total L1 access time: 58153675ns
+Total Memory access time: 581564018ns
+Total Require Time: 1971525ns
+Total Require: 32793times, hit: 16697times, miss: 16096times
+Miss rate: 49.083646%
+
+size: 512KB, set: 32, associativity: 4, block_size: 4096
+Total L1 access time: 58417684ns
+Total Memory access time: 583284398ns
+Total Require Time: 1984389ns
+Total Require: 32793times, hit: 16563times, miss: 16230times
+Miss rate: 49.492270%
+
+size: 512KB, set: 64, associativity: 4, block_size: 2048
+Total L1 access time: 58678993ns
+Total Memory access time: 585033398ns
+Total Require Time: 2010309ns
+Total Require: 32793times, hit: 16293times, miss: 16500times
+Miss rate: 50.315616%
+
+size: 512KB, set: 128, associativity: 4, block_size: 1024
+Total L1 access time: 58935072ns
+Total Memory access time: 586837836ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 512KB, set: 256, associativity: 4, block_size: 512
+Total L1 access time: 59180581ns
+Total Memory access time: 588754316ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 512KB, set: 512, associativity: 4, block_size: 256
+Total L1 access time: 59405000ns
+Total Memory access time: 590894350ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 512KB, set: 1, associativity: 8, block_size: 65536
+Total L1 access time: 59671539ns
+Total Memory access time: 592587912ns
+Total Require Time: 1960101ns
+Total Require: 32793times, hit: 16816times, miss: 15977times
+Miss rate: 48.720764%
+
+size: 512KB, set: 2, associativity: 8, block_size: 32768
+Total L1 access time: 59937908ns
+Total Memory access time: 594283276ns
+Total Require Time: 1961733ns
+Total Require: 32793times, hit: 16799times, miss: 15994times
+Miss rate: 48.772604%
+
+size: 512KB, set: 4, associativity: 8, block_size: 16384
+Total L1 access time: 60203937ns
+Total Memory access time: 595982244ns
+Total Require Time: 1964997ns
+Total Require: 32793times, hit: 16765times, miss: 16028times
+Miss rate: 48.876285%
+
+size: 512KB, set: 8, associativity: 8, block_size: 8192
+Total L1 access time: 60469286ns
+Total Memory access time: 597688420ns
+Total Require Time: 1971525ns
+Total Require: 32793times, hit: 16697times, miss: 16096times
+Miss rate: 49.083646%
+
+size: 512KB, set: 16, associativity: 8, block_size: 4096
+Total L1 access time: 60733295ns
+Total Memory access time: 599408800ns
+Total Require Time: 1984389ns
+Total Require: 32793times, hit: 16563times, miss: 16230times
+Miss rate: 49.492270%
+
+size: 512KB, set: 32, associativity: 8, block_size: 2048
+Total L1 access time: 60994604ns
+Total Memory access time: 601157800ns
+Total Require Time: 2010309ns
+Total Require: 32793times, hit: 16293times, miss: 16500times
+Miss rate: 50.315616%
+
+size: 512KB, set: 64, associativity: 8, block_size: 1024
+Total L1 access time: 61250683ns
+Total Memory access time: 602962238ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 512KB, set: 128, associativity: 8, block_size: 512
+Total L1 access time: 61496192ns
+Total Memory access time: 604878718ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 512KB, set: 256, associativity: 8, block_size: 256
+Total L1 access time: 61720611ns
+Total Memory access time: 607018752ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 512KB, set: 512, associativity: 8, block_size: 128
+Total L1 access time: 61902970ns
+Total Memory access time: 609604622ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 512KB, set: 1, associativity: 16, block_size: 32768
+Total L1 access time: 62169339ns
+Total Memory access time: 611299986ns
+Total Require Time: 1961733ns
+Total Require: 32793times, hit: 16799times, miss: 15994times
+Miss rate: 48.772604%
+
+size: 512KB, set: 2, associativity: 16, block_size: 16384
+Total L1 access time: 62435368ns
+Total Memory access time: 612998954ns
+Total Require Time: 1964997ns
+Total Require: 32793times, hit: 16765times, miss: 16028times
+Miss rate: 48.876285%
+
+size: 512KB, set: 4, associativity: 16, block_size: 8192
+Total L1 access time: 62700717ns
+Total Memory access time: 614705130ns
+Total Require Time: 1971525ns
+Total Require: 32793times, hit: 16697times, miss: 16096times
+Miss rate: 49.083646%
+
+size: 512KB, set: 8, associativity: 16, block_size: 4096
+Total L1 access time: 62964726ns
+Total Memory access time: 616425510ns
+Total Require Time: 1984389ns
+Total Require: 32793times, hit: 16563times, miss: 16230times
+Miss rate: 49.492270%
+
+size: 512KB, set: 16, associativity: 16, block_size: 2048
+Total L1 access time: 63226035ns
+Total Memory access time: 618174510ns
+Total Require Time: 2010309ns
+Total Require: 32793times, hit: 16293times, miss: 16500times
+Miss rate: 50.315616%
+
+size: 512KB, set: 32, associativity: 16, block_size: 1024
+Total L1 access time: 63482114ns
+Total Memory access time: 619978948ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 512KB, set: 64, associativity: 16, block_size: 512
+Total L1 access time: 63727623ns
+Total Memory access time: 621895428ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 512KB, set: 128, associativity: 16, block_size: 256
+Total L1 access time: 63952042ns
+Total Memory access time: 624035462ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 512KB, set: 256, associativity: 16, block_size: 128
+Total L1 access time: 64134401ns
+Total Memory access time: 626621332ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 512KB, set: 512, associativity: 16, block_size: 64
+Total L1 access time: 64232780ns
+Total Memory access time: 630097390ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 512KB, set: 1, associativity: 32, block_size: 16384
+Total L1 access time: 64498809ns
+Total Memory access time: 631796358ns
+Total Require Time: 1964997ns
+Total Require: 32793times, hit: 16765times, miss: 16028times
+Miss rate: 48.876285%
+
+size: 512KB, set: 2, associativity: 32, block_size: 8192
+Total L1 access time: 64764158ns
+Total Memory access time: 633502534ns
+Total Require Time: 1971525ns
+Total Require: 32793times, hit: 16697times, miss: 16096times
+Miss rate: 49.083646%
+
+size: 512KB, set: 4, associativity: 32, block_size: 4096
+Total L1 access time: 65028177ns
+Total Memory access time: 635222808ns
+Total Require Time: 1984293ns
+Total Require: 32793times, hit: 16564times, miss: 16229times
+Miss rate: 49.489220%
+
+size: 512KB, set: 8, associativity: 32, block_size: 2048
+Total L1 access time: 65289486ns
+Total Memory access time: 636971808ns
+Total Require Time: 2010309ns
+Total Require: 32793times, hit: 16293times, miss: 16500times
+Miss rate: 50.315616%
+
+size: 512KB, set: 16, associativity: 32, block_size: 1024
+Total L1 access time: 65545565ns
+Total Memory access time: 638776246ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 512KB, set: 32, associativity: 32, block_size: 512
+Total L1 access time: 65791074ns
+Total Memory access time: 640692726ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 512KB, set: 64, associativity: 32, block_size: 256
+Total L1 access time: 66015493ns
+Total Memory access time: 642832760ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 512KB, set: 128, associativity: 32, block_size: 128
+Total L1 access time: 66197852ns
+Total Memory access time: 645418630ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 512KB, set: 256, associativity: 32, block_size: 64
+Total L1 access time: 66296231ns
+Total Memory access time: 648894688ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 512KB, set: 512, associativity: 32, block_size: 32
+Total L1 access time: 66394610ns
+Total Memory access time: 652370746ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 1024KB, set: 1, associativity: 1, block_size: 1048576
+Total L1 access time: 66758589ns
+Total Memory access time: 654070562ns
+Total Require Time: 2063795ns
+Total Require: 32793times, hit: 26560times, miss: 6233times
+Miss rate: 19.007105%
+
+size: 1024KB, set: 2, associativity: 1, block_size: 524288
+Total L1 access time: 67070898ns
+Total Memory access time: 655766774ns
+Total Require Time: 2008521ns
+Total Require: 32793times, hit: 21393times, miss: 11400times
+Miss rate: 34.763517%
+
+size: 1024KB, set: 4, associativity: 1, block_size: 262144
+Total L1 access time: 67337447ns
+Total Memory access time: 657461290ns
+Total Require Time: 1961065ns
+Total Require: 32793times, hit: 16817times, miss: 15976times
+Miss rate: 48.717714%
+
+size: 1024KB, set: 8, associativity: 1, block_size: 131072
+Total L1 access time: 67603966ns
+Total Memory access time: 659155064ns
+Total Require Time: 1960293ns
+Total Require: 32793times, hit: 16814times, miss: 15979times
+Miss rate: 48.726862%
+
+size: 1024KB, set: 16, associativity: 1, block_size: 65536
+Total L1 access time: 67870455ns
+Total Memory access time: 660849156ns
+Total Require Time: 1960581ns
+Total Require: 32793times, hit: 16811times, miss: 15982times
+Miss rate: 48.736011%
+
+size: 1024KB, set: 32, associativity: 1, block_size: 32768
+Total L1 access time: 68136814ns
+Total Memory access time: 662544626ns
+Total Require Time: 1961829ns
+Total Require: 32793times, hit: 16798times, miss: 15995times
+Miss rate: 48.775653%
+
+size: 1024KB, set: 64, associativity: 1, block_size: 16384
+Total L1 access time: 68402833ns
+Total Memory access time: 664243700ns
+Total Require Time: 1965093ns
+Total Require: 32793times, hit: 16764times, miss: 16029times
+Miss rate: 48.879334%
+
+size: 1024KB, set: 128, associativity: 1, block_size: 8192
+Total L1 access time: 68668172ns
+Total Memory access time: 665949982ns
+Total Require Time: 1971621ns
+Total Require: 32793times, hit: 16696times, miss: 16097times
+Miss rate: 49.086695%
+
+size: 1024KB, set: 256, associativity: 1, block_size: 4096
+Total L1 access time: 68932191ns
+Total Memory access time: 667670256ns
+Total Require Time: 1984293ns
+Total Require: 32793times, hit: 16564times, miss: 16229times
+Miss rate: 49.489220%
+
+size: 1024KB, set: 512, associativity: 1, block_size: 2048
+Total L1 access time: 69193500ns
+Total Memory access time: 669419256ns
+Total Require Time: 2010309ns
+Total Require: 32793times, hit: 16293times, miss: 16500times
+Miss rate: 50.315616%
+
+size: 1024KB, set: 1, associativity: 2, block_size: 524288
+Total L1 access time: 69506209ns
+Total Memory access time: 671111228ns
+Total Require Time: 2004681ns
+Total Require: 32793times, hit: 21433times, miss: 11360times
+Miss rate: 34.641539%
+
+size: 1024KB, set: 2, associativity: 2, block_size: 262144
+Total L1 access time: 69772978ns
+Total Memory access time: 672803412ns
+Total Require Time: 1958953ns
+Total Require: 32793times, hit: 16839times, miss: 15954times
+Miss rate: 48.650627%
+
+size: 1024KB, set: 4, associativity: 2, block_size: 131072
+Total L1 access time: 70039607ns
+Total Memory access time: 674496020ns
+Total Require Time: 1959237ns
+Total Require: 32793times, hit: 16825times, miss: 15968times
+Miss rate: 48.693319%
+
+size: 1024KB, set: 8, associativity: 2, block_size: 65536
+Total L1 access time: 70306156ns
+Total Memory access time: 676189476ns
+Total Require Time: 1960005ns
+Total Require: 32793times, hit: 16817times, miss: 15976times
+Miss rate: 48.717714%
+
+size: 1024KB, set: 16, associativity: 2, block_size: 32768
+Total L1 access time: 70572535ns
+Total Memory access time: 677884734ns
+Total Require Time: 1961637ns
+Total Require: 32793times, hit: 16800times, miss: 15993times
+Miss rate: 48.769554%
+
+size: 1024KB, set: 32, associativity: 2, block_size: 16384
+Total L1 access time: 70838574ns
+Total Memory access time: 679583596ns
+Total Require Time: 1964901ns
+Total Require: 32793times, hit: 16766times, miss: 16027times
+Miss rate: 48.873235%
+
+size: 1024KB, set: 64, associativity: 2, block_size: 8192
+Total L1 access time: 71103933ns
+Total Memory access time: 681289666ns
+Total Require Time: 1971429ns
+Total Require: 32793times, hit: 16698times, miss: 16095times
+Miss rate: 49.080596%
+
+size: 1024KB, set: 128, associativity: 2, block_size: 4096
+Total L1 access time: 71367952ns
+Total Memory access time: 683009940ns
+Total Require Time: 1984293ns
+Total Require: 32793times, hit: 16564times, miss: 16229times
+Miss rate: 49.489220%
+
+size: 1024KB, set: 256, associativity: 2, block_size: 2048
+Total L1 access time: 71629271ns
+Total Memory access time: 684758834ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 1024KB, set: 512, associativity: 2, block_size: 1024
+Total L1 access time: 71885350ns
+Total Memory access time: 686563272ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 1024KB, set: 1, associativity: 4, block_size: 262144
+Total L1 access time: 72152119ns
+Total Memory access time: 688255456ns
+Total Require Time: 1958953ns
+Total Require: 32793times, hit: 16839times, miss: 15954times
+Miss rate: 48.650627%
+
+size: 1024KB, set: 2, associativity: 4, block_size: 131072
+Total L1 access time: 72418748ns
+Total Memory access time: 689948064ns
+Total Require Time: 1959237ns
+Total Require: 32793times, hit: 16825times, miss: 15968times
+Miss rate: 48.693319%
+
+size: 1024KB, set: 4, associativity: 4, block_size: 65536
+Total L1 access time: 72685297ns
+Total Memory access time: 691641520ns
+Total Require Time: 1960005ns
+Total Require: 32793times, hit: 16817times, miss: 15976times
+Miss rate: 48.717714%
+
+size: 1024KB, set: 8, associativity: 4, block_size: 32768
+Total L1 access time: 72951676ns
+Total Memory access time: 693336778ns
+Total Require Time: 1961637ns
+Total Require: 32793times, hit: 16800times, miss: 15993times
+Miss rate: 48.769554%
+
+size: 1024KB, set: 16, associativity: 4, block_size: 16384
+Total L1 access time: 73217715ns
+Total Memory access time: 695035640ns
+Total Require Time: 1964901ns
+Total Require: 32793times, hit: 16766times, miss: 16027times
+Miss rate: 48.873235%
+
+size: 1024KB, set: 32, associativity: 4, block_size: 8192
+Total L1 access time: 73483074ns
+Total Memory access time: 696741710ns
+Total Require Time: 1971429ns
+Total Require: 32793times, hit: 16698times, miss: 16095times
+Miss rate: 49.080596%
+
+size: 1024KB, set: 64, associativity: 4, block_size: 4096
+Total L1 access time: 73747093ns
+Total Memory access time: 698461984ns
+Total Require Time: 1984293ns
+Total Require: 32793times, hit: 16564times, miss: 16229times
+Miss rate: 49.489220%
+
+size: 1024KB, set: 128, associativity: 4, block_size: 2048
+Total L1 access time: 74008412ns
+Total Memory access time: 700210878ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 1024KB, set: 256, associativity: 4, block_size: 1024
+Total L1 access time: 74264491ns
+Total Memory access time: 702015316ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 1024KB, set: 512, associativity: 4, block_size: 512
+Total L1 access time: 74510000ns
+Total Memory access time: 703931796ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 1024KB, set: 1, associativity: 8, block_size: 131072
+Total L1 access time: 74776629ns
+Total Memory access time: 705624404ns
+Total Require Time: 1959237ns
+Total Require: 32793times, hit: 16825times, miss: 15968times
+Miss rate: 48.693319%
+
+size: 1024KB, set: 2, associativity: 8, block_size: 65536
+Total L1 access time: 75043178ns
+Total Memory access time: 707317860ns
+Total Require Time: 1960005ns
+Total Require: 32793times, hit: 16817times, miss: 15976times
+Miss rate: 48.717714%
+
+size: 1024KB, set: 4, associativity: 8, block_size: 32768
+Total L1 access time: 75309557ns
+Total Memory access time: 709013118ns
+Total Require Time: 1961637ns
+Total Require: 32793times, hit: 16800times, miss: 15993times
+Miss rate: 48.769554%
+
+size: 1024KB, set: 8, associativity: 8, block_size: 16384
+Total L1 access time: 75575596ns
+Total Memory access time: 710711980ns
+Total Require Time: 1964901ns
+Total Require: 32793times, hit: 16766times, miss: 16027times
+Miss rate: 48.873235%
+
+size: 1024KB, set: 16, associativity: 8, block_size: 8192
+Total L1 access time: 75840955ns
+Total Memory access time: 712418050ns
+Total Require Time: 1971429ns
+Total Require: 32793times, hit: 16698times, miss: 16095times
+Miss rate: 49.080596%
+
+size: 1024KB, set: 32, associativity: 8, block_size: 4096
+Total L1 access time: 76104974ns
+Total Memory access time: 714138324ns
+Total Require Time: 1984293ns
+Total Require: 32793times, hit: 16564times, miss: 16229times
+Miss rate: 49.489220%
+
+size: 1024KB, set: 64, associativity: 8, block_size: 2048
+Total L1 access time: 76366293ns
+Total Memory access time: 715887218ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 1024KB, set: 128, associativity: 8, block_size: 1024
+Total L1 access time: 76622372ns
+Total Memory access time: 717691656ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 1024KB, set: 256, associativity: 8, block_size: 512
+Total L1 access time: 76867881ns
+Total Memory access time: 719608136ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 1024KB, set: 512, associativity: 8, block_size: 256
+Total L1 access time: 77092300ns
+Total Memory access time: 721748170ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 1024KB, set: 1, associativity: 16, block_size: 65536
+Total L1 access time: 77358849ns
+Total Memory access time: 723441626ns
+Total Require Time: 1960005ns
+Total Require: 32793times, hit: 16817times, miss: 15976times
+Miss rate: 48.717714%
+
+size: 1024KB, set: 2, associativity: 16, block_size: 32768
+Total L1 access time: 77625228ns
+Total Memory access time: 725136884ns
+Total Require Time: 1961637ns
+Total Require: 32793times, hit: 16800times, miss: 15993times
+Miss rate: 48.769554%
+
+size: 1024KB, set: 4, associativity: 16, block_size: 16384
+Total L1 access time: 77891267ns
+Total Memory access time: 726835746ns
+Total Require Time: 1964901ns
+Total Require: 32793times, hit: 16766times, miss: 16027times
+Miss rate: 48.873235%
+
+size: 1024KB, set: 8, associativity: 16, block_size: 8192
+Total L1 access time: 78156626ns
+Total Memory access time: 728541816ns
+Total Require Time: 1971429ns
+Total Require: 32793times, hit: 16698times, miss: 16095times
+Miss rate: 49.080596%
+
+size: 1024KB, set: 16, associativity: 16, block_size: 4096
+Total L1 access time: 78420645ns
+Total Memory access time: 730262090ns
+Total Require Time: 1984293ns
+Total Require: 32793times, hit: 16564times, miss: 16229times
+Miss rate: 49.489220%
+
+size: 1024KB, set: 32, associativity: 16, block_size: 2048
+Total L1 access time: 78681964ns
+Total Memory access time: 732010984ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 1024KB, set: 64, associativity: 16, block_size: 1024
+Total L1 access time: 78938043ns
+Total Memory access time: 733815422ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 1024KB, set: 128, associativity: 16, block_size: 512
+Total L1 access time: 79183552ns
+Total Memory access time: 735731902ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 1024KB, set: 256, associativity: 16, block_size: 256
+Total L1 access time: 79407971ns
+Total Memory access time: 737871936ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 1024KB, set: 512, associativity: 16, block_size: 128
+Total L1 access time: 79590330ns
+Total Memory access time: 740457806ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 1024KB, set: 1, associativity: 32, block_size: 32768
+Total L1 access time: 79856709ns
+Total Memory access time: 742153064ns
+Total Require Time: 1961637ns
+Total Require: 32793times, hit: 16800times, miss: 15993times
+Miss rate: 48.769554%
+
+size: 1024KB, set: 2, associativity: 32, block_size: 16384
+Total L1 access time: 80122748ns
+Total Memory access time: 743851926ns
+Total Require Time: 1964901ns
+Total Require: 32793times, hit: 16766times, miss: 16027times
+Miss rate: 48.873235%
+
+size: 1024KB, set: 4, associativity: 32, block_size: 8192
+Total L1 access time: 80388107ns
+Total Memory access time: 745557996ns
+Total Require Time: 1971429ns
+Total Require: 32793times, hit: 16698times, miss: 16095times
+Miss rate: 49.080596%
+
+size: 1024KB, set: 8, associativity: 32, block_size: 4096
+Total L1 access time: 80652126ns
+Total Memory access time: 747278270ns
+Total Require Time: 1984293ns
+Total Require: 32793times, hit: 16564times, miss: 16229times
+Miss rate: 49.489220%
+
+size: 1024KB, set: 16, associativity: 32, block_size: 2048
+Total L1 access time: 80913445ns
+Total Memory access time: 749027164ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 1024KB, set: 32, associativity: 32, block_size: 1024
+Total L1 access time: 81169524ns
+Total Memory access time: 750831602ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 1024KB, set: 64, associativity: 32, block_size: 512
+Total L1 access time: 81415033ns
+Total Memory access time: 752748082ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 1024KB, set: 128, associativity: 32, block_size: 256
+Total L1 access time: 81639452ns
+Total Memory access time: 754888116ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 1024KB, set: 256, associativity: 32, block_size: 128
+Total L1 access time: 81821811ns
+Total Memory access time: 757473986ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 1024KB, set: 512, associativity: 32, block_size: 64
+Total L1 access time: 81920190ns
+Total Memory access time: 760950044ns
+Total Require Time: 3574437ns
+Total Require: 32793times, hit: 0times, miss: 32793times
+Miss rate: 100.000000%
+
+size: 2048KB, set: 1, associativity: 1, block_size: 2097152
+Total L1 access time: 82296179ns
+Total Memory access time: 762649860ns
+Total Require Time: 2075805ns
+Total Require: 32793times, hit: 27761times, miss: 5032times
+Miss rate: 15.344738%
+
+size: 2048KB, set: 2, associativity: 1, block_size: 1048576
+Total L1 access time: 82661268ns
+Total Memory access time: 764347344ns
+Total Require Time: 2062573ns
+Total Require: 32793times, hit: 26671times, miss: 6122times
+Miss rate: 18.668618%
+
+size: 2048KB, set: 4, associativity: 1, block_size: 524288
+Total L1 access time: 82974657ns
+Total Memory access time: 766041118ns
+Total Require Time: 2007163ns
+Total Require: 32793times, hit: 21501times, miss: 11292times
+Miss rate: 34.434178%
+
+size: 2048KB, set: 8, associativity: 1, block_size: 262144
+Total L1 access time: 83241256ns
+Total Memory access time: 767735104ns
+Total Require Time: 1960585ns
+Total Require: 32793times, hit: 16822times, miss: 15971times
+Miss rate: 48.702467%
+
+size: 2048KB, set: 16, associativity: 1, block_size: 131072
+Total L1 access time: 83507785ns
+Total Memory access time: 769428772ns
+Total Require Time: 1960197ns
+Total Require: 32793times, hit: 16815times, miss: 15978times
+Miss rate: 48.723813%
+
+size: 2048KB, set: 32, associativity: 1, block_size: 65536
+Total L1 access time: 83774274ns
+Total Memory access time: 771122864ns
+Total Require Time: 1960581ns
+Total Require: 32793times, hit: 16811times, miss: 15982times
+Miss rate: 48.736011%
+
+size: 2048KB, set: 64, associativity: 1, block_size: 32768
+Total L1 access time: 84040633ns
+Total Memory access time: 772818334ns
+Total Require Time: 1961829ns
+Total Require: 32793times, hit: 16798times, miss: 15995times
+Miss rate: 48.775653%
+
+size: 2048KB, set: 128, associativity: 1, block_size: 16384
+Total L1 access time: 84306652ns
+Total Memory access time: 774517408ns
+Total Require Time: 1965093ns
+Total Require: 32793times, hit: 16764times, miss: 16029times
+Miss rate: 48.879334%
+
+size: 2048KB, set: 256, associativity: 1, block_size: 8192
+Total L1 access time: 84571991ns
+Total Memory access time: 776223690ns
+Total Require Time: 1971621ns
+Total Require: 32793times, hit: 16696times, miss: 16097times
+Miss rate: 49.086695%
+
+size: 2048KB, set: 512, associativity: 1, block_size: 4096
+Total L1 access time: 84836010ns
+Total Memory access time: 777943964ns
+Total Require Time: 1984293ns
+Total Require: 32793times, hit: 16564times, miss: 16229times
+Miss rate: 49.489220%
+
+size: 2048KB, set: 1, associativity: 2, block_size: 1048576
+Total L1 access time: 85204579ns
+Total Memory access time: 779635936ns
+Total Require Time: 2060541ns
+Total Require: 32793times, hit: 27019times, miss: 5774times
+Miss rate: 17.607416%
+
+size: 2048KB, set: 2, associativity: 2, block_size: 524288
+Total L1 access time: 85518148ns
+Total Memory access time: 781327802ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 2048KB, set: 4, associativity: 2, block_size: 262144
+Total L1 access time: 85784927ns
+Total Memory access time: 783019880ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 2048KB, set: 8, associativity: 2, block_size: 131072
+Total L1 access time: 86051566ns
+Total Memory access time: 784712382ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 2048KB, set: 16, associativity: 2, block_size: 65536
+Total L1 access time: 86318125ns
+Total Memory access time: 786405732ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 2048KB, set: 32, associativity: 2, block_size: 32768
+Total L1 access time: 86584514ns
+Total Memory access time: 788100884ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 2048KB, set: 64, associativity: 2, block_size: 16384
+Total L1 access time: 86850563ns
+Total Memory access time: 789799640ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 2048KB, set: 128, associativity: 2, block_size: 8192
+Total L1 access time: 87115932ns
+Total Memory access time: 791505604ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 2048KB, set: 256, associativity: 2, block_size: 4096
+Total L1 access time: 87379961ns
+Total Memory access time: 793225772ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 2048KB, set: 512, associativity: 2, block_size: 2048
+Total L1 access time: 87641280ns
+Total Memory access time: 794974666ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 2048KB, set: 1, associativity: 4, block_size: 524288
+Total L1 access time: 87954849ns
+Total Memory access time: 796666532ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 2048KB, set: 2, associativity: 4, block_size: 262144
+Total L1 access time: 88221628ns
+Total Memory access time: 798358610ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 2048KB, set: 4, associativity: 4, block_size: 131072
+Total L1 access time: 88488267ns
+Total Memory access time: 800051112ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 2048KB, set: 8, associativity: 4, block_size: 65536
+Total L1 access time: 88754826ns
+Total Memory access time: 801744462ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 2048KB, set: 16, associativity: 4, block_size: 32768
+Total L1 access time: 89021215ns
+Total Memory access time: 803439614ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 2048KB, set: 32, associativity: 4, block_size: 16384
+Total L1 access time: 89287264ns
+Total Memory access time: 805138370ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 2048KB, set: 64, associativity: 4, block_size: 8192
+Total L1 access time: 89552633ns
+Total Memory access time: 806844334ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 2048KB, set: 128, associativity: 4, block_size: 4096
+Total L1 access time: 89816662ns
+Total Memory access time: 808564502ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 2048KB, set: 256, associativity: 4, block_size: 2048
+Total L1 access time: 90077981ns
+Total Memory access time: 810313396ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 2048KB, set: 512, associativity: 4, block_size: 1024
+Total L1 access time: 90334060ns
+Total Memory access time: 812117834ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 2048KB, set: 1, associativity: 8, block_size: 262144
+Total L1 access time: 90600839ns
+Total Memory access time: 813809912ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 2048KB, set: 2, associativity: 8, block_size: 131072
+Total L1 access time: 90867478ns
+Total Memory access time: 815502414ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 2048KB, set: 4, associativity: 8, block_size: 65536
+Total L1 access time: 91134037ns
+Total Memory access time: 817195764ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 2048KB, set: 8, associativity: 8, block_size: 32768
+Total L1 access time: 91400426ns
+Total Memory access time: 818890916ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 2048KB, set: 16, associativity: 8, block_size: 16384
+Total L1 access time: 91666475ns
+Total Memory access time: 820589672ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 2048KB, set: 32, associativity: 8, block_size: 8192
+Total L1 access time: 91931844ns
+Total Memory access time: 822295636ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 2048KB, set: 64, associativity: 8, block_size: 4096
+Total L1 access time: 92195873ns
+Total Memory access time: 824015804ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 2048KB, set: 128, associativity: 8, block_size: 2048
+Total L1 access time: 92457192ns
+Total Memory access time: 825764698ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 2048KB, set: 256, associativity: 8, block_size: 1024
+Total L1 access time: 92713271ns
+Total Memory access time: 827569136ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 2048KB, set: 512, associativity: 8, block_size: 512
+Total L1 access time: 92958780ns
+Total Memory access time: 829485616ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 2048KB, set: 1, associativity: 16, block_size: 131072
+Total L1 access time: 93225419ns
+Total Memory access time: 831178118ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 2048KB, set: 2, associativity: 16, block_size: 65536
+Total L1 access time: 93491978ns
+Total Memory access time: 832871468ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 2048KB, set: 4, associativity: 16, block_size: 32768
+Total L1 access time: 93758367ns
+Total Memory access time: 834566620ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 2048KB, set: 8, associativity: 16, block_size: 16384
+Total L1 access time: 94024416ns
+Total Memory access time: 836265376ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 2048KB, set: 16, associativity: 16, block_size: 8192
+Total L1 access time: 94289785ns
+Total Memory access time: 837971340ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 2048KB, set: 32, associativity: 16, block_size: 4096
+Total L1 access time: 94553814ns
+Total Memory access time: 839691508ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 2048KB, set: 64, associativity: 16, block_size: 2048
+Total L1 access time: 94815133ns
+Total Memory access time: 841440402ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 2048KB, set: 128, associativity: 16, block_size: 1024
+Total L1 access time: 95071212ns
+Total Memory access time: 843244840ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 2048KB, set: 256, associativity: 16, block_size: 512
+Total L1 access time: 95316721ns
+Total Memory access time: 845161320ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 2048KB, set: 512, associativity: 16, block_size: 256
+Total L1 access time: 95541140ns
+Total Memory access time: 847301354ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 2048KB, set: 1, associativity: 32, block_size: 65536
+Total L1 access time: 95807699ns
+Total Memory access time: 848994704ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 2048KB, set: 2, associativity: 32, block_size: 32768
+Total L1 access time: 96074088ns
+Total Memory access time: 850689856ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 2048KB, set: 4, associativity: 32, block_size: 16384
+Total L1 access time: 96340137ns
+Total Memory access time: 852388612ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 2048KB, set: 8, associativity: 32, block_size: 8192
+Total L1 access time: 96605506ns
+Total Memory access time: 854094576ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 2048KB, set: 16, associativity: 32, block_size: 4096
+Total L1 access time: 96869535ns
+Total Memory access time: 855814744ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 2048KB, set: 32, associativity: 32, block_size: 2048
+Total L1 access time: 97130854ns
+Total Memory access time: 857563638ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 2048KB, set: 64, associativity: 32, block_size: 1024
+Total L1 access time: 97386933ns
+Total Memory access time: 859368076ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 2048KB, set: 128, associativity: 32, block_size: 512
+Total L1 access time: 97632442ns
+Total Memory access time: 861284556ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 2048KB, set: 256, associativity: 32, block_size: 256
+Total L1 access time: 97856861ns
+Total Memory access time: 863424590ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 2048KB, set: 512, associativity: 32, block_size: 128
+Total L1 access time: 98039220ns
+Total Memory access time: 866010460ns
+Total Require Time: 2768229ns
+Total Require: 32793times, hit: 8398times, miss: 24395times
+Miss rate: 74.390876%
+
+size: 4096KB, set: 1, associativity: 1, block_size: 4194304
+Total L1 access time: 98415429ns
+Total Memory access time: 867707944ns
+Total Require Time: 2073693ns
+Total Require: 32793times, hit: 27783times, miss: 5010times
+Miss rate: 15.277651%
+
+size: 4096KB, set: 2, associativity: 1, block_size: 2097152
+Total L1 access time: 98792528ns
+Total Memory access time: 869405428ns
+Total Require Time: 2074583ns
+Total Require: 32793times, hit: 27872times, miss: 4921times
+Miss rate: 15.006251%
+
+size: 4096KB, set: 4, associativity: 1, block_size: 1048576
+Total L1 access time: 99157617ns
+Total Memory access time: 871102912ns
+Total Require Time: 2062573ns
+Total Require: 32793times, hit: 26671times, miss: 6122times
+Miss rate: 18.668618%
+
+size: 4096KB, set: 8, associativity: 1, block_size: 524288
+Total L1 access time: 99471006ns
+Total Memory access time: 872796686ns
+Total Require Time: 2007163ns
+Total Require: 32793times, hit: 21501times, miss: 11292times
+Miss rate: 34.434178%
+
+size: 4096KB, set: 16, associativity: 1, block_size: 262144
+Total L1 access time: 99737605ns
+Total Memory access time: 874490672ns
+Total Require Time: 1960585ns
+Total Require: 32793times, hit: 16822times, miss: 15971times
+Miss rate: 48.702467%
+
+size: 4096KB, set: 32, associativity: 1, block_size: 131072
+Total L1 access time: 100004134ns
+Total Memory access time: 876184340ns
+Total Require Time: 1960197ns
+Total Require: 32793times, hit: 16815times, miss: 15978times
+Miss rate: 48.723813%
+
+size: 4096KB, set: 64, associativity: 1, block_size: 65536
+Total L1 access time: 100270623ns
+Total Memory access time: 877878432ns
+Total Require Time: 1960581ns
+Total Require: 32793times, hit: 16811times, miss: 15982times
+Miss rate: 48.736011%
+
+size: 4096KB, set: 128, associativity: 1, block_size: 32768
+Total L1 access time: 100536982ns
+Total Memory access time: 879573902ns
+Total Require Time: 1961829ns
+Total Require: 32793times, hit: 16798times, miss: 15995times
+Miss rate: 48.775653%
+
+size: 4096KB, set: 256, associativity: 1, block_size: 16384
+Total L1 access time: 100803001ns
+Total Memory access time: 881272976ns
+Total Require Time: 1965093ns
+Total Require: 32793times, hit: 16764times, miss: 16029times
+Miss rate: 48.879334%
+
+size: 4096KB, set: 512, associativity: 1, block_size: 8192
+Total L1 access time: 101068340ns
+Total Memory access time: 882979258ns
+Total Require Time: 1971621ns
+Total Require: 32793times, hit: 16696times, miss: 16097times
+Miss rate: 49.086695%
+
+size: 4096KB, set: 1, associativity: 2, block_size: 2097152
+Total L1 access time: 101448919ns
+Total Memory access time: 884671230ns
+Total Require Time: 2072551ns
+Total Require: 32793times, hit: 28220times, miss: 4573times
+Miss rate: 13.945049%
+
+size: 4096KB, set: 2, associativity: 2, block_size: 1048576
+Total L1 access time: 101818398ns
+Total Memory access time: 886362990ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 4096KB, set: 4, associativity: 2, block_size: 524288
+Total L1 access time: 102131967ns
+Total Memory access time: 888054856ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 4096KB, set: 8, associativity: 2, block_size: 262144
+Total L1 access time: 102398746ns
+Total Memory access time: 889746934ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 4096KB, set: 16, associativity: 2, block_size: 131072
+Total L1 access time: 102665385ns
+Total Memory access time: 891439436ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 4096KB, set: 32, associativity: 2, block_size: 65536
+Total L1 access time: 102931944ns
+Total Memory access time: 893132786ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 4096KB, set: 64, associativity: 2, block_size: 32768
+Total L1 access time: 103198333ns
+Total Memory access time: 894827938ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 4096KB, set: 128, associativity: 2, block_size: 16384
+Total L1 access time: 103464382ns
+Total Memory access time: 896526694ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 4096KB, set: 256, associativity: 2, block_size: 8192
+Total L1 access time: 103729751ns
+Total Memory access time: 898232658ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 4096KB, set: 512, associativity: 2, block_size: 4096
+Total L1 access time: 103993780ns
+Total Memory access time: 899952826ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 4096KB, set: 1, associativity: 4, block_size: 1048576
+Total L1 access time: 104363259ns
+Total Memory access time: 901644586ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 4096KB, set: 2, associativity: 4, block_size: 524288
+Total L1 access time: 104676828ns
+Total Memory access time: 903336452ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 4096KB, set: 4, associativity: 4, block_size: 262144
+Total L1 access time: 104943607ns
+Total Memory access time: 905028530ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 4096KB, set: 8, associativity: 4, block_size: 131072
+Total L1 access time: 105210246ns
+Total Memory access time: 906721032ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 4096KB, set: 16, associativity: 4, block_size: 65536
+Total L1 access time: 105476805ns
+Total Memory access time: 908414382ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 4096KB, set: 32, associativity: 4, block_size: 32768
+Total L1 access time: 105743194ns
+Total Memory access time: 910109534ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 4096KB, set: 64, associativity: 4, block_size: 16384
+Total L1 access time: 106009243ns
+Total Memory access time: 911808290ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 4096KB, set: 128, associativity: 4, block_size: 8192
+Total L1 access time: 106274612ns
+Total Memory access time: 913514254ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 4096KB, set: 256, associativity: 4, block_size: 4096
+Total L1 access time: 106538641ns
+Total Memory access time: 915234422ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 4096KB, set: 512, associativity: 4, block_size: 2048
+Total L1 access time: 106799960ns
+Total Memory access time: 916983316ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 4096KB, set: 1, associativity: 8, block_size: 524288
+Total L1 access time: 107113529ns
+Total Memory access time: 918675182ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 4096KB, set: 2, associativity: 8, block_size: 262144
+Total L1 access time: 107380308ns
+Total Memory access time: 920367260ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 4096KB, set: 4, associativity: 8, block_size: 131072
+Total L1 access time: 107646947ns
+Total Memory access time: 922059762ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 4096KB, set: 8, associativity: 8, block_size: 65536
+Total L1 access time: 107913506ns
+Total Memory access time: 923753112ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 4096KB, set: 16, associativity: 8, block_size: 32768
+Total L1 access time: 108179895ns
+Total Memory access time: 925448264ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 4096KB, set: 32, associativity: 8, block_size: 16384
+Total L1 access time: 108445944ns
+Total Memory access time: 927147020ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 4096KB, set: 64, associativity: 8, block_size: 8192
+Total L1 access time: 108711313ns
+Total Memory access time: 928852984ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 4096KB, set: 128, associativity: 8, block_size: 4096
+Total L1 access time: 108975342ns
+Total Memory access time: 930573152ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 4096KB, set: 256, associativity: 8, block_size: 2048
+Total L1 access time: 109236661ns
+Total Memory access time: 932322046ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 4096KB, set: 512, associativity: 8, block_size: 1024
+Total L1 access time: 109492740ns
+Total Memory access time: 934126484ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 4096KB, set: 1, associativity: 16, block_size: 262144
+Total L1 access time: 109759519ns
+Total Memory access time: 935818562ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 4096KB, set: 2, associativity: 16, block_size: 131072
+Total L1 access time: 110026158ns
+Total Memory access time: 937511064ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 4096KB, set: 4, associativity: 16, block_size: 65536
+Total L1 access time: 110292717ns
+Total Memory access time: 939204414ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 4096KB, set: 8, associativity: 16, block_size: 32768
+Total L1 access time: 110559106ns
+Total Memory access time: 940899566ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 4096KB, set: 16, associativity: 16, block_size: 16384
+Total L1 access time: 110825155ns
+Total Memory access time: 942598322ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 4096KB, set: 32, associativity: 16, block_size: 8192
+Total L1 access time: 111090524ns
+Total Memory access time: 944304286ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 4096KB, set: 64, associativity: 16, block_size: 4096
+Total L1 access time: 111354553ns
+Total Memory access time: 946024454ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 4096KB, set: 128, associativity: 16, block_size: 2048
+Total L1 access time: 111615872ns
+Total Memory access time: 947773348ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 4096KB, set: 256, associativity: 16, block_size: 1024
+Total L1 access time: 111871951ns
+Total Memory access time: 949577786ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 4096KB, set: 512, associativity: 16, block_size: 512
+Total L1 access time: 112117460ns
+Total Memory access time: 951494266ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 4096KB, set: 1, associativity: 32, block_size: 131072
+Total L1 access time: 112384099ns
+Total Memory access time: 953186768ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 4096KB, set: 2, associativity: 32, block_size: 65536
+Total L1 access time: 112650658ns
+Total Memory access time: 954880118ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 4096KB, set: 4, associativity: 32, block_size: 32768
+Total L1 access time: 112917047ns
+Total Memory access time: 956575270ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 4096KB, set: 8, associativity: 32, block_size: 16384
+Total L1 access time: 113183096ns
+Total Memory access time: 958274026ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 4096KB, set: 16, associativity: 32, block_size: 8192
+Total L1 access time: 113448465ns
+Total Memory access time: 959979990ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 4096KB, set: 32, associativity: 32, block_size: 4096
+Total L1 access time: 113712494ns
+Total Memory access time: 961700158ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 4096KB, set: 64, associativity: 32, block_size: 2048
+Total L1 access time: 113973813ns
+Total Memory access time: 963449052ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 4096KB, set: 128, associativity: 32, block_size: 1024
+Total L1 access time: 114229892ns
+Total Memory access time: 965253490ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 4096KB, set: 256, associativity: 32, block_size: 512
+Total L1 access time: 114475401ns
+Total Memory access time: 967169970ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 4096KB, set: 512, associativity: 32, block_size: 256
+Total L1 access time: 114699820ns
+Total Memory access time: 969310004ns
+Total Require Time: 2364453ns
+Total Require: 32793times, hit: 12604times, miss: 20189times
+Miss rate: 61.564968%
+
+size: 8192KB, set: 1, associativity: 1, block_size: 8388608
+Total L1 access time: 115124669ns
+Total Memory access time: 971001658ns
+Total Require Time: 2116503ns
+Total Require: 32793times, hit: 32647times, miss: 146times
+Miss rate: 0.445217%
+
+size: 8192KB, set: 2, associativity: 1, block_size: 4194304
+Total L1 access time: 115505268ns
+Total Memory access time: 972693418ns
+Total Require Time: 2072359ns
+Total Require: 32793times, hit: 28222times, miss: 4571times
+Miss rate: 13.938950%
+
+size: 8192KB, set: 4, associativity: 1, block_size: 2097152
+Total L1 access time: 115886757ns
+Total Memory access time: 974385178ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 8192KB, set: 8, associativity: 1, block_size: 1048576
+Total L1 access time: 116256236ns
+Total Memory access time: 976076938ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 8192KB, set: 16, associativity: 1, block_size: 524288
+Total L1 access time: 116569805ns
+Total Memory access time: 977768804ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 8192KB, set: 32, associativity: 1, block_size: 262144
+Total L1 access time: 116836584ns
+Total Memory access time: 979460882ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 8192KB, set: 64, associativity: 1, block_size: 131072
+Total L1 access time: 117103223ns
+Total Memory access time: 981153384ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 8192KB, set: 128, associativity: 1, block_size: 65536
+Total L1 access time: 117369782ns
+Total Memory access time: 982846734ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 8192KB, set: 256, associativity: 1, block_size: 32768
+Total L1 access time: 117636171ns
+Total Memory access time: 984541886ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 8192KB, set: 512, associativity: 1, block_size: 16384
+Total L1 access time: 117902220ns
+Total Memory access time: 986240642ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 8192KB, set: 1, associativity: 2, block_size: 4194304
+Total L1 access time: 118282809ns
+Total Memory access time: 987932508ns
+Total Require Time: 2072455ns
+Total Require: 32793times, hit: 28221times, miss: 4572times
+Miss rate: 13.942000%
+
+size: 8192KB, set: 2, associativity: 2, block_size: 2097152
+Total L1 access time: 118664298ns
+Total Memory access time: 989624268ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 8192KB, set: 4, associativity: 2, block_size: 1048576
+Total L1 access time: 119033777ns
+Total Memory access time: 991316028ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 8192KB, set: 8, associativity: 2, block_size: 524288
+Total L1 access time: 119347346ns
+Total Memory access time: 993007894ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 8192KB, set: 16, associativity: 2, block_size: 262144
+Total L1 access time: 119614125ns
+Total Memory access time: 994699972ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 8192KB, set: 32, associativity: 2, block_size: 131072
+Total L1 access time: 119880764ns
+Total Memory access time: 996392474ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 8192KB, set: 64, associativity: 2, block_size: 65536
+Total L1 access time: 120147323ns
+Total Memory access time: 998085824ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 8192KB, set: 128, associativity: 2, block_size: 32768
+Total L1 access time: 120413712ns
+Total Memory access time: 999780976ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 8192KB, set: 256, associativity: 2, block_size: 16384
+Total L1 access time: 120679761ns
+Total Memory access time: 1001479732ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 8192KB, set: 512, associativity: 2, block_size: 8192
+Total L1 access time: 120945130ns
+Total Memory access time: 1003185696ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 8192KB, set: 1, associativity: 4, block_size: 2097152
+Total L1 access time: 121326619ns
+Total Memory access time: 1004877456ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 8192KB, set: 2, associativity: 4, block_size: 1048576
+Total L1 access time: 121696098ns
+Total Memory access time: 1006569216ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 8192KB, set: 4, associativity: 4, block_size: 524288
+Total L1 access time: 122009667ns
+Total Memory access time: 1008261082ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 8192KB, set: 8, associativity: 4, block_size: 262144
+Total L1 access time: 122276446ns
+Total Memory access time: 1009953160ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 8192KB, set: 16, associativity: 4, block_size: 131072
+Total L1 access time: 122543085ns
+Total Memory access time: 1011645662ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 8192KB, set: 32, associativity: 4, block_size: 65536
+Total L1 access time: 122809644ns
+Total Memory access time: 1013339012ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 8192KB, set: 64, associativity: 4, block_size: 32768
+Total L1 access time: 123076033ns
+Total Memory access time: 1015034164ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 8192KB, set: 128, associativity: 4, block_size: 16384
+Total L1 access time: 123342082ns
+Total Memory access time: 1016732920ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 8192KB, set: 256, associativity: 4, block_size: 8192
+Total L1 access time: 123607451ns
+Total Memory access time: 1018438884ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 8192KB, set: 512, associativity: 4, block_size: 4096
+Total L1 access time: 123871480ns
+Total Memory access time: 1020159052ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 8192KB, set: 1, associativity: 8, block_size: 1048576
+Total L1 access time: 124240959ns
+Total Memory access time: 1021850812ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 8192KB, set: 2, associativity: 8, block_size: 524288
+Total L1 access time: 124554528ns
+Total Memory access time: 1023542678ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 8192KB, set: 4, associativity: 8, block_size: 262144
+Total L1 access time: 124821307ns
+Total Memory access time: 1025234756ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 8192KB, set: 8, associativity: 8, block_size: 131072
+Total L1 access time: 125087946ns
+Total Memory access time: 1026927258ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 8192KB, set: 16, associativity: 8, block_size: 65536
+Total L1 access time: 125354505ns
+Total Memory access time: 1028620608ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 8192KB, set: 32, associativity: 8, block_size: 32768
+Total L1 access time: 125620894ns
+Total Memory access time: 1030315760ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 8192KB, set: 64, associativity: 8, block_size: 16384
+Total L1 access time: 125886943ns
+Total Memory access time: 1032014516ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 8192KB, set: 128, associativity: 8, block_size: 8192
+Total L1 access time: 126152312ns
+Total Memory access time: 1033720480ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 8192KB, set: 256, associativity: 8, block_size: 4096
+Total L1 access time: 126416341ns
+Total Memory access time: 1035440648ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 8192KB, set: 512, associativity: 8, block_size: 2048
+Total L1 access time: 126677660ns
+Total Memory access time: 1037189542ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 8192KB, set: 1, associativity: 16, block_size: 524288
+Total L1 access time: 126991229ns
+Total Memory access time: 1038881408ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 8192KB, set: 2, associativity: 16, block_size: 262144
+Total L1 access time: 127258008ns
+Total Memory access time: 1040573486ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 8192KB, set: 4, associativity: 16, block_size: 131072
+Total L1 access time: 127524647ns
+Total Memory access time: 1042265988ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 8192KB, set: 8, associativity: 16, block_size: 65536
+Total L1 access time: 127791206ns
+Total Memory access time: 1043959338ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 8192KB, set: 16, associativity: 16, block_size: 32768
+Total L1 access time: 128057595ns
+Total Memory access time: 1045654490ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 8192KB, set: 32, associativity: 16, block_size: 16384
+Total L1 access time: 128323644ns
+Total Memory access time: 1047353246ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 8192KB, set: 64, associativity: 16, block_size: 8192
+Total L1 access time: 128589013ns
+Total Memory access time: 1049059210ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 8192KB, set: 128, associativity: 16, block_size: 4096
+Total L1 access time: 128853042ns
+Total Memory access time: 1050779378ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 8192KB, set: 256, associativity: 16, block_size: 2048
+Total L1 access time: 129114361ns
+Total Memory access time: 1052528272ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 8192KB, set: 512, associativity: 16, block_size: 1024
+Total L1 access time: 129370440ns
+Total Memory access time: 1054332710ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 8192KB, set: 1, associativity: 32, block_size: 262144
+Total L1 access time: 129637219ns
+Total Memory access time: 1056024788ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 8192KB, set: 2, associativity: 32, block_size: 131072
+Total L1 access time: 129903858ns
+Total Memory access time: 1057717290ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 8192KB, set: 4, associativity: 32, block_size: 65536
+Total L1 access time: 130170417ns
+Total Memory access time: 1059410640ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 8192KB, set: 8, associativity: 32, block_size: 32768
+Total L1 access time: 130436806ns
+Total Memory access time: 1061105792ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 8192KB, set: 16, associativity: 32, block_size: 16384
+Total L1 access time: 130702855ns
+Total Memory access time: 1062804548ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 8192KB, set: 32, associativity: 32, block_size: 8192
+Total L1 access time: 130968224ns
+Total Memory access time: 1064510512ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 8192KB, set: 64, associativity: 32, block_size: 4096
+Total L1 access time: 131232253ns
+Total Memory access time: 1066230680ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 8192KB, set: 128, associativity: 32, block_size: 2048
+Total L1 access time: 131493572ns
+Total Memory access time: 1067979574ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 8192KB, set: 256, associativity: 32, block_size: 1024
+Total L1 access time: 131749651ns
+Total Memory access time: 1069784012ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 8192KB, set: 512, associativity: 32, block_size: 512
+Total L1 access time: 131995160ns
+Total Memory access time: 1071700492ns
+Total Require Time: 2161989ns
+Total Require: 32793times, hit: 14713times, miss: 18080times
+Miss rate: 55.133718%
+
+size: 16384KB, set: 1, associativity: 1, block_size: 16777216
+Total L1 access time: 132421349ns
+Total Memory access time: 1073391934ns
+Total Require Time: 2117631ns
+Total Require: 32793times, hit: 32781times, miss: 12times
+Miss rate: 0.036593%
+
+size: 16384KB, set: 2, associativity: 1, block_size: 8388608
+Total L1 access time: 132847098ns
+Total Memory access time: 1075083482ns
+Total Require Time: 2117297ns
+Total Require: 32793times, hit: 32737times, miss: 56times
+Miss rate: 0.170768%
+
+size: 16384KB, set: 4, associativity: 1, block_size: 4194304
+Total L1 access time: 133228597ns
+Total Memory access time: 1076775136ns
+Total Require Time: 2073153ns
+Total Require: 32793times, hit: 28312times, miss: 4481times
+Miss rate: 13.664502%
+
+size: 16384KB, set: 8, associativity: 1, block_size: 2097152
+Total L1 access time: 133610086ns
+Total Memory access time: 1078466896ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 16384KB, set: 16, associativity: 1, block_size: 1048576
+Total L1 access time: 133979565ns
+Total Memory access time: 1080158656ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 16384KB, set: 32, associativity: 1, block_size: 524288
+Total L1 access time: 134293134ns
+Total Memory access time: 1081850522ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 16384KB, set: 64, associativity: 1, block_size: 262144
+Total L1 access time: 134559913ns
+Total Memory access time: 1083542600ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 16384KB, set: 128, associativity: 1, block_size: 131072
+Total L1 access time: 134826552ns
+Total Memory access time: 1085235102ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 16384KB, set: 256, associativity: 1, block_size: 65536
+Total L1 access time: 135093111ns
+Total Memory access time: 1086928452ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 16384KB, set: 512, associativity: 1, block_size: 32768
+Total L1 access time: 135359500ns
+Total Memory access time: 1088623604ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 16384KB, set: 1, associativity: 2, block_size: 8388608
+Total L1 access time: 135785249ns
+Total Memory access time: 1090315152ns
+Total Require Time: 2117297ns
+Total Require: 32793times, hit: 32737times, miss: 56times
+Miss rate: 0.170768%
+
+size: 16384KB, set: 2, associativity: 2, block_size: 4194304
+Total L1 access time: 136166748ns
+Total Memory access time: 1092006806ns
+Total Require Time: 2073153ns
+Total Require: 32793times, hit: 28312times, miss: 4481times
+Miss rate: 13.664502%
+
+size: 16384KB, set: 4, associativity: 2, block_size: 2097152
+Total L1 access time: 136548237ns
+Total Memory access time: 1093698566ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 16384KB, set: 8, associativity: 2, block_size: 1048576
+Total L1 access time: 136917716ns
+Total Memory access time: 1095390326ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 16384KB, set: 16, associativity: 2, block_size: 524288
+Total L1 access time: 137231285ns
+Total Memory access time: 1097082192ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 16384KB, set: 32, associativity: 2, block_size: 262144
+Total L1 access time: 137498064ns
+Total Memory access time: 1098774270ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 16384KB, set: 64, associativity: 2, block_size: 131072
+Total L1 access time: 137764703ns
+Total Memory access time: 1100466772ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 16384KB, set: 128, associativity: 2, block_size: 65536
+Total L1 access time: 138031262ns
+Total Memory access time: 1102160122ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 16384KB, set: 256, associativity: 2, block_size: 32768
+Total L1 access time: 138297651ns
+Total Memory access time: 1103855274ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 16384KB, set: 512, associativity: 2, block_size: 16384
+Total L1 access time: 138563700ns
+Total Memory access time: 1105554030ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 16384KB, set: 1, associativity: 4, block_size: 4194304
+Total L1 access time: 138945199ns
+Total Memory access time: 1107245684ns
+Total Require Time: 2073153ns
+Total Require: 32793times, hit: 28312times, miss: 4481times
+Miss rate: 13.664502%
+
+size: 16384KB, set: 2, associativity: 4, block_size: 2097152
+Total L1 access time: 139326688ns
+Total Memory access time: 1108937444ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 16384KB, set: 4, associativity: 4, block_size: 1048576
+Total L1 access time: 139696167ns
+Total Memory access time: 1110629204ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 16384KB, set: 8, associativity: 4, block_size: 524288
+Total L1 access time: 140009736ns
+Total Memory access time: 1112321070ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 16384KB, set: 16, associativity: 4, block_size: 262144
+Total L1 access time: 140276515ns
+Total Memory access time: 1114013148ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 16384KB, set: 32, associativity: 4, block_size: 131072
+Total L1 access time: 140543154ns
+Total Memory access time: 1115705650ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 16384KB, set: 64, associativity: 4, block_size: 65536
+Total L1 access time: 140809713ns
+Total Memory access time: 1117399000ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 16384KB, set: 128, associativity: 4, block_size: 32768
+Total L1 access time: 141076102ns
+Total Memory access time: 1119094152ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 16384KB, set: 256, associativity: 4, block_size: 16384
+Total L1 access time: 141342151ns
+Total Memory access time: 1120792908ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 16384KB, set: 512, associativity: 4, block_size: 8192
+Total L1 access time: 141607520ns
+Total Memory access time: 1122498872ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 16384KB, set: 1, associativity: 8, block_size: 2097152
+Total L1 access time: 141989009ns
+Total Memory access time: 1124190632ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 16384KB, set: 2, associativity: 8, block_size: 1048576
+Total L1 access time: 142358488ns
+Total Memory access time: 1125882392ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 16384KB, set: 4, associativity: 8, block_size: 524288
+Total L1 access time: 142672057ns
+Total Memory access time: 1127574258ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 16384KB, set: 8, associativity: 8, block_size: 262144
+Total L1 access time: 142938836ns
+Total Memory access time: 1129266336ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 16384KB, set: 16, associativity: 8, block_size: 131072
+Total L1 access time: 143205475ns
+Total Memory access time: 1130958838ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 16384KB, set: 32, associativity: 8, block_size: 65536
+Total L1 access time: 143472034ns
+Total Memory access time: 1132652188ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 16384KB, set: 64, associativity: 8, block_size: 32768
+Total L1 access time: 143738423ns
+Total Memory access time: 1134347340ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 16384KB, set: 128, associativity: 8, block_size: 16384
+Total L1 access time: 144004472ns
+Total Memory access time: 1136046096ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 16384KB, set: 256, associativity: 8, block_size: 8192
+Total L1 access time: 144269841ns
+Total Memory access time: 1137752060ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 16384KB, set: 512, associativity: 8, block_size: 4096
+Total L1 access time: 144533870ns
+Total Memory access time: 1139472228ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 16384KB, set: 1, associativity: 16, block_size: 1048576
+Total L1 access time: 144903349ns
+Total Memory access time: 1141163988ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 16384KB, set: 2, associativity: 16, block_size: 524288
+Total L1 access time: 145216918ns
+Total Memory access time: 1142855854ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 16384KB, set: 4, associativity: 16, block_size: 262144
+Total L1 access time: 145483697ns
+Total Memory access time: 1144547932ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 16384KB, set: 8, associativity: 16, block_size: 131072
+Total L1 access time: 145750336ns
+Total Memory access time: 1146240434ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 16384KB, set: 16, associativity: 16, block_size: 65536
+Total L1 access time: 146016895ns
+Total Memory access time: 1147933784ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 16384KB, set: 32, associativity: 16, block_size: 32768
+Total L1 access time: 146283284ns
+Total Memory access time: 1149628936ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 16384KB, set: 64, associativity: 16, block_size: 16384
+Total L1 access time: 146549333ns
+Total Memory access time: 1151327692ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 16384KB, set: 128, associativity: 16, block_size: 8192
+Total L1 access time: 146814702ns
+Total Memory access time: 1153033656ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 16384KB, set: 256, associativity: 16, block_size: 4096
+Total L1 access time: 147078731ns
+Total Memory access time: 1154753824ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 16384KB, set: 512, associativity: 16, block_size: 2048
+Total L1 access time: 147340050ns
+Total Memory access time: 1156502718ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 16384KB, set: 1, associativity: 32, block_size: 524288
+Total L1 access time: 147653619ns
+Total Memory access time: 1158194584ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 16384KB, set: 2, associativity: 32, block_size: 262144
+Total L1 access time: 147920398ns
+Total Memory access time: 1159886662ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 16384KB, set: 4, associativity: 32, block_size: 131072
+Total L1 access time: 148187037ns
+Total Memory access time: 1161579164ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 16384KB, set: 8, associativity: 32, block_size: 65536
+Total L1 access time: 148453596ns
+Total Memory access time: 1163272514ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 16384KB, set: 16, associativity: 32, block_size: 32768
+Total L1 access time: 148719985ns
+Total Memory access time: 1164967666ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 16384KB, set: 32, associativity: 32, block_size: 16384
+Total L1 access time: 148986034ns
+Total Memory access time: 1166666422ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 16384KB, set: 64, associativity: 32, block_size: 8192
+Total L1 access time: 149251403ns
+Total Memory access time: 1168372386ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 16384KB, set: 128, associativity: 32, block_size: 4096
+Total L1 access time: 149515432ns
+Total Memory access time: 1170092554ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 16384KB, set: 256, associativity: 32, block_size: 2048
+Total L1 access time: 149776751ns
+Total Memory access time: 1171841448ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+
+size: 16384KB, set: 512, associativity: 32, block_size: 1024
+Total L1 access time: 150032830ns
+Total Memory access time: 1173645886ns
+Total Require Time: 2060517ns
+Total Require: 32793times, hit: 15770times, miss: 17023times
+Miss rate: 51.910469%
+
+size: 32768KB, set: 1, associativity: 1, block_size: 33554432
+Total L1 access time: 150459019ns
+Total Memory access time: 1175337328ns
+Total Require Time: 2117631ns
+Total Require: 32793times, hit: 32781times, miss: 12times
+Miss rate: 0.036593%
+
+size: 32768KB, set: 2, associativity: 1, block_size: 16777216
+Total L1 access time: 150885208ns
+Total Memory access time: 1177028770ns
+Total Require Time: 2117631ns
+Total Require: 32793times, hit: 32781times, miss: 12times
+Miss rate: 0.036593%
+
+size: 32768KB, set: 4, associativity: 1, block_size: 8388608
+Total L1 access time: 151310957ns
+Total Memory access time: 1178720318ns
+Total Require Time: 2117297ns
+Total Require: 32793times, hit: 32737times, miss: 56times
+Miss rate: 0.170768%
+
+size: 32768KB, set: 8, associativity: 1, block_size: 4194304
+Total L1 access time: 151692456ns
+Total Memory access time: 1180411972ns
+Total Require Time: 2073153ns
+Total Require: 32793times, hit: 28312times, miss: 4481times
+Miss rate: 13.664502%
+
+size: 32768KB, set: 16, associativity: 1, block_size: 2097152
+Total L1 access time: 152073945ns
+Total Memory access time: 1182103732ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 32768KB, set: 32, associativity: 1, block_size: 1048576
+Total L1 access time: 152443424ns
+Total Memory access time: 1183795492ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 32768KB, set: 64, associativity: 1, block_size: 524288
+Total L1 access time: 152756993ns
+Total Memory access time: 1185487358ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 32768KB, set: 128, associativity: 1, block_size: 262144
+Total L1 access time: 153023772ns
+Total Memory access time: 1187179436ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 32768KB, set: 256, associativity: 1, block_size: 131072
+Total L1 access time: 153290411ns
+Total Memory access time: 1188871938ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 32768KB, set: 512, associativity: 1, block_size: 65536
+Total L1 access time: 153556970ns
+Total Memory access time: 1190565288ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 32768KB, set: 1, associativity: 2, block_size: 16777216
+Total L1 access time: 153983159ns
+Total Memory access time: 1192256730ns
+Total Require Time: 2117631ns
+Total Require: 32793times, hit: 32781times, miss: 12times
+Miss rate: 0.036593%
+
+size: 32768KB, set: 2, associativity: 2, block_size: 8388608
+Total L1 access time: 154408908ns
+Total Memory access time: 1193948278ns
+Total Require Time: 2117297ns
+Total Require: 32793times, hit: 32737times, miss: 56times
+Miss rate: 0.170768%
+
+size: 32768KB, set: 4, associativity: 2, block_size: 4194304
+Total L1 access time: 154790407ns
+Total Memory access time: 1195639932ns
+Total Require Time: 2073153ns
+Total Require: 32793times, hit: 28312times, miss: 4481times
+Miss rate: 13.664502%
+
+size: 32768KB, set: 8, associativity: 2, block_size: 2097152
+Total L1 access time: 155171896ns
+Total Memory access time: 1197331692ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 32768KB, set: 16, associativity: 2, block_size: 1048576
+Total L1 access time: 155541375ns
+Total Memory access time: 1199023452ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 32768KB, set: 32, associativity: 2, block_size: 524288
+Total L1 access time: 155854944ns
+Total Memory access time: 1200715318ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 32768KB, set: 64, associativity: 2, block_size: 262144
+Total L1 access time: 156121723ns
+Total Memory access time: 1202407396ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 32768KB, set: 128, associativity: 2, block_size: 131072
+Total L1 access time: 156388362ns
+Total Memory access time: 1204099898ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 32768KB, set: 256, associativity: 2, block_size: 65536
+Total L1 access time: 156654921ns
+Total Memory access time: 1205793248ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 32768KB, set: 512, associativity: 2, block_size: 32768
+Total L1 access time: 156921310ns
+Total Memory access time: 1207488400ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 32768KB, set: 1, associativity: 4, block_size: 8388608
+Total L1 access time: 157347059ns
+Total Memory access time: 1209179948ns
+Total Require Time: 2117297ns
+Total Require: 32793times, hit: 32737times, miss: 56times
+Miss rate: 0.170768%
+
+size: 32768KB, set: 2, associativity: 4, block_size: 4194304
+Total L1 access time: 157728558ns
+Total Memory access time: 1210871602ns
+Total Require Time: 2073153ns
+Total Require: 32793times, hit: 28312times, miss: 4481times
+Miss rate: 13.664502%
+
+size: 32768KB, set: 4, associativity: 4, block_size: 2097152
+Total L1 access time: 158110047ns
+Total Memory access time: 1212563362ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 32768KB, set: 8, associativity: 4, block_size: 1048576
+Total L1 access time: 158479526ns
+Total Memory access time: 1214255122ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 32768KB, set: 16, associativity: 4, block_size: 524288
+Total L1 access time: 158793095ns
+Total Memory access time: 1215946988ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 32768KB, set: 32, associativity: 4, block_size: 262144
+Total L1 access time: 159059874ns
+Total Memory access time: 1217639066ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 32768KB, set: 64, associativity: 4, block_size: 131072
+Total L1 access time: 159326513ns
+Total Memory access time: 1219331568ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 32768KB, set: 128, associativity: 4, block_size: 65536
+Total L1 access time: 159593072ns
+Total Memory access time: 1221024918ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 32768KB, set: 256, associativity: 4, block_size: 32768
+Total L1 access time: 159859461ns
+Total Memory access time: 1222720070ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 32768KB, set: 512, associativity: 4, block_size: 16384
+Total L1 access time: 160125510ns
+Total Memory access time: 1224418826ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 32768KB, set: 1, associativity: 8, block_size: 4194304
+Total L1 access time: 160507009ns
+Total Memory access time: 1226110480ns
+Total Require Time: 2073153ns
+Total Require: 32793times, hit: 28312times, miss: 4481times
+Miss rate: 13.664502%
+
+size: 32768KB, set: 2, associativity: 8, block_size: 2097152
+Total L1 access time: 160888498ns
+Total Memory access time: 1227802240ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 32768KB, set: 4, associativity: 8, block_size: 1048576
+Total L1 access time: 161257977ns
+Total Memory access time: 1229494000ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 32768KB, set: 8, associativity: 8, block_size: 524288
+Total L1 access time: 161571546ns
+Total Memory access time: 1231185866ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 32768KB, set: 16, associativity: 8, block_size: 262144
+Total L1 access time: 161838325ns
+Total Memory access time: 1232877944ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 32768KB, set: 32, associativity: 8, block_size: 131072
+Total L1 access time: 162104964ns
+Total Memory access time: 1234570446ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 32768KB, set: 64, associativity: 8, block_size: 65536
+Total L1 access time: 162371523ns
+Total Memory access time: 1236263796ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 32768KB, set: 128, associativity: 8, block_size: 32768
+Total L1 access time: 162637912ns
+Total Memory access time: 1237958948ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 32768KB, set: 256, associativity: 8, block_size: 16384
+Total L1 access time: 162903961ns
+Total Memory access time: 1239657704ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 32768KB, set: 512, associativity: 8, block_size: 8192
+Total L1 access time: 163169330ns
+Total Memory access time: 1241363668ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 32768KB, set: 1, associativity: 16, block_size: 2097152
+Total L1 access time: 163550819ns
+Total Memory access time: 1243055428ns
+Total Require Time: 2073249ns
+Total Require: 32793times, hit: 28311times, miss: 4482times
+Miss rate: 13.667551%
+
+size: 32768KB, set: 2, associativity: 16, block_size: 1048576
+Total L1 access time: 163920298ns
+Total Memory access time: 1244747188ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 32768KB, set: 4, associativity: 16, block_size: 524288
+Total L1 access time: 164233867ns
+Total Memory access time: 1246439054ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 32768KB, set: 8, associativity: 16, block_size: 262144
+Total L1 access time: 164500646ns
+Total Memory access time: 1248131132ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 32768KB, set: 16, associativity: 16, block_size: 131072
+Total L1 access time: 164767285ns
+Total Memory access time: 1249823634ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 32768KB, set: 32, associativity: 16, block_size: 65536
+Total L1 access time: 165033844ns
+Total Memory access time: 1251516984ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 32768KB, set: 64, associativity: 16, block_size: 32768
+Total L1 access time: 165300233ns
+Total Memory access time: 1253212136ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 32768KB, set: 128, associativity: 16, block_size: 16384
+Total L1 access time: 165566282ns
+Total Memory access time: 1254910892ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 32768KB, set: 256, associativity: 16, block_size: 8192
+Total L1 access time: 165831651ns
+Total Memory access time: 1256616856ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 32768KB, set: 512, associativity: 16, block_size: 4096
+Total L1 access time: 166095680ns
+Total Memory access time: 1258337024ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 32768KB, set: 1, associativity: 32, block_size: 1048576
+Total L1 access time: 166465159ns
+Total Memory access time: 1260028784ns
+Total Require Time: 2061239ns
+Total Require: 32793times, hit: 27110times, miss: 5683times
+Miss rate: 17.329918%
+
+size: 32768KB, set: 2, associativity: 32, block_size: 524288
+Total L1 access time: 166778728ns
+Total Memory access time: 1261720650ns
+Total Require Time: 2005435ns
+Total Require: 32793times, hit: 21519times, miss: 11274times
+Miss rate: 34.379288%
+
+size: 32768KB, set: 4, associativity: 32, block_size: 262144
+Total L1 access time: 167045507ns
+Total Memory access time: 1263412728ns
+Total Require Time: 1958857ns
+Total Require: 32793times, hit: 16840times, miss: 15953times
+Miss rate: 48.647577%
+
+size: 32768KB, set: 8, associativity: 32, block_size: 131072
+Total L1 access time: 167312146ns
+Total Memory access time: 1265105230ns
+Total Require Time: 1959141ns
+Total Require: 32793times, hit: 16826times, miss: 15967times
+Miss rate: 48.690269%
+
+size: 32768KB, set: 16, associativity: 32, block_size: 65536
+Total L1 access time: 167578705ns
+Total Memory access time: 1266798580ns
+Total Require Time: 1959909ns
+Total Require: 32793times, hit: 16818times, miss: 15975times
+Miss rate: 48.714665%
+
+size: 32768KB, set: 32, associativity: 32, block_size: 32768
+Total L1 access time: 167845094ns
+Total Memory access time: 1268493732ns
+Total Require Time: 1961541ns
+Total Require: 32793times, hit: 16801times, miss: 15992times
+Miss rate: 48.766505%
+
+size: 32768KB, set: 64, associativity: 32, block_size: 16384
+Total L1 access time: 168111143ns
+Total Memory access time: 1270192488ns
+Total Require Time: 1964805ns
+Total Require: 32793times, hit: 16767times, miss: 16026times
+Miss rate: 48.870186%
+
+size: 32768KB, set: 128, associativity: 32, block_size: 8192
+Total L1 access time: 168376512ns
+Total Memory access time: 1271898452ns
+Total Require Time: 1971333ns
+Total Require: 32793times, hit: 16699times, miss: 16094times
+Miss rate: 49.077547%
+
+size: 32768KB, set: 256, associativity: 32, block_size: 4096
+Total L1 access time: 168640541ns
+Total Memory access time: 1273618620ns
+Total Require Time: 1984197ns
+Total Require: 32793times, hit: 16565times, miss: 16228times
+Miss rate: 49.486171%
+
+size: 32768KB, set: 512, associativity: 32, block_size: 2048
+Total L1 access time: 168901860ns
+Total Memory access time: 1275367514ns
+Total Require Time: 2010213ns
+Total Require: 32793times, hit: 16294times, miss: 16499times
+Miss rate: 50.312567%
+

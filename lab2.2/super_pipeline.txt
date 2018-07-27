@@ -1,0 +1,185 @@
+**********  test1  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+simulate over!
+instruction number:    28
+cycles:                34
+CPI:                   1.21429
+data_hazard number:    15
+load-use number:       6
+data_bypass number:    18
+control_hazard number: 0
+$ check memory from 0x11540 to 0x11544
+11540: 06 00 00 00 
+$ check memory from 0x11528 to 0x1152c
+11528: 0a 00 00 00 
+$ check memory from 0x1152c to 0x11530
+1152c: 0c 00 00 00 
+$ **********  test2  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+simulate over!
+instruction number:    28
+cycles:                34
+CPI:                   1.21429
+data_hazard number:    15
+load-use number:       6
+data_bypass number:    18
+control_hazard number: 0
+$ check memory from 0x11540 to 0x11544
+11540: 03 00 00 00 
+$ check memory from 0x11528 to 0x1152c
+11528: 07 00 00 00 
+$ check memory from 0x1152c to 0x11530
+1152c: 09 00 00 00 
+$ **********  test3  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+simulate over!
+instruction number:    117
+cycles:                148
+CPI:                   1.26496
+data_hazard number:    71
+load-use number:       20
+data_bypass number:    82
+control_hazard number: 6
+$ check memory from 0x10dc0 to 0x10de8
+10dc0: 00 00 00 00 02 00 00 00 06 00 00 00 0c 00 00 00 
+10dd0: 14 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+10de0: 10 13 01 00 00 00 00 00 
+$ **********  test4  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+simulate over!
+instruction number:    162
+cycles:                203
+CPI:                   1.25309
+data_hazard number:    101
+load-use number:       30
+data_bypass number:    117
+control_hazard number: 6
+$ check memory from 0x10df0 to 0x10e18
+10df0: 00 00 00 00 02 00 00 00 06 00 00 00 0c 00 00 00 
+10e00: 14 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+10e10: 40 13 01 00 00 00 00 00 
+$ check memory from 0x11568 to 0x1156c
+11568: 28 00 00 00 
+$ **********  test5  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+simulate over!
+instruction number:    118
+cycles:                339
+CPI:                   2.87288
+data_hazard number:    71
+load-use number:       20
+data_bypass number:    82
+control_hazard number: 6
+$ check memory from 0x10dd0 to 0x10df8
+10dd0: 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 
+10de0: 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 
+10df0: 20 13 01 00 00 00 00 00 
+$ **********  test6 **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+simulate over!
+instruction number:    68
+cycles:                279
+CPI:                   4.10294
+data_hazard number:    36
+load-use number:       10
+data_bypass number:    47
+control_hazard number: 6
+$ check memory from 0x11508 to 0x1150c
+11508: 0f 00 00 00 
+$ check memory from 0x11520 to 0x11524
+11520: 01 00 00 00 
+$ **********  test7  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+simulate over!
+instruction number:    132
+cycles:                168
+CPI:                   1.27273
+data_hazard number:    81
+load-use number:       25
+data_bypass number:    92
+control_hazard number: 6
+$ check memory from 0x10dd0 to 0x10df8
+10dd0: 01 00 00 00 03 00 00 00 04 00 00 00 05 00 00 00 
+10de0: 06 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 
+10df0: 20 13 01 00 00 00 00 00 
+$ check memory from 0x11538 to 0x1153c
+11538: f0 00 00 00 
+$ **********  test8  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+simulate over!
+instruction number:    60
+cycles:                70
+CPI:                   1.16667
+data_hazard number:    41
+load-use number:       10
+data_bypass number:    41
+control_hazard number: 0
+$ check memory from 0x10e40 to 0x10e68
+10e40: 01 00 00 00 03 00 00 00 04 00 00 00 05 00 00 00 
+10e50: 06 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 
+10e60: 90 13 01 00 00 00 00 00 
+$ check memory from 0x115a8 to 0x115ac
+115a8: f0 00 00 00 
+$ **********  test9  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+simulate over!
+instruction number:    33
+cycles:                79
+CPI:                   2.39394
+data_hazard number:    15
+load-use number:       4
+data_bypass number:    19
+control_hazard number: 2
+$ check memory from 0x11558 to 0x1155c
+11558: 01 00 00 00 
+$ check memory from 0x1155c to 0x11560
+1155c: 0f 00 00 00 
+$ check memory from 0x11560 to 0x11564
+11560: 0c 00 00 00 
+$ **********  test10 **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+simulate over!
+instruction number:    23
+cycles:                67
+CPI:                   2.91304
+data_hazard number:    11
+load-use number:       4
+data_bypass number:    15
+control_hazard number: 0
+$ check memory from 0x11518 to 0x1151c
+11518: 01 00 00 00 
+$ check memory from 0x1151c to 0x11520
+1151c: 0f 00 00 00 
+$ check memory from 0x11520 to 0x11524
+11520: 0c 00 00 00 
+$ 

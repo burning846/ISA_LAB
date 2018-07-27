@@ -1,0 +1,212 @@
+ELF Header:
+ magic number:  7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00  Class:  ELF64
+ Data:  little-endian
+ Version:                             1 (current)
+ OS/ABI:	                           System V ABI
+ ABI Version:                         
+ Type:                                
+ Machine:                             
+ Version:                             0x1
+ Entry point address:                 0x10000
+ Start of program headers:            64 Bytes into  file
+ Start of section headers:            53248 Bytes into  file
+ Flags:  0x0
+ Size of this header:                 64 Bytes
+ Size of program headers:             56 Bytes
+ Number of program headers:           1
+ Size of section headers:             64 Bytes
+ Number of section headers:           22
+ Section header string table index:   19
+
+
+Section Headers:
+ [  0]
+ Name:                      Type: 0          Address:  0        Offest:  0               
+ Size:  0                   Entsize:  0      Flags:   0         Link:  0        Info:  0        Align: 0   
+ [  1]
+ Name:                .text Type: 1          Address:  10000    Offest:  1000            
+ Size:  2768                Entsize:  0      Flags:   6         Link:  0        Info:  0        Align: 4   
+ [  2]
+ Name:              .rodata Type: 1          Address:  10ad0    Offest:  1ad0            
+ Size:  8                   Entsize:  1      Flags:   32        Link:  0        Info:  0        Align: 8   
+ [  3]
+ Name:          .init_array Type: 14         Address:  10ad8    Offest:  1ad8            
+ Size:  8                   Entsize:  0      Flags:   3         Link:  0        Info:  0        Align: 8   
+ [  4]
+ Name:          .fini_array Type: 15         Address:  10ae0    Offest:  1ae0            
+ Size:  8                   Entsize:  0      Flags:   3         Link:  0        Info:  0        Align: 8   
+ [  5]
+ Name:            .eh_frame Type: 1          Address:  10ae8    Offest:  1ae8            
+ Size:  1056                Entsize:  0      Flags:   2         Link:  0        Info:  0        Align: 8   
+ [  6]
+ Name:                 .jcr Type: 1          Address:  10f08    Offest:  1f08            
+ Size:  8                   Entsize:  0      Flags:   3         Link:  0        Info:  0        Align: 8   
+ [  7]
+ Name:                .data Type: 1          Address:  10f10    Offest:  1f10            
+ Size:  1864                Entsize:  0      Flags:   3         Link:  0        Info:  0        Align: 8   
+ [  8]
+ Name:               .sdata Type: 1          Address:  11660    Offest:  2660            
+ Size:  24                  Entsize:  0      Flags:   3         Link:  0        Info:  0        Align: 8   
+ [  9]
+ Name:                .sbss Type: 8          Address:  11678    Offest:  2678            
+ Size:  8                   Entsize:  0      Flags:   3         Link:  0        Info:  0        Align: 8   
+ [ 10]
+ Name:                 .bss Type: 8          Address:  11680    Offest:  2678            
+ Size:  240                 Entsize:  0      Flags:   3         Link:  0        Info:  0        Align: 8   
+ [ 11]
+ Name:             .comment Type: 1          Address:  0        Offest:  2678            
+ Size:  17                  Entsize:  1      Flags:   30        Link:  0        Info:  0        Align: 1   
+ [ 12]
+ Name:          .debug_info Type: 1          Address:  0        Offest:  2689            
+ Size:  18034               Entsize:  0      Flags:   0         Link:  0        Info:  0        Align: 1   
+ [ 13]
+ Name:        .debug_abbrev Type: 1          Address:  0        Offest:  6cfb            
+ Size:  3624                Entsize:  0      Flags:   0         Link:  0        Info:  0        Align: 1   
+ [ 14]
+ Name:           .debug_loc Type: 1          Address:  0        Offest:  7b23            
+ Size:  5437                Entsize:  0      Flags:   0         Link:  0        Info:  0        Align: 1   
+ [ 15]
+ Name:       .debug_aranges Type: 1          Address:  0        Offest:  9060            
+ Size:  416                 Entsize:  0      Flags:   0         Link:  0        Info:  0        Align: 1   
+ [ 16]
+ Name:          .debug_line Type: 1          Address:  0        Offest:  9200            
+ Size:  8629                Entsize:  0      Flags:   0         Link:  0        Info:  0        Align: 1   
+ [ 17]
+ Name:           .debug_str Type: 1          Address:  0        Offest:  b3b5            
+ Size:  3027                Entsize:  1      Flags:   30        Link:  0        Info:  0        Align: 1   
+ [ 18]
+ Name:        .debug_ranges Type: 1          Address:  0        Offest:  bf88            
+ Size:  128                 Entsize:  0      Flags:   0         Link:  0        Info:  0        Align: 1   
+ [ 19]
+ Name:            .shstrtab Type: 3          Address:  0        Offest:  c008            
+ Size:  202                 Entsize:  0      Flags:   0         Link:  0        Info:  0        Align: 1   
+ [ 20]
+ Name:              .symtab Type: 2          Address:  0        Offest:  c0d8            
+ Size:  2808                Entsize:  24     Flags:   0         Link:  15       Info:  35       Align: 8   
+ [ 21]
+ Name:              .strtab Type: 3          Address:  0        Offest:  cbd0            
+ Size:  1070                Entsize:  0      Flags:   0         Link:  0        Info:  0        Align: 1   
+
+
+Program Headers:
+ [  0]
+ Type:   1 Flags:   7 Offset:   1000 VirtAddr:  10000 PhysAddr:   10000 FileSiz:   1678 MemSiz:   1770 Align:   1000
+
+Symbol table:
+ [  0]    Name:                                              Bind:      0 Type:      0 NDX:       0 Size:          0 Value:         0(0)
+ [  1]    Name:                                              Bind:      3 Type:      3 NDX:       1 Size:          0 Value:     10000(65536)
+ [  2]    Name:                                              Bind:      3 Type:      3 NDX:       2 Size:          0 Value:     10ad0(68304)
+ [  3]    Name:                                              Bind:      3 Type:      3 NDX:       3 Size:          0 Value:     10ad8(68312)
+ [  4]    Name:                                              Bind:      3 Type:      3 NDX:       4 Size:          0 Value:     10ae0(68320)
+ [  5]    Name:                                              Bind:      3 Type:      3 NDX:       5 Size:          0 Value:     10ae8(68328)
+ [  6]    Name:                                              Bind:      3 Type:      3 NDX:       6 Size:          0 Value:     10f08(69384)
+ [  7]    Name:                                              Bind:      3 Type:      3 NDX:       7 Size:          0 Value:     10f10(69392)
+ [  8]    Name:                                              Bind:      3 Type:      3 NDX:       8 Size:          0 Value:     11660(71264)
+ [  9]    Name:                                              Bind:      3 Type:      3 NDX:       9 Size:          0 Value:     11678(71288)
+ [ 10]    Name:                                              Bind:      3 Type:      3 NDX:       a Size:          0 Value:     11680(71296)
+ [ 11]    Name:                                              Bind:      3 Type:      3 NDX:       b Size:          0 Value:         0(0)
+ [ 12]    Name:                                              Bind:      3 Type:      3 NDX:       c Size:          0 Value:         0(0)
+ [ 13]    Name:                                              Bind:      3 Type:      3 NDX:       d Size:          0 Value:         0(0)
+ [ 14]    Name:                                              Bind:      3 Type:      3 NDX:       e Size:          0 Value:         0(0)
+ [ 15]    Name:                                              Bind:      3 Type:      3 NDX:       f Size:          0 Value:         0(0)
+ [ 16]    Name:                                              Bind:      3 Type:      3 NDX:      10 Size:          0 Value:         0(0)
+ [ 17]    Name:                                              Bind:      3 Type:      3 NDX:      11 Size:          0 Value:         0(0)
+ [ 18]    Name:                                              Bind:      3 Type:      3 NDX:      12 Size:          0 Value:         0(0)
+ [ 19]    Name:                                crtstuff.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 20]    Name:                        __EH_FRAME_BEGIN__    Bind:      1 Type:      1 NDX:       5 Size:          0 Value:     10ae8(68328)
+ [ 21]    Name:                              __JCR_LIST__    Bind:      1 Type:      1 NDX:       6 Size:          0 Value:     10f08(69384)
+ [ 22]    Name:                      deregister_tm_clones    Bind:      2 Type:      2 NDX:       1 Size:          0 Value:     1004c(65612)
+ [ 23]    Name:                        register_tm_clones    Bind:      2 Type:      2 NDX:       1 Size:          0 Value:     10080(65664)
+ [ 24]    Name:                     __do_global_dtors_aux    Bind:      2 Type:      2 NDX:       1 Size:          0 Value:     100c0(65728)
+ [ 25]    Name:                            completed.4929    Bind:      1 Type:      1 NDX:       a Size:          1 Value:     11680(71296)
+ [ 26]    Name:    __do_global_dtors_aux_fini_array_entry    Bind:      1 Type:      1 NDX:       4 Size:          0 Value:     10ae0(68320)
+ [ 27]    Name:                               frame_dummy    Bind:      2 Type:      2 NDX:       1 Size:          0 Value:     10104(65796)
+ [ 28]    Name:                               object.4934    Bind:      1 Type:      1 NDX:       a Size:         48 Value:     11688(71304)
+ [ 29]    Name:            __frame_dummy_init_array_entry    Bind:      1 Type:      1 NDX:       3 Size:          0 Value:     10ad8(68312)
+ [ 30]    Name:                                   qsort.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 31]    Name:                                crtstuff.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 32]    Name:                             __FRAME_END__    Bind:      1 Type:      1 NDX:       5 Size:          0 Value:     10ae8(68328)
+ [ 33]    Name:                               __JCR_END__    Bind:      1 Type:      1 NDX:       6 Size:          0 Value:     10f08(69384)
+ [ 34]    Name:                                  atexit.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 35]    Name:                                    exit.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 36]    Name:                                    fini.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 37]    Name:                                  impure.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 38]    Name:                               impure_data    Bind:      1 Type:      1 NDX:       7 Size:       1864 Value:     10f10(69392)
+ [ 39]    Name:                                    init.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 40]    Name:                                __atexit.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 41]    Name:                           __call_atexit.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 42]    Name:                                syscalls.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 43]    Name:                             heap_end.2381    Bind:      1 Type:      1 NDX:       9 Size:          8 Value:     11678(71288)
+ [ 44]    Name:                                   t0.2343    Bind:      1 Type:      1 NDX:       a Size:         16 Value:     11760(71520)
+ [ 45]    Name:                                   errno.c    Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 46]    Name:                                              Bind:      4 Type:      4 NDX:    fff1 Size:          0 Value:         0(0)
+ [ 47]    Name:                          __fini_array_end    Bind:      0 Type:      0 NDX:       4 Size:          0 Value:     10ae8(68328)
+ [ 48]    Name:                        __fini_array_start    Bind:      0 Type:      0 NDX:       4 Size:          0 Value:     10ae0(68320)
+ [ 49]    Name:                          __init_array_end    Bind:      0 Type:      0 NDX:       3 Size:          0 Value:     10ae0(68320)
+ [ 50]    Name:                       __preinit_array_end    Bind:      0 Type:      0 NDX:       3 Size:          0 Value:     10ad8(68312)
+ [ 51]    Name:                        __init_array_start    Bind:      0 Type:      0 NDX:       3 Size:          0 Value:     10ad8(68312)
+ [ 52]    Name:                     __preinit_array_start    Bind:      0 Type:      0 NDX:       3 Size:          0 Value:     10ad8(68312)
+ [ 53]    Name:                                   fstatat    Bind:     18 Type:     18 NDX:       1 Size:         20 Value:     107e4(67556)
+ [ 54]    Name:                                   sysconf    Bind:     18 Type:     18 NDX:       1 Size:         28 Value:     10a40(68160)
+ [ 55]    Name:                                    _fdata    Bind:     16 Type:     16 NDX:       7 Size:          0 Value:     10f10(69392)
+ [ 56]    Name:                                     utime    Bind:     18 Type:     18 NDX:       1 Size:          8 Value:     10a18(68120)
+ [ 57]    Name:                                 faccessat    Bind:     18 Type:     18 NDX:       1 Size:         20 Value:     10814(67604)
+ [ 58]    Name:                                   __errno    Bind:     18 Type:     18 NDX:       1 Size:          8 Value:     10ac8(68296)
+ [ 59]    Name:                                     times    Bind:     18 Type:     18 NDX:       1 Size:        144 Value:     10958(67928)
+ [ 60]    Name:                                    _etext    Bind:     16 Type:     16 NDX:       2 Size:          0 Value:     10ad8(68312)
+ [ 61]    Name:                                       _gp    Bind:     16 Type:     16 NDX:    fff1 Size:          0 Value:     11e60(73312)
+ [ 62]    Name:                                    execve    Bind:     18 Type:     18 NDX:       1 Size:         36 Value:     10884(67716)
+ [ 63]    Name:                                    getpid    Bind:     18 Type:     18 NDX:       1 Size:          8 Value:     108cc(67788)
+ [ 64]    Name:                                     qsort    Bind:     18 Type:     18 NDX:       1 Size:        368 Value:     10150(65872)
+ [ 65]    Name:                               __TMC_END__    Bind:     17 Type:     17 NDX:       7 Size:          0 Value:     11658(71256)
+ [ 66]    Name:                                    malloc    Bind:     32 Type:     32 NDX:       0 Size:          0 Value:         0(0)
+ [ 67]    Name:                                    isatty    Bind:     18 Type:     18 NDX:       1 Size:         60 Value:     1091c(67868)
+ [ 68]    Name:                                _bss_start    Bind:     16 Type:     16 NDX:       a Size:          0 Value:     11680(71296)
+ [ 69]    Name:                              __dso_handle    Bind:     17 Type:     17 NDX:       8 Size:          0 Value:     11660(71264)
+ [ 70]    Name:                                     lseek    Bind:     18 Type:     18 NDX:       1 Size:         20 Value:     10754(67412)
+ [ 71]    Name:                        _global_impure_ptr    Bind:     17 Type:     17 NDX:       8 Size:          8 Value:     11668(71272)
+ [ 72]    Name:                                     chown    Bind:     18 Type:     18 NDX:       1 Size:          8 Value:     10a20(68128)
+ [ 73]    Name:                         __libc_init_array    Bind:     18 Type:     18 NDX:       1 Size:        160 Value:     103cc(66508)
+ [ 74]    Name:                                     chmod    Bind:     18 Type:     18 NDX:       1 Size:          8 Value:     10a28(68136)
+ [ 75]    Name:                                     _init    Bind:     16 Type:     16 NDX:       1 Size:          0 Value:     10048(65608)
+ [ 76]    Name:                         __libc_fini_array    Bind:     18 Type:     18 NDX:       1 Size:         92 Value:     10370(66416)
+ [ 77]    Name:                                     write    Bind:     18 Type:     18 NDX:       1 Size:         20 Value:     1077c(67452)
+ [ 78]    Name:                                     fstat    Bind:     18 Type:     18 NDX:       1 Size:         28 Value:     10790(67472)
+ [ 79]    Name:                                      kill    Bind:     18 Type:     18 NDX:       1 Size:         36 Value:     108d4(67796)
+ [ 80]    Name:                   __deregister_frame_info    Bind:     32 Type:     32 NDX:       0 Size:          0 Value:         0(0)
+ [ 81]    Name:                                     chdir    Bind:     18 Type:     18 NDX:       1 Size:          8 Value:     10a30(68144)
+ [ 82]    Name:                 _ITM_registerTMCloneTable    Bind:     32 Type:     32 NDX:       0 Size:          0 Value:         0(0)
+ [ 83]    Name:                                      wait    Bind:     18 Type:     18 NDX:       1 Size:         36 Value:     108f8(67832)
+ [ 84]    Name:                          __call_exitprocs    Bind:     18 Type:     18 NDX:       1 Size:        396 Value:     1056c(66924)
+ [ 85]    Name:                                    _ftext    Bind:     16 Type:     16 NDX:       1 Size:          0 Value:     10000(65536)
+ [ 86]    Name:                                    _start    Bind:     16 Type:     16 NDX:       1 Size:          0 Value:     10000(65536)
+ [ 87]    Name:                                     lstat    Bind:     18 Type:     18 NDX:       1 Size:         28 Value:     107c8(67528)
+ [ 88]    Name:                                      read    Bind:     18 Type:     18 NDX:       1 Size:         20 Value:     10768(67432)
+ [ 89]    Name:                       __register_exitproc    Bind:     18 Type:     18 NDX:       1 Size:        256 Value:     1046c(66668)
+ [ 90]    Name:                                    unlink    Bind:     18 Type:     18 NDX:       1 Size:         32 Value:     10864(67684)
+ [ 91]    Name:                                      fork    Bind:     18 Type:     18 NDX:       1 Size:         36 Value:     108a8(67752)
+ [ 92]    Name:                           __syscall_error    Bind:     18 Type:     18 NDX:       1 Size:         48 Value:     106f8(67320)
+ [ 93]    Name:               _ITM_deregisterTMCloneTable    Bind:     32 Type:     32 NDX:       0 Size:          0 Value:         0(0)
+ [ 94]    Name:                                      sbrk    Bind:     18 Type:     18 NDX:       1 Size:         80 Value:     10a5c(68188)
+ [ 95]    Name:                              gettimeofday    Bind:     18 Type:     18 NDX:       1 Size:         32 Value:     109e8(68072)
+ [ 96]    Name:                                      main    Bind:     18 Type:     18 NDX:       1 Size:        108 Value:     102c0(66240)
+ [ 97]    Name:                                    getcwd    Bind:     18 Type:     18 NDX:       1 Size:          8 Value:     10a38(68152)
+ [ 98]    Name:                                     _fini    Bind:     16 Type:     16 NDX:       1 Size:          0 Value:     10048(65608)
+ [ 99]    Name:                                    atexit    Bind:     18 Type:     18 NDX:       1 Size:         20 Value:     1032c(66348)
+ [100]    Name:                                    result    Bind:     17 Type:     17 NDX:       a Size:        168 Value:     116b8(71352)
+ [101]    Name:                               _impure_ptr    Bind:     17 Type:     17 NDX:       8 Size:          8 Value:     11670(71280)
+ [102]    Name:                                     ftime    Bind:     18 Type:     18 NDX:       1 Size:         16 Value:     10a08(68104)
+ [103]    Name:                                      stat    Bind:     18 Type:     18 NDX:       1 Size:         28 Value:     107ac(67500)
+ [104]    Name:                                    access    Bind:     18 Type:     18 NDX:       1 Size:         28 Value:     107f8(67576)
+ [105]    Name:                                    _edata    Bind:     16 Type:     16 NDX:       7 Size:          0 Value:     11658(71256)
+ [106]    Name:                                      _end    Bind:     16 Type:     16 NDX:       a Size:          0 Value:     11770(71536)
+ [107]    Name:                                      link    Bind:     18 Type:     18 NDX:       1 Size:         28 Value:     10848(67656)
+ [108]    Name:                                      exit    Bind:     18 Type:     18 NDX:       1 Size:         48 Value:     10340(66368)
+ [109]    Name:                                    openat    Bind:     18 Type:     18 NDX:       1 Size:         20 Value:     10740(67392)
+ [110]    Name:                                     _exit    Bind:     18 Type:     18 NDX:       1 Size:         28 Value:     10aac(68268)
+ [111]    Name:                                      open    Bind:     18 Type:     18 NDX:       1 Size:         24 Value:     10728(67368)
+ [112]    Name:                       _Jv_RegisterClasses    Bind:     32 Type:     32 NDX:       0 Size:          0 Value:         0(0)
+ [113]    Name:                                     _fbss    Bind:     16 Type:     16 NDX:       9 Size:          0 Value:     11678(71288)
+ [114]    Name:                     __register_frame_info    Bind:     32 Type:     32 NDX:       0 Size:          0 Value:         0(0)
+ [115]    Name:                                     close    Bind:     18 Type:     18 NDX:       1 Size:         32 Value:     10828(67624)
+ [116]    Name:                                      free    Bind:     32 Type:     32 NDX:       0 Size:          0 Value:         0(0)

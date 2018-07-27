@@ -1,0 +1,13 @@
+This is TeX, Version 3.14159265 (TeX Live 2015/Debian) (preloaded format=tex 2017.11.24)  24 NOV 2017 00:25
+**cache.cc
+(./cache.cc
+! You can't use `macro parameter character #' in vertical mode.
+l.1 #
+     include "cache.h"
+? 
+! Emergency stop.
+l.1 #
+     include "cache.h"
+End of file on the terminal!
+
+No pages of output.

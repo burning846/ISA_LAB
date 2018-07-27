@@ -1,0 +1,14026 @@
+**********  test1  **********
+$ 
+file loaded
+$ the program begin to run
+70992 72 616a70
+Fetch instruction at 10150
+Invalid
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 10150
+0 0 49999984
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 10150
+49999984 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10150
+rd: 2
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999992
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 50000000
+mem: 10154
+49999992 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 70976
+mem: 10158
+50000000 0
+wb: 10154
+rd: 0
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 1015c
+70976 32
+70976 4 616a60 65638c8
+wb: 10158
+rd: 8
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1015c
+rd: 15
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 10160
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10160
+rd: 14
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 70976
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 70952
+mem: 10164
+70976 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 10168
+70952 32
+70952 4 616a48 65638c8
+wb: 10164
+rd: 0
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10168
+rd: 15
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 70952
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 70956
+mem: 10170
+70952 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+70956 32
+70956 4 616a4c 65638c8
+wb: 10170
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 6
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+6 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 70956
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 70976
+mem: 1017c
+70956 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 70952
+mem: 10180
+70976 32
+70976 4 616a60 65638c8
+wb: 1017c
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+70952 32
+70952 4 616a48 65638c8
+wb: 10180
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 6
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+6 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 14
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 70976
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 70952
+mem: 1018c
+70976 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 70956
+mem: 10190
+70952 32
+70952 4 616a48 65638c8
+wb: 1018c
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 10194
+70956 32
+70956 4 616a4c 65638c8
+wb: 10190
+rd: 14
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10194
+rd: 15
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 10
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+10 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 14
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 70952
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 70956
+mem: 1019c
+70952 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 70976
+mem: 101a0
+70956 32
+70956 4 616a4c 65638c8
+wb: 1019c
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+70976 32
+70976 4 616a60 65638c8
+wb: 101a0
+rd: 14
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 14
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 70956
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+0 0 0
+mem: 101ac
+70956 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 101b0
+0 0
+wb: 101ac
+rd: 0
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 15
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 101b4
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+simulate over!
+instruction number: 28
+cycles: 70
+CPI: 2.5
+$ check memory from 0x11540 to 0x11544
+11540: 06 00 00 00 
+$ check memory from 0x11528 to 0x1152c
+11528: 0a 00 00 00 
+$ check memory from 0x1152c to 0x11530
+1152c: 0c 00 00 00 
+$ **********  test2  **********
+$ 
+file loaded
+$ the program begin to run
+70992 72 616a70
+Fetch instruction at 10150
+Invalid
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 10150
+0 0 49999984
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 10150
+49999984 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10150
+rd: 2
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999992
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 50000000
+mem: 10154
+49999992 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 70976
+mem: 10158
+50000000 0
+wb: 10154
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 70952
+mem: 1015c
+70976 32
+70976 4 616a60 65638c8
+wb: 10158
+rd: 8
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 10160
+70952 32
+70952 4 616a48 65638c8
+wb: 1015c
+rd: 14
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10160
+rd: 15
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 70976
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 70976
+mem: 10168
+70976 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+70976 32
+70976 4 616a60 65638c8
+wb: 10168
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 14
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 70976
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 70952
+mem: 10174
+70976 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 70976
+mem: 10178
+70952 32
+70952 4 616a48 65638c8
+wb: 10174
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 1017c
+70976 32
+70976 4 616a60 65638c8
+wb: 10178
+rd: 14
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1017c
+rd: 15
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 10180
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10180
+rd: 14
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 70952
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 70952
+mem: 10184
+70952 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+70952 32
+70952 4 616a48 65638c8
+wb: 10184
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 7
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+7 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 14
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 70952
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 70956
+mem: 10190
+70952 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 70976
+mem: 10194
+70956 32
+70956 4 616a4c 65638c8
+wb: 10190
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+70976 32
+70976 4 616a60 65638c8
+wb: 10194
+rd: 14
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 5
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+5 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 14
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 70956
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 70956
+mem: 101a0
+70956 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+70956 32
+70956 4 616a4c 65638c8
+wb: 101a0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 9
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+9 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 14
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 70956
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+0 0 0
+mem: 101ac
+70956 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 101b0
+0 0
+wb: 101ac
+rd: 0
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 15
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 101b4
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+simulate over!
+instruction number: 28
+cycles: 70
+CPI: 2.5
+$ check memory from 0x11540 to 0x11544
+11540: 03 00 00 00 
+$ check memory from 0x11528 to 0x1152c
+11528: 07 00 00 00 
+$ check memory from 0x1152c to 0x11530
+1152c: 09 00 00 00 
+$ **********  test3  **********
+$ 
+file loaded
+$ the program begin to run
+70976 72 616a60
+Fetch instruction at 10140
+Invalid
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10144
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 10140
+0 0 49999968
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 10140
+49999968 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10140
+rd: 2
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1014c
+EX: 10144
+0 0 49999992
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10150
+EX: 10148
+0 0 50000000
+mem: 10144
+49999992 0
+wb: 0
+rd: 0
+Fetch instruction at 10150
+EX: 0
+0 0 0
+mem: 10148
+50000000 0
+wb: 10144
+rd: 0
+Fetch instruction at 10150
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10148
+rd: 8
+Fetch instruction at 10150
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+EX: 1014c
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 10150
+0 0 49999980
+mem: 1014c
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 10150
+49999980 0
+wb: 1014c
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10150
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101a8 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69056
+mem: 10168
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69056 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69056
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69056 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69056
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+69056 32
+69056 4 6162e0 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 69632
+mem: 1017c
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+69632 0
+wb: 1017c
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 13
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69056
+mem: 10188
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69056 0
+wb: 10188
+rd: 13
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69056
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69056 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69056
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 49999980
+mem: 10194
+69056 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10194
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+2 10154 65960
+mem: 101a0
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101a4
+65960 0
+wb: 101a0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101a8 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69056
+mem: 10168
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69056 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69060
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69060 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69060
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+69060 32
+69060 4 6162e4 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 69632
+mem: 1017c
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+69632 0
+wb: 1017c
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 13
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69056
+mem: 10188
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69056 0
+wb: 10188
+rd: 13
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69060
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69060 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69060
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 49999980
+mem: 10194
+69060 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10194
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+2 10154 65960
+mem: 101a0
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101a4
+65960 0
+wb: 101a0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101a8 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 8
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69056
+mem: 10168
+8 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69056 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69064
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69064 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69064
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+69064 32
+69064 4 6162e8 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 6
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 69632
+mem: 1017c
+6 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+69632 0
+wb: 1017c
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 13
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 8
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69056
+mem: 10188
+8 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69056 0
+wb: 10188
+rd: 13
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69064
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69064 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69064
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 49999980
+mem: 10194
+69064 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10194
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+2 10154 65960
+mem: 101a0
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101a4
+65960 0
+wb: 101a0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101a8 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69056
+mem: 10168
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69056 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69068
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69068 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69068
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+69068 32
+69068 4 6162ec 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 69632
+mem: 1017c
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+69632 0
+wb: 1017c
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 13
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69056
+mem: 10188
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69056 0
+wb: 10188
+rd: 13
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69068
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69068 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69068
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 49999980
+mem: 10194
+69068 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10194
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+2 10154 65960
+mem: 101a0
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101a4
+65960 0
+wb: 101a0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101a8 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 16
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69056
+mem: 10168
+16 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69056 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69072
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69072 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69072
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+69072 32
+69072 4 6162f0 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 20
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 69632
+mem: 1017c
+20 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+69632 0
+wb: 1017c
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 13
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 16
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69056
+mem: 10188
+16 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69056 0
+wb: 10188
+rd: 13
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69072
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69072 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69072
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 49999980
+mem: 10194
+69072 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10194
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 5
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+5 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+2 10154 65960
+mem: 101a0
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101a4
+65960 0
+wb: 101a0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101a8 -1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+Invalid
+EX: 0
+0 0 0
+mem: 1015c
+-1 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1015c
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+simulate over!
+instruction number: 117
+cycles: 296
+CPI: 2.52991
+$ check memory from 0x10dc0 to 0x10de8
+10dc0: 00 00 00 00 02 00 00 00 06 00 00 00 0c 00 00 00 
+10dd0: 14 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+10de0: 10 13 01 00 00 00 00 00 
+$ **********  test4  **********
+$ 
+file loaded
+$ the program begin to run
+71032 72 616a98
+Fetch instruction at 10140
+Invalid
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10144
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 10140
+0 0 49999968
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 10140
+49999968 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10140
+rd: 2
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1014c
+EX: 10144
+0 0 49999992
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10150
+EX: 10148
+0 0 50000000
+mem: 10144
+49999992 0
+wb: 0
+rd: 0
+Fetch instruction at 10150
+EX: 0
+0 0 0
+mem: 10148
+50000000 0
+wb: 10144
+rd: 0
+Fetch instruction at 10150
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10148
+rd: 8
+Fetch instruction at 10150
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+EX: 1014c
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 10150
+0 0 49999980
+mem: 1014c
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 10150
+49999980 0
+wb: 1014c
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10150
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101cc 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69104
+mem: 10168
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69104 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69104
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69104 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69104
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+69104 32
+69104 4 616310 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 69632
+mem: 1017c
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+69632 0
+wb: 1017c
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 13
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69104
+mem: 10188
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69104 0
+wb: 10188
+rd: 13
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69104
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69104 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69104
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 69632
+mem: 10194
+69104 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 49999980
+mem: 10198
+69632 0
+wb: 10194
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10198
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 14
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 69104
+mem: 101a0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+69104 0
+wb: 101a0
+rd: 14
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 69104
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+69104 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 69104
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+0 0 71016
+mem: 101ac
+69104 32
+69104 4 616310 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 101b0
+71016 32
+71016 4 616a88 65638c8
+wb: 101ac
+rd: 14
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 15
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 101b4
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 101b4
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b4
+rd: 14
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c0
+EX: 101b8
+0 0 71016
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 101bc
+0 0 49999980
+mem: 101b8
+71016 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 101bc
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 101b8
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101bc
+rd: 15
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 101c0
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 101c0
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c0
+rd: 15
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101cc
+EX: 101c4
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d0
+EX: 101c8
+2 10154 65996
+mem: 101c4
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101c8
+65996 0
+wb: 101c4
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c8
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101cc 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69104
+mem: 10168
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69104 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69108
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69108 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69108
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+69108 32
+69108 4 616314 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 69632
+mem: 1017c
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+69632 0
+wb: 1017c
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 13
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69104
+mem: 10188
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69104 0
+wb: 10188
+rd: 13
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69108
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69108 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69108
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 69632
+mem: 10194
+69108 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 49999980
+mem: 10198
+69632 0
+wb: 10194
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10198
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 14
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 69104
+mem: 101a0
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+69104 0
+wb: 101a0
+rd: 14
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 69108
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+69108 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 69108
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+0 0 71016
+mem: 101ac
+69108 32
+69108 4 616314 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 101b0
+71016 32
+71016 4 616a88 65638c8
+wb: 101ac
+rd: 14
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 15
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 101b4
+0 0 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 101b4
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b4
+rd: 14
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c0
+EX: 101b8
+0 0 71016
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 101bc
+0 0 49999980
+mem: 101b8
+71016 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 101bc
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 101b8
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101bc
+rd: 15
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 101c0
+0 0 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 101c0
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c0
+rd: 15
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101cc
+EX: 101c4
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d0
+EX: 101c8
+2 10154 65996
+mem: 101c4
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101c8
+65996 0
+wb: 101c4
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c8
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101cc 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 8
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69104
+mem: 10168
+8 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69104 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69112
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69112 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69112
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+69112 32
+69112 4 616318 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 6
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 69632
+mem: 1017c
+6 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+69632 0
+wb: 1017c
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 13
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 8
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69104
+mem: 10188
+8 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69104 0
+wb: 10188
+rd: 13
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69112
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69112 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69112
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 69632
+mem: 10194
+69112 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 49999980
+mem: 10198
+69632 0
+wb: 10194
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10198
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 14
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 8
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 69104
+mem: 101a0
+8 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+69104 0
+wb: 101a0
+rd: 14
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 69112
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+69112 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 69112
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+0 0 71016
+mem: 101ac
+69112 32
+69112 4 616318 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 101b0
+71016 32
+71016 4 616a88 65638c8
+wb: 101ac
+rd: 14
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 15
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 101b4
+0 0 8
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 101b4
+8 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b4
+rd: 14
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c0
+EX: 101b8
+0 0 71016
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 101bc
+0 0 49999980
+mem: 101b8
+71016 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 101bc
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 101b8
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101bc
+rd: 15
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 101c0
+0 0 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 101c0
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c0
+rd: 15
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101cc
+EX: 101c4
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d0
+EX: 101c8
+2 10154 65996
+mem: 101c4
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101c8
+65996 0
+wb: 101c4
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c8
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101cc 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69104
+mem: 10168
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69104 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69116
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69116 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69116
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+69116 32
+69116 4 61631c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 69632
+mem: 1017c
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+69632 0
+wb: 1017c
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 13
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69104
+mem: 10188
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69104 0
+wb: 10188
+rd: 13
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69116
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69116 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69116
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 69632
+mem: 10194
+69116 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 49999980
+mem: 10198
+69632 0
+wb: 10194
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10198
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 14
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 69104
+mem: 101a0
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+69104 0
+wb: 101a0
+rd: 14
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 69116
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+69116 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 69116
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+0 0 71016
+mem: 101ac
+69116 32
+69116 4 61631c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 101b0
+71016 32
+71016 4 616a88 65638c8
+wb: 101ac
+rd: 14
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 15
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 101b4
+0 0 20
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 101b4
+20 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b4
+rd: 14
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c0
+EX: 101b8
+0 0 71016
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 101bc
+0 0 49999980
+mem: 101b8
+71016 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 101bc
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 101b8
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101bc
+rd: 15
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 101c0
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 101c0
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c0
+rd: 15
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101cc
+EX: 101c4
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d0
+EX: 101c8
+2 10154 65996
+mem: 101c4
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101c8
+65996 0
+wb: 101c4
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c8
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101cc 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 16
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69104
+mem: 10168
+16 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69104 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69120
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69120 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69120
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+69120 32
+69120 4 616320 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 20
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 69632
+mem: 1017c
+20 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+69632 0
+wb: 1017c
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 13
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 16
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69104
+mem: 10188
+16 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69104 0
+wb: 10188
+rd: 13
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69120
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69120 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69120
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 69632
+mem: 10194
+69120 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 49999980
+mem: 10198
+69632 0
+wb: 10194
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10198
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 14
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 16
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 69104
+mem: 101a0
+16 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+69104 0
+wb: 101a0
+rd: 14
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 69120
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+69120 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 69120
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+0 0 71016
+mem: 101ac
+69120 32
+69120 4 616320 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 101b0
+71016 32
+71016 4 616a88 65638c8
+wb: 101ac
+rd: 14
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 15
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 101b4
+0 0 40
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 101b4
+40 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b4
+rd: 14
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c0
+EX: 101b8
+0 0 71016
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 101bc
+0 0 49999980
+mem: 101b8
+71016 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 101bc
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 101b8
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101bc
+rd: 15
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 101c0
+0 0 5
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 101c0
+5 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c0
+rd: 15
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101cc
+EX: 101c4
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d0
+EX: 101c8
+2 10154 65996
+mem: 101c4
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101c8
+65996 0
+wb: 101c4
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c8
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 4
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+4 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101cc -1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101cc
+Invalid
+EX: 0
+0 0 0
+mem: 1015c
+-1 0
+wb: 0
+rd: 0
+Fetch instruction at 101d0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1015c
+rd: 0
+Fetch instruction at 101d4
+EX: 101cc
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d4
+EX: 0
+0 0 0
+mem: 101cc
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101cc
+rd: 15
+Fetch instruction at 101d4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d8
+EX: 101d0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+simulate over!
+instruction number: 162
+cycles: 416
+CPI: 2.5679
+$ check memory from 0x10df0 to 0x10e18
+10df0: 00 00 00 00 02 00 00 00 06 00 00 00 0c 00 00 00 
+10e00: 14 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+10e10: 40 13 01 00 00 00 00 00 
+$ check memory from 0x11568 to 0x1156c
+11568: 28 00 00 00 
+$ **********  test5  **********
+$ 
+file loaded
+$ the program begin to run
+70992 72 616a70
+Fetch instruction at 10140
+Invalid
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10144
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 10140
+0 0 49999968
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 10140
+49999968 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10140
+rd: 2
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1014c
+EX: 10144
+0 0 49999992
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10150
+EX: 10148
+0 0 50000000
+mem: 10144
+49999992 0
+wb: 0
+rd: 0
+Fetch instruction at 10150
+EX: 0
+0 0 0
+mem: 10148
+50000000 0
+wb: 10144
+rd: 0
+Fetch instruction at 10150
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10148
+rd: 8
+Fetch instruction at 10150
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+EX: 1014c
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 10150
+0 0 1
+mem: 1014c
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 10150
+1 0
+wb: 1014c
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10150
+rd: 15
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 49999980
+mem: 10154
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 5
+mem: 10158
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10154
+rd: 0
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 1015c
+5 0
+wb: 10158
+rd: 14
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1015c
+rd: 15
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+5 101ac 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 69632
+mem: 10160
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 49999980
+mem: 10164
+69632 0
+wb: 10160
+rd: 0
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 10168
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10164
+rd: 15
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10168
+rd: 14
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69072
+mem: 1016c
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69072 0
+wb: 1016c
+rd: 14
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69076
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+69076 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 69076
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 49999980
+mem: 10178
+69076 32
+69076 4 6162f4 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 1017c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10178
+rd: 14
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1017c
+rd: 15
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 69632
+mem: 10180
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 49999980
+mem: 10184
+69632 0
+wb: 10180
+rd: 14
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10184
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 13
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69072
+mem: 1018c
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69072 0
+wb: 1018c
+rd: 13
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69076
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 10194
+69076 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10194
+rd: 15
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 69076
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 49999980
+mem: 10198
+69076 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10198
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 101a0
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a0
+rd: 15
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+2 10158 65964
+mem: 101a4
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+Invalid
+EX: 0
+0 0 0
+mem: 101a8
+65964 0
+wb: 101a4
+rd: 0
+Fetch instruction at 1015c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 5
+mem: 10158
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 1015c
+5 0
+wb: 10158
+rd: 14
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1015c
+rd: 15
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+5 101ac 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 69632
+mem: 10160
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 49999980
+mem: 10164
+69632 0
+wb: 10160
+rd: 0
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 10168
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10164
+rd: 15
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10168
+rd: 14
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 8
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69072
+mem: 1016c
+8 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69072 0
+wb: 1016c
+rd: 14
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+69080 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 69080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 49999980
+mem: 10178
+69080 32
+69080 4 6162f8 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 1017c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10178
+rd: 14
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1017c
+rd: 15
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 69632
+mem: 10180
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 49999980
+mem: 10184
+69632 0
+wb: 10180
+rd: 14
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10184
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 13
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 8
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69072
+mem: 1018c
+8 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69072 0
+wb: 1018c
+rd: 13
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 10194
+69080 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10194
+rd: 15
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 69080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 49999980
+mem: 10198
+69080 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10198
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 101a0
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a0
+rd: 15
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+2 10158 65964
+mem: 101a4
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+Invalid
+EX: 0
+0 0 0
+mem: 101a8
+65964 0
+wb: 101a4
+rd: 0
+Fetch instruction at 1015c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 5
+mem: 10158
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 1015c
+5 0
+wb: 10158
+rd: 14
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1015c
+rd: 15
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+5 101ac 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 69632
+mem: 10160
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 49999980
+mem: 10164
+69632 0
+wb: 10160
+rd: 0
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 10168
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10164
+rd: 15
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10168
+rd: 14
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69072
+mem: 1016c
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69072 0
+wb: 1016c
+rd: 14
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69084
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+69084 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 69084
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 49999980
+mem: 10178
+69084 32
+69084 4 6162fc 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 1017c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10178
+rd: 14
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1017c
+rd: 15
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 69632
+mem: 10180
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 49999980
+mem: 10184
+69632 0
+wb: 10180
+rd: 14
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10184
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 13
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69072
+mem: 1018c
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69072 0
+wb: 1018c
+rd: 13
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69084
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 10194
+69084 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10194
+rd: 15
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 69084
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 49999980
+mem: 10198
+69084 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10198
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 101a0
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a0
+rd: 15
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+2 10158 65964
+mem: 101a4
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+Invalid
+EX: 0
+0 0 0
+mem: 101a8
+65964 0
+wb: 101a4
+rd: 0
+Fetch instruction at 1015c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 5
+mem: 10158
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 1015c
+5 0
+wb: 10158
+rd: 14
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1015c
+rd: 15
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+5 101ac 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 69632
+mem: 10160
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 49999980
+mem: 10164
+69632 0
+wb: 10160
+rd: 0
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 10168
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10164
+rd: 15
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10168
+rd: 14
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 16
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69072
+mem: 1016c
+16 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69072 0
+wb: 1016c
+rd: 14
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69088
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+69088 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 69088
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 49999980
+mem: 10178
+69088 32
+69088 4 616300 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 1017c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10178
+rd: 14
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1017c
+rd: 15
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 69632
+mem: 10180
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 49999980
+mem: 10184
+69632 0
+wb: 10180
+rd: 14
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10184
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 13
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 16
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69072
+mem: 1018c
+16 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69072 0
+wb: 1018c
+rd: 13
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69088
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 10194
+69088 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10194
+rd: 15
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 69088
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 49999980
+mem: 10198
+69088 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10198
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 5
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 101a0
+5 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a0
+rd: 15
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+2 10158 65964
+mem: 101a4
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+Invalid
+EX: 0
+0 0 0
+mem: 101a8
+65964 0
+wb: 101a4
+rd: 0
+Fetch instruction at 1015c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 5
+mem: 10158
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 1015c
+5 0
+wb: 10158
+rd: 14
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1015c
+rd: 15
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+5 101ac 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 69632
+mem: 10160
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 49999980
+mem: 10164
+69632 0
+wb: 10160
+rd: 0
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 10168
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10164
+rd: 15
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10168
+rd: 14
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 20
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69072
+mem: 1016c
+20 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69072 0
+wb: 1016c
+rd: 14
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69092
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+69092 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 69092
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 49999980
+mem: 10178
+69092 32
+69092 4 616304 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 1017c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10178
+rd: 14
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1017c
+rd: 15
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 69632
+mem: 10180
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 49999980
+mem: 10184
+69632 0
+wb: 10180
+rd: 14
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10184
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 13
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 20
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69072
+mem: 1018c
+20 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+69072 0
+wb: 1018c
+rd: 13
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 69092
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 10194
+69092 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10194
+rd: 15
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 69092
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 49999980
+mem: 10198
+69092 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10198
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 6
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 101a0
+6 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a0
+rd: 15
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+2 10158 65964
+mem: 101a4
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+Invalid
+EX: 0
+0 0 0
+mem: 101a8
+65964 0
+wb: 101a4
+rd: 0
+Fetch instruction at 1015c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 5
+mem: 10158
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 1015c
+5 0
+wb: 10158
+rd: 14
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1015c
+rd: 15
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+5 101ac -1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+Invalid
+EX: 0
+0 0 0
+mem: 10160
+-1 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10160
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 0
+0 0 0
+mem: 101ac
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101ac
+rd: 15
+Fetch instruction at 101b4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+simulate over!
+instruction number: 118
+cycles: 490
+CPI: 4.15254
+$ check memory from 0x10dd0 to 0x10df8
+10dd0: 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 
+10de0: 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 
+10df0: 20 13 01 00 00 00 00 00 
+$ **********  test6 **********
+$ 
+file loaded
+$ the program begin to run
+70960 72 616a50
+Fetch instruction at 10150
+Invalid
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 10150
+0 0 49999968
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 10150
+49999968 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10150
+rd: 2
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999992
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 50000000
+mem: 10154
+49999992 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+50000000 0
+wb: 10154
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 8
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 3
+mem: 1015c
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 10160
+3 0
+wb: 1015c
+rd: 0
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10160
+rd: 15
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 49999980
+mem: 10164
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 15
+mem: 10168
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10164
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+15 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+5 10194 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 70920
+mem: 10170
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+70920 32
+70920 4 616a28 65638c8
+wb: 10170
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 5
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 1017c
+5 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1017c
+rd: 14
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 70944
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+70944 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 6
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+6 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+2 10168 65940
+mem: 1018c
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+Invalid
+EX: 0
+0 0 0
+mem: 10190
+65940 0
+wb: 1018c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 15
+mem: 10168
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+15 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+5 10194 9
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 70920
+mem: 10170
+9 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+70920 32
+70920 4 616a28 65638c8
+wb: 10170
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 1017c
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1017c
+rd: 14
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 70944
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+70944 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 9
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+9 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+2 10168 65940
+mem: 1018c
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+Invalid
+EX: 0
+0 0 0
+mem: 10190
+65940 0
+wb: 1018c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 15
+mem: 10168
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+15 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+5 10194 6
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 70920
+mem: 10170
+6 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+70920 32
+70920 4 616a28 65638c8
+wb: 10170
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 1017c
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1017c
+rd: 14
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 70944
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+70944 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+2 10168 65940
+mem: 1018c
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+Invalid
+EX: 0
+0 0 0
+mem: 10190
+65940 0
+wb: 1018c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 15
+mem: 10168
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+15 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+5 10194 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 70920
+mem: 10170
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+70920 32
+70920 4 616a28 65638c8
+wb: 10170
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 1017c
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1017c
+rd: 14
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 70944
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+70944 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 15
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+15 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+2 10168 65940
+mem: 1018c
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+Invalid
+EX: 0
+0 0 0
+mem: 10190
+65940 0
+wb: 1018c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 15
+mem: 10168
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+15 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+5 10194 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 70920
+mem: 10170
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 49999980
+mem: 10174
+70920 32
+70920 4 616a28 65638c8
+wb: 10170
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10174
+rd: 14
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 1017c
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1017c
+rd: 14
+Fetch instruction at 10184
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 70944
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 49999980
+mem: 10180
+70944 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10180
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 18
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+18 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+2 10168 65940
+mem: 1018c
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+Invalid
+EX: 0
+0 0 0
+mem: 10190
+65940 0
+wb: 1018c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 15
+mem: 10168
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+15 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+5 10194 -3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+Invalid
+EX: 0
+0 0 0
+mem: 10170
+-3 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 10194
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10194
+rd: 15
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+simulate over!
+instruction number: 68
+cycles: 365
+CPI: 5.36765
+$ check memory from 0x11508 to 0x1150c
+11508: 0f 00 00 00 
+$ check memory from 0x11520 to 0x11524
+11520: 01 00 00 00 
+$ **********  test7  **********
+$ 
+file loaded
+$ the program begin to run
+71000 72 616a78
+Fetch instruction at 10140
+Invalid
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10144
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 10140
+0 0 49999968
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 10140
+49999968 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10140
+rd: 2
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1014c
+EX: 10144
+0 0 49999992
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10150
+EX: 10148
+0 0 50000000
+mem: 10144
+49999992 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+EX: 1014c
+0 0 1
+mem: 10148
+50000000 0
+wb: 10144
+rd: 0
+Fetch instruction at 10154
+EX: 0
+0 0 0
+mem: 1014c
+1 0
+wb: 10148
+rd: 8
+Fetch instruction at 10154
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1014c
+rd: 15
+Fetch instruction at 10154
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 10150
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 10150
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 5
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10150
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+5 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101b4 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69072
+mem: 10168
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69072 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69076
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69076 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69076
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+69076 32
+69076 4 6162f4 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 69632
+mem: 10178
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 49999980
+mem: 1017c
+69632 0
+wb: 10178
+rd: 14
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 10180
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 1017c
+rd: 15
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10180
+rd: 13
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 69072
+mem: 10184
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+69072 0
+wb: 10184
+rd: 13
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69076
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69076 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69076
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 70968
+mem: 10190
+69076 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 49999980
+mem: 10194
+70968 32
+70968 4 616a58 65638c8
+wb: 10190
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10194
+rd: 14
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 14
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 70968
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 49999980
+mem: 101a0
+70968 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 101a0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+2 10154 65972
+mem: 101ac
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101b0
+65972 0
+wb: 101ac
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 5
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+5 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101b4 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 8
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69072
+mem: 10168
+8 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69072 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69080 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+69080 32
+69080 4 6162f8 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 69632
+mem: 10178
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 49999980
+mem: 1017c
+69632 0
+wb: 10178
+rd: 14
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 10180
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 1017c
+rd: 15
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10180
+rd: 13
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 8
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 69072
+mem: 10184
+8 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+69072 0
+wb: 10184
+rd: 13
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69080 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 70968
+mem: 10190
+69080 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 49999980
+mem: 10194
+70968 32
+70968 4 616a58 65638c8
+wb: 10190
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10194
+rd: 14
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 14
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 70968
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 49999980
+mem: 101a0
+70968 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 101a0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+2 10154 65972
+mem: 101ac
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101b0
+65972 0
+wb: 101ac
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 5
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+5 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101b4 2
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+2 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69072
+mem: 10168
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69072 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69084
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69084 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69084
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+69084 32
+69084 4 6162fc 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 5
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 69632
+mem: 10178
+5 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 49999980
+mem: 1017c
+69632 0
+wb: 10178
+rd: 14
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 10180
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 1017c
+rd: 15
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10180
+rd: 13
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 69072
+mem: 10184
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+69072 0
+wb: 10184
+rd: 13
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69084
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69084 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69084
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 70968
+mem: 10190
+69084 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 49999980
+mem: 10194
+70968 32
+70968 4 616a58 65638c8
+wb: 10190
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10194
+rd: 14
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 14
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 70968
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 49999980
+mem: 101a0
+70968 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 101a0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+2 10154 65972
+mem: 101ac
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101b0
+65972 0
+wb: 101ac
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 5
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+5 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101b4 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 16
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69072
+mem: 10168
+16 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69072 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69088
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69088 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69088
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+69088 32
+69088 4 616300 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 6
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 69632
+mem: 10178
+6 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 49999980
+mem: 1017c
+69632 0
+wb: 10178
+rd: 14
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 10180
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 1017c
+rd: 15
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10180
+rd: 13
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 16
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 69072
+mem: 10184
+16 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+69072 0
+wb: 10184
+rd: 13
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69088
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69088 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69088
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 70968
+mem: 10190
+69088 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 49999980
+mem: 10194
+70968 32
+70968 4 616a58 65638c8
+wb: 10190
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10194
+rd: 14
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 48
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+48 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 14
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 70968
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 49999980
+mem: 101a0
+70968 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 101a0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 5
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+5 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+2 10154 65972
+mem: 101ac
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101b0
+65972 0
+wb: 101ac
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 5
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+5 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101b4 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69632
+mem: 1015c
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 49999980
+mem: 10160
+69632 0
+wb: 1015c
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10160
+rd: 15
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 20
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 69072
+mem: 10168
+20 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 1016c
+69072 0
+wb: 10168
+rd: 14
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1016c
+rd: 15
+Fetch instruction at 10174
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69092
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69092 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69092
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+69092 32
+69092 4 616304 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 7
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 69632
+mem: 10178
+7 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 49999980
+mem: 1017c
+69632 0
+wb: 10178
+rd: 14
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 10180
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 1017c
+rd: 15
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10180
+rd: 13
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 20
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 69072
+mem: 10184
+20 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 10188
+69072 0
+wb: 10184
+rd: 13
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10188
+rd: 15
+Fetch instruction at 10190
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 69092
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+69092 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 69092
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 70968
+mem: 10190
+69092 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 49999980
+mem: 10194
+70968 32
+70968 4 616a58 65638c8
+wb: 10190
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 10194
+rd: 14
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 240
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+240 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 14
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 70968
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 49999980
+mem: 101a0
+70968 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 101a4
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 101a0
+rd: 0
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a4
+rd: 15
+Fetch instruction at 101ac
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 6
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+6 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+2 10154 65972
+mem: 101ac
+49999980 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+Invalid
+EX: 0
+0 0 0
+mem: 101b0
+65972 0
+wb: 101ac
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999980
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 5
+mem: 10154
+49999980 32
+49999980 4 35b458c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 10158
+5 0
+wb: 10154
+rd: 14
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10158
+rd: 15
+Fetch instruction at 10160
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+5 101b4 -1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+Invalid
+EX: 0
+0 0 0
+mem: 1015c
+-1 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1015c
+rd: 0
+Fetch instruction at 101bc
+EX: 101b4
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 101b4
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b4
+rd: 15
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c0
+EX: 101b8
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+simulate over!
+instruction number: 132
+cycles: 341
+CPI: 2.58333
+$ check memory from 0x10dd0 to 0x10df8
+10dd0: 01 00 00 00 03 00 00 00 04 00 00 00 05 00 00 00 
+10de0: 06 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 
+10df0: 20 13 01 00 00 00 00 00 
+$ check memory from 0x11538 to 0x1153c
+11538: f0 00 00 00 
+$ **********  test8  **********
+$ 
+file loaded
+$ the program begin to run
+71112 72 616ae8
+Fetch instruction at 10140
+Invalid
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10144
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 10140
+0 0 49999984
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 10140
+49999984 0
+wb: 0
+rd: 0
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10140
+rd: 2
+Fetch instruction at 10148
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1014c
+EX: 10144
+0 0 49999992
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10150
+EX: 10148
+0 0 50000000
+mem: 10144
+49999992 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+EX: 1014c
+0 0 69632
+mem: 10148
+50000000 0
+wb: 10144
+rd: 0
+Fetch instruction at 10154
+EX: 0
+0 0 0
+mem: 1014c
+69632 0
+wb: 10148
+rd: 8
+Fetch instruction at 10154
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1014c
+rd: 15
+Fetch instruction at 10154
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 10150
+0 0 69184
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 10150
+69184 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10150
+rd: 15
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 69188
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 0
+0 0 0
+mem: 10154
+69188 32
+69188 4 616364 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10154
+rd: 15
+Fetch instruction at 1015c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 3
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 69632
+mem: 10158
+3 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 1015c
+69632 0
+wb: 10158
+rd: 14
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1015c
+rd: 15
+Fetch instruction at 10164
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 69184
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 10160
+69184 0
+wb: 0
+rd: 0
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10160
+rd: 15
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 69188
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 71080
+mem: 10164
+69188 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 10168
+71080 32
+71080 4 616ac8 65638c8
+wb: 10164
+rd: 0
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10168
+rd: 14
+Fetch instruction at 10170
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 71080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 69632
+mem: 1016c
+71080 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+69632 0
+wb: 1016c
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 69184
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+69184 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 15
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 69192
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 10178
+69192 32
+69192 4 616368 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10178
+rd: 15
+Fetch instruction at 10180
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 69632
+mem: 1017c
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 10180
+69632 0
+wb: 1017c
+rd: 14
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10180
+rd: 15
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 69184
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+69184 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 15
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 69192
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 71080
+mem: 10188
+69192 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 1018c
+71080 32
+71080 4 616ac8 65638c8
+wb: 10188
+rd: 0
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1018c
+rd: 15
+Fetch instruction at 10194
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 14
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 71080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 69632
+mem: 10194
+71080 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 10198
+69632 0
+wb: 10194
+rd: 0
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10198
+rd: 15
+Fetch instruction at 101a0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 69184
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+69184 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 69196
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 101a0
+69196 32
+69196 4 61636c 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a0
+rd: 15
+Fetch instruction at 101a8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 5
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+0 0 69632
+mem: 101a4
+5 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 101a8
+69632 0
+wb: 101a4
+rd: 14
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 15
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 69184
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 0
+0 0 0
+mem: 101ac
+69184 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101ac
+rd: 15
+Fetch instruction at 101b4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+0 0 69196
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 101b4
+0 0 71080
+mem: 101b0
+69196 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 101b4
+71080 32
+71080 4 616ac8 65638c8
+wb: 101b0
+rd: 0
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b4
+rd: 14
+Fetch instruction at 101bc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c0
+EX: 101b8
+0 0 4
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c0
+EX: 0
+0 0 0
+mem: 101b8
+4 0
+wb: 0
+rd: 0
+Fetch instruction at 101c0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101b8
+rd: 15
+Fetch instruction at 101c0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 101bc
+0 0 8
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 101bc
+8 0
+wb: 0
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101bc
+rd: 15
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 101c0
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 101c0
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c0
+rd: 14
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101cc
+EX: 101c4
+0 0 71080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d0
+EX: 101c8
+0 0 69632
+mem: 101c4
+71080 0
+wb: 0
+rd: 0
+Fetch instruction at 101d0
+EX: 0
+0 0 0
+mem: 101c8
+69632 0
+wb: 101c4
+rd: 0
+Fetch instruction at 101d0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c8
+rd: 15
+Fetch instruction at 101d0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d4
+EX: 101cc
+0 0 69184
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d4
+EX: 0
+0 0 0
+mem: 101cc
+69184 0
+wb: 0
+rd: 0
+Fetch instruction at 101d4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101cc
+rd: 15
+Fetch instruction at 101d4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d8
+EX: 101d0
+0 0 69200
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d8
+EX: 0
+0 0 0
+mem: 101d0
+69200 32
+69200 4 616370 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 101d8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101d0
+rd: 15
+Fetch instruction at 101d8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101dc
+EX: 101d4
+0 0 6
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101e0
+EX: 101d8
+0 0 69632
+mem: 101d4
+6 0
+wb: 0
+rd: 0
+Fetch instruction at 101e0
+EX: 0
+0 0 0
+mem: 101d8
+69632 0
+wb: 101d4
+rd: 14
+Fetch instruction at 101e0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101d8
+rd: 15
+Fetch instruction at 101e0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101e4
+EX: 101dc
+0 0 69184
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101e4
+EX: 0
+0 0 0
+mem: 101dc
+69184 0
+wb: 0
+rd: 0
+Fetch instruction at 101e4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101dc
+rd: 15
+Fetch instruction at 101e4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101e8
+EX: 101e0
+0 0 69200
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101ec
+EX: 101e4
+0 0 71080
+mem: 101e0
+69200 0
+wb: 0
+rd: 0
+Fetch instruction at 101ec
+EX: 0
+0 0 0
+mem: 101e4
+71080 32
+71080 4 616ac8 65638c8
+wb: 101e0
+rd: 0
+Fetch instruction at 101ec
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101e4
+rd: 15
+Fetch instruction at 101ec
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101f0
+EX: 101e8
+0 0 48
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101f0
+EX: 0
+0 0 0
+mem: 101e8
+48 0
+wb: 0
+rd: 0
+Fetch instruction at 101f0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101e8
+rd: 14
+Fetch instruction at 101f0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101f4
+EX: 101ec
+0 0 71080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101f8
+EX: 101f0
+0 0 69632
+mem: 101ec
+71080 0
+wb: 0
+rd: 0
+Fetch instruction at 101f8
+EX: 0
+0 0 0
+mem: 101f0
+69632 0
+wb: 101ec
+rd: 0
+Fetch instruction at 101f8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101f0
+rd: 15
+Fetch instruction at 101f8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101fc
+EX: 101f4
+0 0 69184
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101fc
+EX: 0
+0 0 0
+mem: 101f4
+69184 0
+wb: 0
+rd: 0
+Fetch instruction at 101fc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101f4
+rd: 15
+Fetch instruction at 101fc
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10200
+EX: 101f8
+0 0 69204
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10200
+EX: 0
+0 0 0
+mem: 101f8
+69204 32
+69204 4 616374 65638c8
+wb: 0
+rd: 0
+Fetch instruction at 10200
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101f8
+rd: 15
+Fetch instruction at 10200
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10204
+EX: 101fc
+0 0 7
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10208
+EX: 10200
+0 0 69632
+mem: 101fc
+7 0
+wb: 0
+rd: 0
+Fetch instruction at 10208
+EX: 0
+0 0 0
+mem: 10200
+69632 0
+wb: 101fc
+rd: 14
+Fetch instruction at 10208
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10200
+rd: 15
+Fetch instruction at 10208
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1020c
+EX: 10204
+0 0 69184
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1020c
+EX: 0
+0 0 0
+mem: 10204
+69184 0
+wb: 0
+rd: 0
+Fetch instruction at 1020c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10204
+rd: 15
+Fetch instruction at 1020c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10210
+EX: 10208
+0 0 69204
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10214
+EX: 1020c
+0 0 71080
+mem: 10208
+69204 0
+wb: 0
+rd: 0
+Fetch instruction at 10214
+EX: 0
+0 0 0
+mem: 1020c
+71080 32
+71080 4 616ac8 65638c8
+wb: 10208
+rd: 0
+Fetch instruction at 10214
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1020c
+rd: 14
+Fetch instruction at 10214
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10218
+EX: 10210
+0 0 48
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10218
+EX: 0
+0 0 0
+mem: 10210
+48 0
+wb: 0
+rd: 0
+Fetch instruction at 10218
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10210
+rd: 15
+Fetch instruction at 10218
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1021c
+EX: 10214
+0 0 192
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1021c
+EX: 0
+0 0 0
+mem: 10214
+192 0
+wb: 0
+rd: 0
+Fetch instruction at 1021c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10214
+rd: 15
+Fetch instruction at 1021c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10220
+EX: 10218
+0 0 240
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10220
+EX: 0
+0 0 0
+mem: 10218
+240 0
+wb: 0
+rd: 0
+Fetch instruction at 10220
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10218
+rd: 14
+Fetch instruction at 10220
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10224
+EX: 1021c
+0 0 71080
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10228
+EX: 10220
+0 0 0
+mem: 1021c
+71080 0
+wb: 0
+rd: 0
+Fetch instruction at 10228
+EX: 0
+0 0 0
+mem: 10220
+0 0
+wb: 1021c
+rd: 0
+Fetch instruction at 10228
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10220
+rd: 15
+Fetch instruction at 10228
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1022c
+EX: 10224
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+simulate over!
+instruction number: 60
+cycles: 180
+CPI: 3
+$ check memory from 0x10e40 to 0x10e68
+10e40: 01 00 00 00 03 00 00 00 04 00 00 00 05 00 00 00 
+10e50: 06 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 
+10e60: 90 13 01 00 00 00 00 00 
+$ check memory from 0x115a8 to 0x115ac
+115a8: f0 00 00 00 
+$ **********  test9  **********
+$ 
+file loaded
+$ the program begin to run
+71040 72 616aa0
+Fetch instruction at 101ac
+Invalid
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b0
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 101ac
+0 0 49999984
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 0
+0 0 0
+mem: 101ac
+49999984 0
+wb: 0
+rd: 0
+Fetch instruction at 101b4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101ac
+rd: 2
+Fetch instruction at 101b4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101b8
+EX: 101b0
+0 0 49999992
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101bc
+EX: 101b4
+0 0 49999984
+mem: 101b0
+49999992 0
+wb: 0
+rd: 0
+Fetch instruction at 101c0
+EX: 101b8
+0 0 50000000
+mem: 101b4
+49999984 0
+wb: 101b0
+rd: 0
+Fetch instruction at 101c4
+EX: 101bc
+2 10150 65984
+mem: 101b8
+50000000 0
+wb: 101b4
+rd: 0
+Fetch instruction at 10150
+Invalid
+EX: 0
+0 0 0
+mem: 101bc
+65984 0
+wb: 101b8
+rd: 8
+Fetch instruction at 10154
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101bc
+rd: 1
+Fetch instruction at 10158
+EX: 10150
+0 0 49999968
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 10150
+49999968 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10150
+rd: 2
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999976
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 49999984
+mem: 10154
+49999976 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 71004
+mem: 10158
+49999984 0
+wb: 10154
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 71008
+mem: 1015c
+71004 32
+71004 4 616a7c 65638c8
+wb: 10158
+rd: 8
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 10160
+71008 32
+71008 4 616a80 65638c8
+wb: 1015c
+rd: 14
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10160
+rd: 15
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 5
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+5 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 71000
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 71000
+mem: 10168
+71000 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 71008
+mem: 1016c
+71000 32
+71000 4 616a78 65638c8
+wb: 10168
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+71008 32
+71008 4 616a80 65638c8
+wb: 1016c
+rd: 14
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 15
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+15 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 14
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 71004
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 71004
+mem: 10178
+71004 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 71008
+mem: 1017c
+71004 32
+71004 4 616a7c 65638c8
+wb: 10178
+rd: 0
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 10180
+71008 32
+71008 4 616a80 65638c8
+wb: 1017c
+rd: 14
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10180
+rd: 15
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 71008
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 71004
+mem: 10188
+71008 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 71008
+mem: 1018c
+71004 32
+71004 4 616a7c 65638c8
+wb: 10188
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+71008 32
+71008 4 616a80 65638c8
+wb: 1018c
+rd: 14
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 10194
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10194
+rd: 14
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 71000
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 0
+mem: 10198
+71000 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 49999976
+mem: 1019c
+0 0
+wb: 10198
+rd: 0
+Fetch instruction at 101ac
+EX: 101a4
+0 0 49999984
+mem: 101a0
+49999976 64
+49999976 8 35b4588 65638c8
+wb: 1019c
+rd: 0
+Fetch instruction at 101b0
+EX: 101a8
+1 101c0 65964
+mem: 101a4
+49999984 0
+wb: 101a0
+rd: 8
+Fetch instruction at 101c0
+Invalid
+EX: 0
+0 0 0
+mem: 101a8
+65964 0
+wb: 101a4
+rd: 2
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101a8
+rd: 0
+Fetch instruction at 101c4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 101c0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 101c0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 101c0
+rd: 15
+Fetch instruction at 101c8
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101cc
+EX: 101c4
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101d0
+EX: 101c8
+0 0 49999992
+mem: 101c4
+0 0
+wb: 0
+rd: 0
+simulate over!
+instruction number: 33
+cycles: 111
+CPI: 3.36364
+$ check memory from 0x11558 to 0x1155c
+11558: 01 00 00 00 
+$ check memory from 0x1155c to 0x11560
+1155c: 0f 00 00 00 
+$ check memory from 0x11560 to 0x11564
+11560: 0c 00 00 00 
+$ **********  test10 **********
+$ 
+file loaded
+$ the program begin to run
+70976 72 616a60
+Fetch instruction at 10150
+Invalid
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10154
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 10150
+0 0 49999984
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 10150
+49999984 0
+wb: 0
+rd: 0
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10150
+rd: 2
+Fetch instruction at 10158
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1015c
+EX: 10154
+0 0 49999992
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10160
+EX: 10158
+0 0 50000000
+mem: 10154
+49999992 0
+wb: 0
+rd: 0
+Fetch instruction at 10164
+EX: 1015c
+0 0 70940
+mem: 10158
+50000000 0
+wb: 10154
+rd: 0
+Fetch instruction at 10168
+EX: 10160
+0 0 70944
+mem: 1015c
+70940 32
+70940 4 616a3c 65638c8
+wb: 10158
+rd: 8
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 10160
+70944 32
+70944 4 616a40 65638c8
+wb: 1015c
+rd: 14
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10160
+rd: 15
+Fetch instruction at 10168
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 10164
+0 0 5
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 10164
+5 0
+wb: 0
+rd: 0
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10164
+rd: 14
+Fetch instruction at 1016c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10170
+EX: 10168
+0 0 70936
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10174
+EX: 1016c
+0 0 70936
+mem: 10168
+70936 0
+wb: 0
+rd: 0
+Fetch instruction at 10178
+EX: 10170
+0 0 70944
+mem: 1016c
+70936 32
+70936 4 616a38 65638c8
+wb: 10168
+rd: 0
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 10170
+70944 32
+70944 4 616a40 65638c8
+wb: 1016c
+rd: 14
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10170
+rd: 15
+Fetch instruction at 10178
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 10174
+0 0 15
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 10174
+15 0
+wb: 0
+rd: 0
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10174
+rd: 14
+Fetch instruction at 1017c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10180
+EX: 10178
+0 0 70940
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10184
+EX: 1017c
+0 0 70940
+mem: 10178
+70940 0
+wb: 0
+rd: 0
+Fetch instruction at 10188
+EX: 10180
+0 0 70944
+mem: 1017c
+70940 32
+70940 4 616a3c 65638c8
+wb: 10178
+rd: 0
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 10180
+70944 32
+70944 4 616a40 65638c8
+wb: 1017c
+rd: 14
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10180
+rd: 15
+Fetch instruction at 10188
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 10184
+0 0 12
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 10184
+12 0
+wb: 0
+rd: 0
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10184
+rd: 14
+Fetch instruction at 1018c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10190
+EX: 10188
+0 0 70944
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 10194
+EX: 1018c
+0 0 70940
+mem: 10188
+70944 0
+wb: 0
+rd: 0
+Fetch instruction at 10198
+EX: 10190
+0 0 70944
+mem: 1018c
+70940 32
+70940 4 616a3c 65638c8
+wb: 10188
+rd: 0
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 10190
+70944 32
+70944 4 616a40 65638c8
+wb: 1018c
+rd: 14
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10190
+rd: 15
+Fetch instruction at 10198
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 10194
+0 0 1
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 10194
+1 0
+wb: 0
+rd: 0
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 10194
+rd: 14
+Fetch instruction at 1019c
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a0
+EX: 10198
+0 0 70936
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 1019c
+0 0 0
+mem: 10198
+70936 0
+wb: 0
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 1019c
+0 0
+wb: 10198
+rd: 0
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 1019c
+rd: 15
+Fetch instruction at 101a4
+EX: 0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+Fetch instruction at 101a8
+EX: 101a0
+0 0 0
+mem: 0
+0 0
+wb: 0
+rd: 0
+simulate over!
+instruction number: 23
+cycles: 93
+CPI: 4.04348
+$ check memory from 0x11518 to 0x1151c
+11518: 01 00 00 00 
+$ check memory from 0x1151c to 0x11520
+1151c: 0f 00 00 00 
+$ check memory from 0x11520 to 0x11524
+11520: 0c 00 00 00 
+$ 

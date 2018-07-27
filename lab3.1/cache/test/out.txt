@@ -1,0 +1,556 @@
+**********  test1  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+Write: 49999992, 0, 64 ...... miss! cycles: 100
+Read: 70976, 0, 32 ...... miss! cycles: 100
+Write: 70976, 2, 32 ...... hit! cycles: 1
+Read: 70952, 1, 32 ...... miss! cycles: 100
+Write: 70952, 4, 32 ...... hit! cycles: 1
+Read: 70956, 2, 32 ...... hit! cycles: 1
+Write: 70956, 6, 32 ...... hit! cycles: 1
+Read: 70976, 2, 32 ...... hit! cycles: 1
+Read: 70952, 4, 32 ...... hit! cycles: 1
+Write: 70976, 6, 32 ...... hit! cycles: 1
+Read: 70952, 4, 32 ...... hit! cycles: 1
+Read: 70956, 6, 32 ...... hit! cycles: 1
+Write: 70952, 10, 32 ...... hit! cycles: 1
+Read: 70956, 6, 32 ...... hit! cycles: 1
+Read: 70976, 6, 32 ...... hit! cycles: 1
+Write: 70956, 12, 32 ...... hit! cycles: 1
+simulate over!
+instruction number:    28
+cycles:                529
+CPI:                   18.8929
+data_hazard number:    15
+load-use number:       6
+data_bypass number:    18
+control_hazard number: 0
+
+Cache hit:             45
+Cache miss:            5
+Cache miss rate:       10%
+
+$ check memory from 0x11540 to 0x11544
+11540: 06 00 00 00 
+$ check memory from 0x11528 to 0x1152c
+11528: 0a 00 00 00 
+$ check memory from 0x1152c to 0x11530
+1152c: 0c 00 00 00 
+$ **********  test2  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+Write: 49999992, 0, 64 ...... miss! cycles: 100
+Read: 70976, 0, 32 ...... miss! cycles: 100
+Read: 70952, 1, 32 ...... miss! cycles: 100
+Write: 70976, 1, 32 ...... hit! cycles: 1
+Read: 70976, 1, 32 ...... hit! cycles: 1
+Write: 70976, 3, 32 ...... hit! cycles: 1
+Read: 70952, 1, 32 ...... hit! cycles: 1
+Read: 70976, 3, 32 ...... hit! cycles: 1
+Write: 70952, 4, 32 ...... hit! cycles: 1
+Read: 70952, 4, 32 ...... hit! cycles: 1
+Write: 70952, 7, 32 ...... hit! cycles: 1
+Read: 70956, 2, 32 ...... hit! cycles: 1
+Read: 70976, 3, 32 ...... hit! cycles: 1
+Write: 70956, 5, 32 ...... hit! cycles: 1
+Read: 70956, 5, 32 ...... hit! cycles: 1
+Write: 70956, 9, 32 ...... hit! cycles: 1
+simulate over!
+instruction number:    28
+cycles:                529
+CPI:                   18.8929
+data_hazard number:    15
+load-use number:       6
+data_bypass number:    18
+control_hazard number: 0
+
+Cache hit:             45
+Cache miss:            5
+Cache miss rate:       10%
+
+$ check memory from 0x11540 to 0x11544
+11540: 03 00 00 00 
+$ check memory from 0x11528 to 0x1152c
+11528: 07 00 00 00 
+$ check memory from 0x1152c to 0x11530
+1152c: 09 00 00 00 
+$ **********  test3  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+Write: 49999992, 0, 64 ...... miss! cycles: 100
+Write: 49999980, 0, 32 ...... hit! cycles: 1
+Write: 49999980, 0, 32 ...... hit! cycles: 1
+Read: 49999980, 0, 32 ...... hit! cycles: 1
+Read: 49999980, 0, 32 ...... hit! cycles: 1
+Read: 69056, 1, 32 ...... miss! cycles: 100
+Read: 49999980, 0, 32 ...... hit! cycles: 1
+Read: 49999980, 0, 32 ...... hit! cycles: 1
+Write: 69056, 0, 32 ...... hit! cycles: 1
+Read: 49999980, 0, 32 ...... hit! cycles: 1
+Write: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 69060, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Write: 69060, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Write: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 69064, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Write: 69064, 6, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Write: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 69068, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Write: 69068, 12, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Write: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 69072, 5, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Write: 69072, 20, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Write: 49999980, 5, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+simulate over!
+instruction number:    117
+cycles:                544
+CPI:                   4.64957
+data_hazard number:    71
+load-use number:       20
+data_bypass number:    82
+control_hazard number: 6
+
+Cache hit:             183
+Cache miss:            4
+Cache miss rate:       2.13904%
+
+$ check memory from 0x10dc0 to 0x10de8
+10dc0: 00 00 00 00 02 00 00 00 06 00 00 00 0c 00 00 00 
+10dd0: 14 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+10de0: 10 13 01 00 00 00 00 00 
+$ **********  test4  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+Write: 49999992, 0, 64 ...... miss! cycles: 100
+Write: 49999980, 0, 32 ...... hit! cycles: 1
+Write: 49999980, 0, 32 ...... hit! cycles: 1
+Read: 49999980, 0, 32 ...... hit! cycles: 1
+Read: 49999980, 0, 32 ...... hit! cycles: 1
+Read: 69104, 1, 32 ...... miss! cycles: 100
+Read: 49999980, 0, 32 ...... hit! cycles: 1
+Read: 49999980, 0, 32 ...... hit! cycles: 1
+Write: 69104, 0, 32 ...... hit! cycles: 1
+Read: 49999980, 0, 32 ...... hit! cycles: 1
+Read: 69104, 0, 32 ...... hit! cycles: 1
+Read: 71016, 0, 32 ...... miss! cycles: 100
+Write: 71016, 0, 32 ...... hit! cycles: 1
+Read: 49999980, 0, 32 ...... hit! cycles: 1
+Write: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 69108, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Write: 69108, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 69108, 2, 32 ...... hit! cycles: 1
+Read: 71016, 0, 32 ...... hit! cycles: 1
+Write: 71016, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Write: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 69112, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Write: 69112, 6, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 69112, 6, 32 ...... hit! cycles: 1
+Read: 71016, 2, 32 ...... hit! cycles: 1
+Write: 71016, 8, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Write: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 69116, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Write: 69116, 12, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 69116, 12, 32 ...... hit! cycles: 1
+Read: 71016, 8, 32 ...... hit! cycles: 1
+Write: 71016, 20, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Write: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 69120, 5, 32 ...... miss! cycles: 100
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Write: 69120, 20, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 69120, 20, 32 ...... hit! cycles: 1
+Read: 71016, 20, 32 ...... hit! cycles: 1
+Write: 71016, 40, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Write: 49999980, 5, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+simulate over!
+instruction number:    162
+cycles:                896
+CPI:                   5.53086
+data_hazard number:    101
+load-use number:       30
+data_bypass number:    117
+control_hazard number: 6
+
+Cache hit:             255
+Cache miss:            7
+Cache miss rate:       2.67176%
+
+$ check memory from 0x10df0 to 0x10e18
+10df0: 00 00 00 00 02 00 00 00 06 00 00 00 0c 00 00 00 
+10e00: 14 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+10e10: 40 13 01 00 00 00 00 00 
+$ check memory from 0x11568 to 0x1156c
+11568: 28 00 00 00 
+$ **********  test5  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+Write: 49999992, 0, 64 ...... miss! cycles: 100
+Write: 49999980, 0, 32 ...... hit! cycles: 1
+Write: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 69076, 1, 32 ...... miss! cycles: 100
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Write: 69076, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Write: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 69080, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Write: 69080, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Write: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 69084, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Write: 69084, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Write: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 69088, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Write: 69088, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Write: 49999980, 5, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+Read: 69092, 5, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+Write: 69092, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+Write: 49999980, 6, 32 ...... hit! cycles: 1
+Read: 49999980, 6, 32 ...... hit! cycles: 1
+simulate over!
+instruction number:    118
+cycles:                735
+CPI:                   6.22881
+data_hazard number:    71
+load-use number:       20
+data_bypass number:    82
+control_hazard number: 6
+
+Cache hit:             184
+Cache miss:            4
+Cache miss rate:       2.12766%
+
+$ check memory from 0x10dd0 to 0x10df8
+10dd0: 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 
+10de0: 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 
+10df0: 20 13 01 00 00 00 00 00 
+$ **********  test6 **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+Write: 49999992, 0, 64 ...... miss! cycles: 100
+Write: 49999980, 0, 32 ...... hit! cycles: 1
+Write: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 70920, 15, 32 ...... miss! cycles: 100
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Write: 70944, 5, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Write: 49999980, 6, 32 ...... hit! cycles: 1
+Read: 49999980, 6, 32 ...... hit! cycles: 1
+Read: 70920, 15, 32 ...... hit! cycles: 1
+Read: 49999980, 6, 32 ...... hit! cycles: 1
+Write: 70944, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 6, 32 ...... hit! cycles: 1
+Write: 49999980, 9, 32 ...... hit! cycles: 1
+Read: 49999980, 9, 32 ...... hit! cycles: 1
+Read: 70920, 15, 32 ...... hit! cycles: 1
+Read: 49999980, 9, 32 ...... hit! cycles: 1
+Write: 70944, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 9, 32 ...... hit! cycles: 1
+Write: 49999980, 12, 32 ...... hit! cycles: 1
+Read: 49999980, 12, 32 ...... hit! cycles: 1
+Read: 70920, 15, 32 ...... hit! cycles: 1
+Read: 49999980, 12, 32 ...... hit! cycles: 1
+Write: 70944, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 12, 32 ...... hit! cycles: 1
+Write: 49999980, 15, 32 ...... hit! cycles: 1
+Read: 49999980, 15, 32 ...... hit! cycles: 1
+Read: 70920, 15, 32 ...... hit! cycles: 1
+Read: 49999980, 15, 32 ...... hit! cycles: 1
+Write: 70944, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 15, 32 ...... hit! cycles: 1
+Write: 49999980, 18, 32 ...... hit! cycles: 1
+Read: 49999980, 18, 32 ...... hit! cycles: 1
+simulate over!
+instruction number:    68
+cycles:                675
+CPI:                   9.92647
+data_hazard number:    36
+load-use number:       10
+data_bypass number:    47
+control_hazard number: 6
+
+Cache hit:             114
+Cache miss:            4
+Cache miss rate:       3.38983%
+
+$ check memory from 0x11508 to 0x1150c
+11508: 0f 00 00 00 
+$ check memory from 0x11520 to 0x11524
+11520: 01 00 00 00 
+$ **********  test7  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+Write: 49999992, 0, 64 ...... miss! cycles: 100
+Write: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Read: 69076, 2, 32 ...... miss! cycles: 100
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Write: 69076, 3, 32 ...... hit! cycles: 1
+Read: 70968, 2, 32 ...... miss! cycles: 100
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Write: 70968, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 1, 32 ...... hit! cycles: 1
+Write: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Read: 69080, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Write: 69080, 4, 32 ...... hit! cycles: 1
+Read: 70968, 2, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Write: 70968, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 2, 32 ...... hit! cycles: 1
+Write: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Read: 69084, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Write: 69084, 5, 32 ...... hit! cycles: 1
+Read: 70968, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Write: 70968, 12, 32 ...... hit! cycles: 1
+Read: 49999980, 3, 32 ...... hit! cycles: 1
+Write: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Read: 69088, 5, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Write: 69088, 6, 32 ...... hit! cycles: 1
+Read: 70968, 12, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Write: 70968, 48, 32 ...... hit! cycles: 1
+Read: 49999980, 4, 32 ...... hit! cycles: 1
+Write: 49999980, 5, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+Read: 69092, 6, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+Write: 69092, 7, 32 ...... hit! cycles: 1
+Read: 70968, 48, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+Write: 70968, 240, 32 ...... hit! cycles: 1
+Read: 49999980, 5, 32 ...... hit! cycles: 1
+Write: 49999980, 6, 32 ...... hit! cycles: 1
+Read: 49999980, 6, 32 ...... hit! cycles: 1
+simulate over!
+instruction number:    132
+cycles:                762
+CPI:                   5.77273
+data_hazard number:    81
+load-use number:       25
+data_bypass number:    92
+control_hazard number: 6
+
+Cache hit:             210
+Cache miss:            6
+Cache miss rate:       2.77778%
+
+$ check memory from 0x10dd0 to 0x10df8
+10dd0: 01 00 00 00 03 00 00 00 04 00 00 00 05 00 00 00 
+10de0: 06 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 
+10df0: 20 13 01 00 00 00 00 00 
+$ check memory from 0x11538 to 0x1153c
+11538: f0 00 00 00 
+$ **********  test8  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+Write: 49999992, 0, 64 ...... miss! cycles: 100
+Read: 69188, 2, 32 ...... miss! cycles: 100
+Write: 69188, 3, 32 ...... hit! cycles: 1
+Read: 71080, 2, 32 ...... miss! cycles: 100
+Write: 71080, 2, 32 ...... hit! cycles: 1
+Read: 69192, 3, 32 ...... hit! cycles: 1
+Write: 69192, 4, 32 ...... hit! cycles: 1
+Read: 71080, 2, 32 ...... hit! cycles: 1
+Write: 71080, 4, 32 ...... hit! cycles: 1
+Read: 69196, 4, 32 ...... hit! cycles: 1
+Write: 69196, 5, 32 ...... hit! cycles: 1
+Read: 71080, 4, 32 ...... hit! cycles: 1
+Write: 71080, 12, 32 ...... hit! cycles: 1
+Read: 69200, 5, 32 ...... hit! cycles: 1
+Write: 69200, 6, 32 ...... hit! cycles: 1
+Read: 71080, 12, 32 ...... hit! cycles: 1
+Write: 71080, 48, 32 ...... hit! cycles: 1
+Read: 69204, 6, 32 ...... hit! cycles: 1
+Write: 69204, 7, 32 ...... hit! cycles: 1
+Read: 71080, 48, 32 ...... hit! cycles: 1
+Write: 71080, 240, 32 ...... hit! cycles: 1
+simulate over!
+instruction number:    60
+cycles:                763
+CPI:                   12.7167
+data_hazard number:    41
+load-use number:       10
+data_bypass number:    41
+control_hazard number: 0
+
+Cache hit:             84
+Cache miss:            7
+Cache miss rate:       7.69231%
+
+$ check memory from 0x10e40 to 0x10e68
+10e40: 01 00 00 00 03 00 00 00 04 00 00 00 05 00 00 00 
+10e50: 06 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 
+10e60: 90 13 01 00 00 00 00 00 
+$ check memory from 0x115a8 to 0x115ac
+115a8: f0 00 00 00 
+$ **********  test9  **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+Write: 49999992, 0, 64 ...... miss! cycles: 100
+Write: 49999984, 0, 64 ...... hit! cycles: 1
+Write: 49999976, 50000000, 64 ...... hit! cycles: 1
+Read: 71004, 2, 32 ...... miss! cycles: 100
+Read: 71008, 3, 32 ...... hit! cycles: 1
+Write: 71000, 5, 32 ...... hit! cycles: 1
+Read: 71000, 5, 32 ...... hit! cycles: 1
+Read: 71008, 3, 32 ...... hit! cycles: 1
+Write: 71004, 15, 32 ...... hit! cycles: 1
+Read: 71004, 15, 32 ...... hit! cycles: 1
+Read: 71008, 3, 32 ...... hit! cycles: 1
+Write: 71008, 12, 32 ...... hit! cycles: 1
+Read: 71004, 15, 32 ...... hit! cycles: 1
+Read: 71008, 12, 32 ...... hit! cycles: 1
+Write: 71000, 1, 32 ...... hit! cycles: 1
+Read: 49999976, 50000000, 64 ...... hit! cycles: 1
+simulate over!
+instruction number:    33
+cycles:                574
+CPI:                   17.3939
+data_hazard number:    15
+load-use number:       4
+data_bypass number:    19
+control_hazard number: 2
+
+Cache hit:             50
+Cache miss:            5
+Cache miss rate:       9.09091%
+
+$ check memory from 0x11558 to 0x1155c
+11558: 01 00 00 00 
+$ check memory from 0x1155c to 0x11560
+1155c: 0f 00 00 00 
+$ check memory from 0x11560 to 0x11564
+11560: 0c 00 00 00 
+$ **********  test10 **********
+$ 
+file loaded
+$ the program begin to run
+Invalid
+Write: 49999992, 0, 64 ...... miss! cycles: 100
+Read: 70940, 2, 32 ...... miss! cycles: 100
+Read: 70944, 3, 32 ...... hit! cycles: 1
+Write: 70936, 5, 32 ...... hit! cycles: 1
+Read: 70936, 5, 32 ...... hit! cycles: 1
+Read: 70944, 3, 32 ...... hit! cycles: 1
+Write: 70940, 15, 32 ...... hit! cycles: 1
+Read: 70940, 15, 32 ...... hit! cycles: 1
+Read: 70944, 3, 32 ...... hit! cycles: 1
+Write: 70944, 12, 32 ...... hit! cycles: 1
+Read: 70940, 15, 32 ...... hit! cycles: 1
+Read: 70944, 12, 32 ...... hit! cycles: 1
+Write: 70936, 1, 32 ...... hit! cycles: 1
+simulate over!
+instruction number:    23
+cycles:                463
+CPI:                   20.1304
+data_hazard number:    11
+load-use number:       4
+data_bypass number:    15
+control_hazard number: 0
+
+Cache hit:             36
+Cache miss:            4
+Cache miss rate:       10%
+
+$ check memory from 0x11518 to 0x1151c
+11518: 01 00 00 00 
+$ check memory from 0x1151c to 0x11520
+1151c: 0f 00 00 00 
+$ check memory from 0x11520 to 0x11524
+11520: 0c 00 00 00 
+$ 

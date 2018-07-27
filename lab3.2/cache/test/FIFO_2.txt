@@ -1,0 +1,133 @@
+*****************************************************
+Total L1 access time:     488688cycles
+Total L1 access number:   162896
+Total L1 miss number:     46870
+Total L1 miss rate:       28.772959%
+Total L1 replace number:  129527
+Total L1 fetch number:    82501
+Total L1 bypass number:   28353
+Total L1 prefetch number: 18517
+
+Total L2 access time:     1380060cycles
+Total L2 access number:   138006
+Total L2 miss number:     18505
+Total L2 miss rate:       13.408837%
+Total L2 replace number:  129515
+Total L2 fetch number:    36950
+Total L2 bypass number:   0
+Total L2 prefetch number: 18505
+
+Total Memory access time: 9245500ns
+Total Require Time: 817642ns
+Total Require: 162896times, hit: 116026times, miss: 46870times
+Miss rate: 28.772959%
+Average memory access time: 5.019411
+****************************************************
+
+*****************************************************
+Total L1 access time:     977376cycles
+Total L1 access number:   325792
+Total L1 miss number:     96716
+Total L1 miss rate:       29.686426%
+Total L1 replace number:  258569
+Total L1 fetch number:    176874
+Total L1 bypass number:   59737
+Total L1 prefetch number: 36979
+
+Total L2 access time:     2876690cycles
+Total L2 access number:   287669
+Total L2 miss number:     36842
+Total L2 miss rate:       12.807080%
+Total L2 replace number:  257400
+Total L2 fetch number:    76351
+Total L2 bypass number:   0
+Total L2 prefetch number: 36842
+
+Total Memory access time: 18663000ns
+Total Require Time: 839626ns
+Total Require: 162896times, hit: 113050times, miss: 49846times
+Miss rate: 30.599892%
+Average memory access time: 5.154368
+****************************************************
+
+*****************************************************
+Total L1 access time:     1466064cycles
+Total L1 access number:   488688
+Total L1 miss number:     156258
+Total L1 miss rate:       31.975002%
+Total L1 replace number:  387395
+Total L1 fetch number:    287535
+Total L1 bypass number:   100825
+Total L1 prefetch number: 55433
+
+Total L2 access time:     4535160cycles
+Total L2 access number:   453516
+Total L2 miss number:     54975
+Total L2 miss rate:       12.121954%
+Total L2 replace number:  383013
+Total L2 fetch number:    121814
+Total L2 bypass number:   0
+Total L2 prefetch number: 54975
+
+Total Memory access time: 28583300ns
+Total Require Time: 906634ns
+Total Require: 162896times, hit: 103354times, miss: 59542times
+Miss rate: 36.552156%
+Average memory access time: 5.565723
+****************************************************
+
+*****************************************************
+Total L1 access time:     1954752cycles
+Total L1 access number:   651584
+Total L1 miss number:     214297
+Total L1 miss rate:       32.888622%
+Total L1 replace number:  516339
+Total L1 fetch number:    400963
+Total L1 bypass number:   140408
+Total L1 prefetch number: 73889
+
+Total L2 access time:     6221880cycles
+Total L2 access number:   622188
+Total L2 miss number:     73021
+Total L2 miss rate:       11.736163%
+Total L2 replace number:  507309
+Total L2 fetch number:    176300
+Total L2 bypass number:   0
+Total L2 prefetch number: 73021
+
+Total Memory access time: 39344400ns
+Total Require Time: 895921ns
+Total Require: 162896times, hit: 104857times, miss: 58039times
+Miss rate: 35.629481%
+Average memory access time: 5.499957
+****************************************************
+
+*****************************************************
+Total L1 access time:     2443440cycles
+Total L1 access number:   814480
+Total L1 miss number:     276920
+Total L1 miss rate:       33.999607%
+Total L1 replace number:  644911
+Total L1 fetch number:    526651
+Total L1 bypass number:   184605
+Total L1 prefetch number: 92315
+
+Total L2 access time:     8029490cycles
+Total L2 access number:   802949
+Total L2 miss number:     91102
+Total L2 miss rate:       11.345926%
+Total L2 replace number:  631514
+Total L2 fetch number:    238679
+Total L2 bypass number:   0
+Total L2 prefetch number: 91102
+
+Total Memory access time: 50888500ns
+Total Require Time: 928681ns
+Total Require: 162896times, hit: 100273times, miss: 62623times
+Miss rate: 38.443547%
+Average memory access time: 5.701067
+****************************************************
+
+Total miss:         276920
+Total access:       814480
+Average miss rate:  33.999607%

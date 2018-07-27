@@ -1,0 +1,42 @@
+fa[32]
+fadd fmul fdiv ......
+
+add : 69120 10*4		11,12,13,14,15,1,2,3,4,5
+qsort : 71352 39*4		1 - 39
+double-float : 10f10(double) 10f60(float)
+simple-function : 69152 10*4		11,12,13,14,15,1,2,3,4,5
+n! : 70968 4			0x00375f00
+mul-div : 69136 10*4	5,10,15,20,25
+
+bool F_bubble = 0;
+bool F_stall =
+	# Conditions for a load/use hazard
+	E_icode in { IMRMOVL, IPOPL } &&
+	 E_dstM in { d_srcA, d_srcB } ||
+	# Stalling at fetch while ret passes through pipeline
+	IRET in { D_icode, E_icode, M_icode };
+
+# Should I stall or inject a bubble into Pipeline Register D?
+# At most one of these can be true.
+bool D_stall = 
+	# Conditions for a load/use hazard
+	E_icode in { IMRMOVL, IPOPL } &&
+	 E_dstM in { d_srcA, d_srcB };
+
+bool D_bubble =
+	# Mispredicted branch
+	(E_icode == IJXX && !e_Cnd) ||
+	# Stalling at fetch while ret passes through pipeline
+	# but not condition for a load/use hazard
+	!(E_icode in { IMRMOVL, IPOPL } && E_dstM in { d_srcA, d_srcB }) &&
+	  IRET in { D_icode, E_icode, M_icode };
+
+# Should I stall or inject a bubble into Pipeline Register E?
+# At most one of these can be true.
+bool E_stall = 0;
+bool E_bubble =
+	# Mispredicted branch
+	(E_icode == IJXX && !e_Cnd) ||
+	# Conditions for a load/use hazard
+	E_icode in { IMRMOVL, IPOPL } &&
+	 E_dstM in { d_srcA, d_srcB};
